@@ -58,7 +58,7 @@ style_mono_accent(
   code_inline_font_size = "16pt",
   header_h1_font_size = "30pt",
   header_h2_font_size = "20pt",
-  header_h3_font_size = "20pt"
+  header_h3_font_size = "16pt"
 )
 ```
 
@@ -94,7 +94,7 @@ SLIDES START --->
 
 --
 
-- Hvorfor er der nogen, der mener, at en liberal immigrationspolitik er en kulturel trussel, mens andre ser immigranter som en værdifulde økonomisk ressource eller en god humanistisk politik?   
+- Hvorfor er der nogen, der mener, at en __liberal immigrationspolitik__ er en kulturel trussel, mens andre ser immigranter som en værdifulde økonomisk ressource eller en god humanistisk politik?   
 
 --
 
@@ -102,7 +102,7 @@ SLIDES START --->
 
 --
 
-- Hvorfor er der nogen, der mener at **klimaforandringer** bør kunne klares med ny teknologi eller en generel CO2-afgift, mens andre er dybt uenige? 
+- Hvorfor er der nogen, der mener at **klimaforandringer** bør kunne klares med *ny teknologi* eller en generel *CO2-afgift*, mens andre er dybt uenige? 
 
 --
 
@@ -111,7 +111,7 @@ SLIDES START --->
 
 --
 
-Hvad vi vil prøve at forstå er, _hvorfor **vi selv**, **vores skøre onkler** og **vores politiske "modstandere"** udtrykker bestemte politiske holdninger og overvejelser_ 
+&rarr; Hvad vi vil prøve at forstå er, _hvorfor **vores skøre onkler**, **vores politiske "modstandere"** og **vi selv** udtrykker bestemte politiske holdninger og overvejelser_ 
 
 ---
 
@@ -146,67 +146,23 @@ __Meningsmålinger som objektiv "temperaturmåling"__
 ]
 
 .pull-right[
-```{r imgtermo, out.width="75%"}
+```{r imgtermo, out.width="70%"}
 include_graphics("media/termometer.jpg")
 ```
 ]
 
 ---
+class: middle
 
-# State the key point
-
-- Løsning: Marriage af information (omgivelser, især elite) og predispositioner (individ) plus kontekst 
+# *Dagens hovedpointe:* Politiske "holdninger" er et ægteskab mellem information (især elitekommunikation) og individuelle prædispositioner plus kontekst/situation
 
 ---
-```{r}
+
+## *Dagens hovedpointe:* Politiske "holdninger" er et ægteskab mellem information (især elitekommunikation) og individuelle prædispositioner plus kontekst/situation
+
+```{r, out.width="85%"}
 include_graphics("media/tegning.jpg")
 ```
----
-
-# Overblik
-
-- Mikro/makro
-
-Samfundsmæssige karakteristika (makro)
-Opinionslederne, Mediedækningen
-Individuel karakteristika (mikro)
-Grundholdning, Opmærksomhed
-
-- Skillelinjer (på systemniveau)
-
-- Vi bevæger os langt ned på mikroniveauet, men ikke kun for at blive dér - også for at forklare og forstå "public opinion" som institution eller vigtig drivkraft i politik. 
-
-- Politisk **adfærd**, institutioner
-
-"a public opinion that is truly public — a public opinion that extends beyond the confines of individual calculation and cohesive social groups" (Carmines & Huckfeldt, 1998)
-
----
-
-# Ugens pensum
-
-**Hvad og hvorfor?**
-
-1. Zaller (1992) - klassiker, bredt overblik, godt udgangspunkt
-
-2. Tesler (2018) - supergod analyse af klimaholdninger med Zaller-framework
-
-3. Andersen & Hansen (2021) "Klimavalget" - kontekst, klimaholdninger i DK og flere holdningsbegreber
-
-*Mange* sider i denne uge! (langt færre til næste uge)
-
----
-
-# State objective and roadmap
-
-1. Intro og hvad er en holdning?
-
-2. Zaller og RAS-modellen
-
-- Fokus på Zaller - den er vigtig og den er god og den giver en rigtig god måde at tænke på holdningsdannelse - og en måde man kan huske!
-
-3. Lidt om de andre tekster, om klimaholdninger om og andre teorier
-
-4. Opsamling
 
 ---
 
@@ -216,15 +172,60 @@ Centralt for mange af statskundskabens grundlæggende diskussioner:
 
 - Den offentlige mening er helt central for demokratiet både i teori og praksis
 
-- Demokrati som "metode" til at samle "folkets" politiske holdninger i et styre
+- **Demokrati** som "metode" til at samle "folkets" individuelle holdninger i et styre
 
 > ”The theorists tell us how a democratic electorate is supposed to behave and we public opinion researchers claim to know something about how the democratic electorate in this country actually behave" (Berelson 1952) 
 
-- Samfundets sociale sammenhængskraft (polarisering)
+--
 
-- Flere meningsmålinger end nogensinde før
+- **Meningsmålinger** og spørgeskemaer som metode til at samle information om verden &rarr; flere end nogensinde før
 
-- Det er interessant! Det er statskundskab! Virkede ekstremt vigtigt, da jeg første gang læste om det
+--
+
+- Vigtigt for samfundets sociale sammenhængskraft (fx polarisering)
+
+--
+
+- Det er interessant! Det er statskundskab! 
+
+---
+
+# Over- og tilbageblik
+
+- Mikroniveau og makroniveau
+
+- Politisk **adfærd**
+
+- Masser af tråde til andre uger, bl.a. politiske **værdier**
+
+---
+
+# Ugens pensum
+
+**Hvad og hvorfor?**
+
+1. Zaller (1992), kap. 1-2 - klassiker, bredt overblik, godt udgangspunkt
+
+2. Tesler (2018) - supergod analyse af klimaholdninger med Zaller-framework
+
+3. Andersen & Hansen (2021) "Klimavalget" - kontekst, klimaholdninger i DK og flere holdningsbegreber
+
+**Mange sider** i denne uge (langt færre til næste uge)
+
+Fokus på Zaller i dag
+
+---
+class: middle
+
+# Plan for resten af forelæsningen
+
+1. Hvad er en holdning?
+
+2. Zaller og "RAS-modellen" - hovedfokus
+
+3. Lidt om de to andre tekster, klimaholdninger og andre relevante teorier/begreber
+
+4. Opsamling: Hvad er holdningsdannelse?
 
 ---
 
@@ -234,7 +235,7 @@ Centralt for mange af statskundskabens grundlæggende diskussioner:
 
 --
 
-Zaller får os til at vente spændt på en definition ... men holder os hen med overvejelser om problemerne ved "holdninger" ... indtil:
+Vi venter spændt på en definition ... endelig efter 7 siders diskussion:
 
 --
 
@@ -244,10 +245,6 @@ Zaller får os til at vente spændt på en definition ... men holder os hen med 
 
 - Behov for procesorienteret model for **svar på holdningsspørgsmål** frem for at tænke holdninger som substantielle og sande ting (Zaller!)
 
---
-
-- Ikke så afgørende, at der ikke er konsensus om definition (er en selvstændig pointe)
-
 ???
 
 Zallers problemer: Non-attitudes, ustabilitet, ikke-krystalliseret, effekter af spørgsmålformulering (og framing) mv.
@@ -256,15 +253,27 @@ Zallers problemer: Non-attitudes, ustabilitet, ikke-krystalliseret, effekter af 
 
 # Hvad er en holdning? Definition, tak!
 
+- Ingen konsensus om definition &rarr; ikke så afgørende og en pointe i sig selv
+
 Indledende løs definition: 
 
 - Udtrykte tanker om eller evaluering af politiske spørgsmål, emner, personer etc. (klima, uddannelse, skat, Mette Frederiksen, Putin)
 
 - Omfatter *ikke* værdier, ideologi, grundholdning, m.m.
 
+--
+
+.pull-left[
 - Stærke, "krystaliserede" **holdninger findes**, men er undtagelsen der bekræfter reglen:
 
-> "[I]t is perfectly reasonable to give heavy weight to one’s own carefully constructed attitudes [...] beliefs and attitudes may be thought of metaphorically as __possessions__ to be protected" (Taber & Lodge, 2006, s. 767)
+> "[I]t is perfectly reasonable to give heavy weight to one’s own carefully constructed attitudes [...] attitudes may be thought of metaphorically as __possessions to be protected__" (Taber & Lodge 2006: 767)
+
+]
+.pull-right[
+```{r, out.width="80%"}
+include_graphics("media/possessions.jpg")
+```
+]
 
 ---
 
@@ -272,7 +281,7 @@ Indledende løs definition:
 
 - **Holdning**, mening, indstilling, overbevisning (opinion, attitude)
 
-- **Præference**, position, støtte til (support for) 
+- **Præference**, position, støtte til (policy preference, position on X, support for X) 
 
 - **Opfattelse**, tanker, vurdering (belief, perception, thoughts, evaluation) 
 
@@ -286,26 +295,23 @@ Men i dag kan vi langt tænke på det meste som "holdninger" i meget bred forsta
 
 ---
 
-# Hvad er den offentlige mening (public opinion)?
+# Den offentlige mening (public opinion)
 
+- Borgernes **aggregerede** holdninger til politiske spørgsmål
 
-- Borgernes udtrykte holdninger til politiske spørgsmål - **aggregeret** - typisk gennem "meningsmålinger"
+- Mere end summen af individuelle holdninger: "a public opinion that is truly public" (Carmines & Huckfeldt 1998)
 
-- Pludselig ikke længere mikroniveau (individers holdninger) &rarr; "den offentlige mening" som institution, der bl.a. lægger pres på politikere
-
---
-
-Adskillige definitioner, eksempelvis: 
-
-1. "the combined personal opinions of adults towards issues of relevance to government" (Erikson et al. 1991: 13)
-
-2. "those opinions held by private persons which governments find it prudent to heed" (Key 1961: 14)
-
-3. "the complex of beliefs expressed by a significant number of persons on an issue of public importance" (Hennessy 1967: 97-98)
+- Ikke længere mikroniveau &rarr; "den offentlige mening" som institution, der bl.a. lægger pres på politikere
 
 --
 
-__Hovedpointen__: Når __*individuel* holdningsdannelse opsummeres__ (og "taler" et tydeligt sprog) kan det blive det blive en afgørende faktor i politik
+Adskillige **definitioner**: 
+
+1. "combined personal opinions of adults towards issues of relevance to government" (Erikson et al. 1991: 13)
+2. "opinions held by private persons which governments find it prudent to heed" (Key 1961: 14)
+3. "complex of beliefs expressed by a significant number of persons on an issue of public importance" (Hennessy 1967: 97-98)
+
+__Pointen:__ Når __*individuel* holdningsdannelse opsummeres__ (og "taler" et tydeligt sprog) kan det blive det blive en afgørende faktor i politik
 
 ---
 class: title-slide, middle, center
@@ -335,11 +341,11 @@ Generel, universel og velskrevet teori om holdningsdannelse
 
 --
 
-- Endnu mere **klassisk** end Zaller (men på nogle punkter også lidt forældet/forkert)
+- Endnu mere **klassisk** end Zaller (men også lidt forældet)
 
 --
 
-- Converse (et al.) registrerede, at folks "holdninger" er voldsomt **ustabile** og **modstridende** og at **viden** om politik er meget begrænset
+- Converse et al. registrerede, at folks "holdninger" er voldsomt **ustabile** og **modstridende** og at **viden** om politik er meget begrænset
 
 --
 
@@ -349,13 +355,14 @@ Generel, universel og velskrevet teori om holdningsdannelse
 
 - Ikke-holdninger (non-attitudes) er meget udbredte
 
-- Folk er "rationally ignorant" (Downs 1957) - men der er stor variation
+- Folk er "rationally ignorant" (Downs 1957) 
 
 ---
 
 # Baggrund: Converse og ustabile (ikke-)holdninger
 
-## Et eksempel
+.pull-left[
+*Et eksempel*
 
 Amerikansk survey (Bishop et al. 1986): 
 
@@ -366,20 +373,26 @@ Dansk survey fra 2005:
 - Ca. 7% har en holdning til **Lovforslag 712**
 
 - Ca. 36% har en holdning til **Nytårspakken** 
-
---
+]
+.pull-right[
+```{r, out.width="70%"}
+include_graphics("media/survey.jpg")
+```
+]
 
 ***
+
+--
 
 - Lille problem: **De findes ikke**
 
 --
 
-- Indikation på meningsløse pseudo-holdninger
+- Indikation på meningsløse pseudo-holdninger (?)
 
 --
 
-- Også stor **ustabilitet**, som ikke kan forklares som meningsfulde holdningsskift
+- Også stor **ustabilitet** - som ikke kan forklares som meningsfulde holdningsskift
 
 ---
 
@@ -387,7 +400,7 @@ Dansk survey fra 2005:
 
 *Zallers løsning:* 
 
-Vil trække på nye indsigter fra **psykologien** og lave en teori om **holdningsdannelse** eller (konstruktion af) **svar på holdningsspørgsmål** i stedet for "holdninger" som noget meget fast og subtantielt
+Vil trække på nye indsigter fra **psykologien** og lave en teori om **holdnings_dannelse_** - eller (konstruktion af) **svar på holdningsspørgsmål** i stedet for "holdninger" som noget meget fast og subtantielt
 
 --
 
@@ -395,13 +408,13 @@ Vil trække på nye indsigter fra **psykologien** og lave en teori om **holdning
 
 1. **Information** (elite-diskurs, kommunikation, beskeder)
 
-2. **Politisk bevidsthed** (kognitivt engagement med et emne, viden, opmærksomhed)
+2. **Politisk bevidsthed** (kognitivt engagement med emnet, viden, opmærksomhed)
 
 3. **Politiske prædispositioner** (grundholdninger, værdier, ideologi) 
 
 4. **Overvejelser** (*considerations*) - alt hvad der kan være relevant for en holdning
 
-5. **Holdningsudsagn** - (konstruerede) svar på politiske spørgsmål = "holdning"
+5. **Holdningsudsagn** - (konstruerede) svar på politiske spørgsmål (= "holdning")
 
 ---
 
@@ -414,86 +427,125 @@ include_graphics("media/tegning.jpg")
 
 # Nøglebegreb 1: Information og elitediskurs
 
-Eliternes (mediernes, politikernes, eksperternes) budskaber
+- Vi eksponeres hele tiden for information fra vores omgivelser
 
-Hvem er eliten? Politikere, embedsmænd, journalister, aktivister, eksperter 
+- Den information som er **politisk relevant** stammer som regel fra eliterne
 
-Hvad det bliver sagt i nyhedsstrømmen
+- Ethvert budskab af potentiel relevans for vores tanker om et politisk emne
 
-- Eller kommunikation
+--
 
-- Aggregeret, ofte af institutionel karakter (fx massemedierne)
+- Den væsentligste informationskilde: **Nyhedsstrømmen og medierne**
 
-- Kan også komme fra direkte samtaler med familie, venner, naboer, kollegaer (men antages implicit at være sjældent og/eller mindre vigtigt)
+    - Men også mere **direkte kommunikation** fra (andre) eliter (politikere, eksperter)
+    - Kan også komme fra **samtaler** med familie, venner, naboer, kollegaer 
+    - Men det antages implicit at være sjældent og/eller mindre vigtigt
+    - Egne **erfaringer** (?)
+--
+
+- Hvem er "**eliten**"? Politikere, embedsmænd, journalister (medierne), aktivister, eksperter, etc.
+
+- **Elitediskurs**: Det sprog og de referencerammer, som eliten bruger, når de taler om emnet
 
 ---
 
 # Nøglebegreb 2: Politisk bevidsthed
 
-Politisk opmærksomhed
-Faktuel politisk viden
-Hvor ofte man læser avis
-Ser nyheder på TV
-Politiske interesse
+- Kombination af to ting: 
 
+    - (1) **Opmærksomhed**: Hvor meget følger man med? Hvor meget eksponeres man for nyheder, elitediskurs osv.?
+    - (2) **Viden og forståelse** - Hvor godt forstår man budskaberne?  
 
-- "Attentiveness to elite political discourse" = political awareness
+- Mange relaterede ord: Bevidsthed, opmærksomhed, viden, ekspertise, kompleksitet, involvering, sofistikation, skarphed, engagement
+    - Jeg bruger mest **politisk bevidsthed** (*political awareness*)
 
-Synonymer og forskellige måder at måle det ...
+- **Politisk bevidsthed** er i teorien **emnespecifikt** - "kognitivt engagement med et politisk emne" - men i praksis mere generelt
 
-Ene ekstrem: Twittersegmentet, dem der kan navnene på alle regeringens ministre, får push-notifikationer fra diverse nyhedsapps, snakker om politik med andre osv.
+--
 
-Anden ekstrem: Dem der ikke aner, hvor mange der sidder i folketinget eller hvilken kommune, de selv bor i, kun hører de største mest personligt relevante nyheder (måske fra andre), ikke interesserer sig og følger med
+**Operationalisering/måling:**
 
-> "(1) people vary greatly in their general attentiveness to politics, regardless of particular issues; and (2) that average **overall levels of information are quite low**"
+- neutral og faktuel politisk **viden** (bedst - mest objektiv)
+- politisk **interesse**
+- **medieforbrug** (avislæsning, TV-nyheder, nyheder på sociale medier osv.)
+- **uddannelse**
 
-Zaller side 21: opmærksomhed på politik (nyheder osv.) *og* forståelse af politisk information. Absorbering! Kognitivt engagement! Modtagelse/eksponering *og* forståelse! 
+---
 
-Måling! Bedste: neutral faktuel politisk viden (mest objektiv). I praksis bruges (selvrapporteret) politisk interesse, medieforbrug og uddannelse ofte som proxier. 
+# Nøglebegreb 2: Politisk bevidsthed
 
-"Kognitivt engagement med et politisk emne"
+.pull-left[
+**Den ene ekstrem**: 
 
-???
+- Twittersegmentet
+- kan navnene på alle regeringens ministre
+- får push-notifikationer fra nyhedsapps
+- diskuterer ofte om politik
+- lang videregående uddannelse
+- osv.
+]
 
-Zaller (1992: 21): Politisk bevidsthed er en af flere mulige labels, fx ekspertise, kompleksitet, involvering, opmærksomhed, sofistikation, skarphed.  
+.pull-right[
+**Den anden ekstrem**: 
+
+- ved ikke hvilke partier, der sidder i regering
+- aner ikke hvilken kommune, de bor i
+- hører kun de allermest personligt relevante nyheder (ofte gennem andre)
+- interesserer sig ikke i politik overhovedet
+- kort uddannelse
+- osv.
+]
+
+<br>
+> "people vary greatly in their general attentiveness to politics [...] **overall levels of information are quite low"** (Zaller)
 
 ---
 
 # Nøglebegreb 3: Politiske prædispositioner
 
-- Tilbøjelighed til at acceptere ny information ... Styret af forskellige individuelle faktorer: interesser, værdier, erfaringer, ideologi etc.  
+- Individuelle **grundholdninger**, ideologi, værdier, interesser, erfaringer etc.
+
+- Regulerer tilbøjelighed til at acceptere og optage ny information 
 
 - Relativt stabile
 
-- Regulerer optagelsen af information i holdningsdannelse ...
+- Kan i sig selv udspringe af mange ting (livserfaringer og oplevelser, socialisering i barndom og ungdom, social status, genetik, partitilhørsforhold, etc. etc.)
 
-- Påvirkes ikke på kort sigt af information eller af eliten 
+- To prædispositioner fylder særligt meget hos Zaller: 
 
-- Kan komme af mange ting, livserfaringer og oplevelser af politisk karakter, socialisering i barndom og ungdom, social status, genetik, partitilhørsforhold
-
-- To prædispositioner fylder meget: politiske værdier (ofte kaldet **grundholdninger**) og ideologi (ofte højre-venstre-placering, liberal/konservativ, rød/blå)
+    - **politiske værdier** (ofte kaldet *grundholdninger*) 
+    - **ideologi** (ofte *højre-venstre-placering*)
 
 ???
 
-Værdier: Økonomisk individualisme (kollektivisme), humanisme, environmentalism
+Værdier: Økonomisk individualisme (kollektivisme), humanisme, environmentalism, libertær vs. autoritær, materialisme vs. postmaterialisme
 
 ---
 
+.pull-left[
+```{r, out.width="80%"}
+include_graphics("media/zallerbook.jpg")
+```
+]
+
+.pull-right[
 # Receive-Accept-Sample (RAS)
 
-**RAS-modellen** for holdningsdannelse er baseret på - eller måske endda defineret ved - følgende **fire antagelser**:
+**RAS-modellen** for holdningsdannelse er baseret på - eller måske endda *defineret ved* - følgende **fire antagelser**:
 
-1. Modtagelsesantagelsen (*Reception*) - **R** 
+1. **Modtagelse**santagelsen (*Reception*) - **R** 
 
-2. Modstandsantagelsen (*Resistance*) - **A**
+2. **Modstand**santagelsen (*Resistance*) - **A**
 
-3. Tilgængelighedsantagelsen (*Availability*) - **S**  
+3. **Tilgængelighed**santagelsen (*Availability*) - **S**  
 
-4. Svarantagelsen (*Response*) - **S** 
+4. **Svar**antagelsen (*Response*) - **S** 
 
 (okay, måske burde modellen have heddet RAS**S** ... eller RRAR)
 
 Lad os tage de fire antagelser, en efter en &rarr;
+
+]
 
 ---
 
@@ -615,18 +667,22 @@ include_graphics("media/mindmap.png")
 
 En politisk **holdning** - *svaret på et holdningsspørgsmål i en given situation* - kan forklares i **tre led**: 
 
-- (1) **R**eceive:
+- **(R)eceive:**
 
     - Du har modtaget (hørt og forstået) ny information eller argumenter
 
-- (2) **A**ccept:
+- **(A)ccept:**
 
     - Du har accepteret information eller argumenter, hvis de ikke var i klar modstrid med dine grundholdninger
 
-- (3) **S**ample:
+- **(S)ample:**
 
-    - Du sampler (udtrækker) mellem 0 og 7-ish (ofte 1-2) overvejelser/argumenter, som tilsammen (gennemsnit) giver dit svar
+    - Du sampler (udtrækker) mellem 0 og 7-ish (ofte 1-2) tilgængelige overvejelser/argumenter, som tilsammen (gennemsnit) giver dig dit svar
 
+---
+```{r}
+include_graphics("media/tegning.jpg")
+```
 ---
 
 # Nogle implikationer af RAS-modellen
@@ -641,7 +697,7 @@ En politisk **holdning** - *svaret på et holdningsspørgsmål i en given situat
 
 - **Problem**: Den konkrete formulering af et holdningsspørgsmål kan give forskellige svar - hvorfor?
 
--- 
+--
 
 - **Svar**: Igen fordi forskellige overvejelser aktiveres gennem forskellige konnotationer. Konteksteffekter, framing osv. 
 
@@ -699,48 +755,45 @@ En politisk **holdning** - *svaret på et holdningsspørgsmål i en given situat
 
 # Kritik af Zaller
 
-- Stærke antagelser! Hvad siger I til den her? 
+- Stærke antagelser! **Hvad siger I til den her?** 
 
-> "This postulate [RAS-modells A1 og A2] **makes no allowance for citizens to think, reason, or deliberate about politics**: If citizens are well informed, they react mechanically to political ideas on the basis of external cues about their partisan implications, and if they are too poorly informed to be aware of these cues, they tend to uncritically accept whatever ideas they encounter" (Zaller 1992: 45)
+> "[RAS-modellen] **makes no allowance for citizens to think, reason, or deliberate about politics**: If citizens are well informed, they react mechanically to political ideas on the basis of external cues about their partisan implications, and if they are too poorly informed to be aware of these cues, they tend to uncritically accept whatever ideas they encounter" (Zaller 1992: 45)
+
+--
+
+- Ligeledes antagelsen om **generel lav politisk bevidsthed**: Realistiske  - også i Danmark? 
+
+--
+
+- Danskerne følger mere med i politik og ved mere om samfundet &rarr; vi ligger muligvis langt til højre på Zallers kurver for politisk bevidsthed
 
 ---
 
 # Kritik af Zaller
 
-- Modellen har tendens til at blive (urealistisk) mekanisk og deterministisk
+- Modellen har tendens til at blive (urimeligt) **mekanisk og deterministisk**
 
 --
 
-- Hvor kommer grundholdninger fra? Flytter han bare forklaringsproblemet? ("Beyond the scope")
+- Hvor kommer **grundholdninger** fra? Flytter han bare forklaringsproblemet? ("beyond the scope")
 
 --
 
-- Er Zallers antagelser om generel lav politisk bevidsthed realistiske - også i Danmark? 
+- Nogle af begreberne, fx **information**, er meget brede, men anvendes på en måde meget snævert
 
 --
 
-- Muligvis ikke: Danskerne følger mere med i politik og ved mere om samfundet &rarr; vi ligger muligvis langt til højre på Zallers kurver for politisk bevidsthed
+- Zaller lægger ekstremt meget vægt på kognition (frem for affekt, følelser, krop, osv.)
 
---
 
-- Zaller lægger ekstremt meget vægt på kognition (frem for affekt, følelser, krop)
-
--- 
-
-- "Information" - for snævert eller for bredt begreb? "attempts to capture what is most important about what is happening in the world" (inkl. framing) ... "persuasive messages" ...
-
----
-```{r}
-include_graphics("media/tegning.jpg")
-```
 ---
 class: title-slide, middle
 
-# Nu har vi været igennem det vigtigste (Zaller)
-
-Men der er mere ... 
+# Nu har vi været igennem det vigtigste
 
 .pull-left[
+
+Men der er mere ... (muligt at vi ikke når det hele)  
 
 1. Kort om Tesler (2018) og klimaholdninger i USA
 
@@ -750,7 +803,6 @@ Men der er mere ...
 
 4. Afrunding
 
-(Sandynligt at vi ikke det hele ...) 
 ]
 
 .pull-right[
@@ -794,10 +846,10 @@ include_graphics("media/tesler1.png")
 
 **Wow!** (s. 317): 
 
-- "*the least knowledgeable liberals and conservatives had almost __identical__ global warming opinions*"
-- "*the best-informed __liberals and conservatives were separated by a whopping 80% points__*"
+- "*the __least knowledgeable__ liberals and conservatives had almost __identical__ global warming opinions*"
+- "*the __best-informed__ liberals and conservatives were __separated by a whopping 80% points__*"
 
-- Forklaring: Elite-retorik (information)
+- Forklaring: Elite-retorik (information) og modstand
 ]
 
 --
@@ -914,7 +966,7 @@ Figur 9.1 i Hansen & Andersen (2021: 215)
 
 ---
 
-# Dagsordenfastsættelse
+# Kort om dagsordenfastsættelse
 
 --
 
@@ -935,13 +987,13 @@ Figur 9.1 i Hansen & Andersen (2021: 215)
 ```{r imgclimagenda}
 include_graphics("media/figure1_climate-agendas_new.png")
 ```
-Klimasagen i Danmark, 2019: Saliens og mediedækning<br>(Kilde: Damsbo-Svendsen, under udgivelse)
+Klimasagen i DK, 2019: Saliens og mediedækning<br>(Kilde: Damsbo-Svendsen, under udgivelse)
 
 ]
 
 ---
 
-# Dagsordenfastsættelse
+# Kort om dagsordenfastsættelse
 
 .pull-left[
 
@@ -957,7 +1009,7 @@ Ifølge min egen forskning (pt. i peer-review):
 ```{r imgclimagenda2}
 include_graphics("media/figure1_climate-agendas_new.png")
 ```
-Klima i Danmark, 2019: Saliens og mediedækning
+Klimasagen i DK, 2019: Saliens og mediedækning<br>(Kilde: Damsbo-Svendsen, under udgivelse)
 
 ]
 
@@ -969,10 +1021,10 @@ Klima i Danmark, 2019: Saliens og mediedækning
 
 Det vigtigste at huske er: 
 
----
-```{r}
+```{r, out.width="65%"}
 include_graphics("media/tegning.jpg")
 ```
+
 ---
 
 # Opsummering
@@ -998,15 +1050,15 @@ Det vigtigste at huske er:
 
 - Næste uge en anden kanonisk holdningsdannelsesteori - fra politisk psykologi: 
 
-**Motivated reasoning**
+    - **Motivated reasoning**
 
 - **Heuristikker**
 
 - Overblik over holdningsdannelsesteori
 
-***
+<br><br>
 
-**Spørgsmål?**
+# Spørgsmål?
 
 ---
 class: title-slide, center, middle
@@ -1017,9 +1069,8 @@ class: title-slide, center, middle
 
 ***
 
-.pull-left[
 
-### Til de nysgerrige på klimaholdninger:
+### Til de nysgerrige på surveys om klimaholdninger:
 
 Valgundersøgelsen (DK): https://www.valgprojektet.dk/pages/page.asp?pid=308&l=dk
 
