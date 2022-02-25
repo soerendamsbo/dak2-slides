@@ -1009,11 +1009,13 @@ Klimasagen i DK, 2019: Saliens og mediedækning<br>(Kilde: Damsbo-Svendsen, unde
 
 # Opsummering
 
-- Hvad er en politisk holdning? Forkert spørgsmål. Tænk i stedet, hvad er **holdningsdannelsesprocessen**, hvad er de vigtige variable, hvad er konteksten, og hvad er resultatet (holdningsudsagnet)?
+- Hvad er en politisk holdning? 
 
-Det vigtigste at huske er: 
+- Forkert spørgsmål. Tænk i stedet, hvad er **holdningsdannelsesprocessen**, hvad er de vigtige **variable**, hvad er **konteksten**, og hvordan former det **holdningsudsagnet**?
 
-```{r, out.width="65%"}
+--
+
+```{r, out.width="60%"}
 include_graphics("media/tegning.jpg")
 ```
 
@@ -1021,18 +1023,19 @@ include_graphics("media/tegning.jpg")
 
 # Opsummering
 
-- Hvad er en politisk holdning? Forkert spørgsmål. Tænk i stedet, hvad er **holdningsdannelsesprocessen**, hvad er de vigtige variable, hvad er konteksten, og hvad er resultatet (holdningsudsagnet)?
+- Hvad er en politisk holdning? 
 
-Det vigtigste at huske er: 
+- Forkert spørgsmål. Tænk i stedet, hvad er **holdningsdannelsesprocessen**, hvad er de vigtige **variable**, hvad er **konteksten**, og hvordan former det **holdningsudsagnet**?
 
 - **Information** (omgivelser, eliter, medier) og **individuelle karakteristika** (prædispositioner) interagerer og former de overvejelser, der anvendes til at konstruere en "holdning" til sitautionen
 
 --
 
 - RAS-modellen:
-    - **Receive (modtagelse)** - du har hørt og forstået en række af information og argumenter
-    - **Accept (modstand)** - du har accepteret det, der ikke har været i klar modstrid med dine grundholdninger (værdier, politisk ideologi, mv.)
-    - **Sample (tilgængelighed og svar)** - du udtrækker nogle overvejelser i situationen og gennemsnittet af disse afgør dit svar
+
+    - **Receive (modtagelse)** - du har hørt og forstået information og argumenter
+    - **Accept (modstand)** - du har accepteret det, der ikke var i klar modstrid med dine grundholdninger
+    - **Sample (tilgængelighed og svar)** - du udtrækker nogle overvejelser i situationen og svarer ud fra gennemsnittet
     
 ---
 
