@@ -290,6 +290,8 @@ Men i dag kan vi langt tænke på det meste som "holdninger" i meget bred forsta
 
 # Den offentlige mening (public opinion)
 
+.pull-left[
+
 - Borgernes **aggregerede** holdninger til politiske spørgsmål
 
 - Mere end summen af individuelle holdninger: 
@@ -297,17 +299,25 @@ Men i dag kan vi langt tænke på det meste som "holdninger" i meget bred forsta
 
 - Ikke længere (blot) **mikroniveau** &rarr; "den offentlige mening" som institution, der bl.a. lægger pres på politikere
 
+]
+
 --
+
+.pull-right[
 
 Adskillige **definitioner**: 
 
 1. "combined personal opinions of adults towards issues of relevance to government" (Erikson et al. 1991: 13)
 2. "opinions held by private persons which governments find it prudent to heed" (Key 1961: 14)
 3. "complex of beliefs expressed by a significant number of persons on an issue of public importance" (Hennessy 1967: 97-98)
+2
+]
 
 --
 
-__Pointen:__ Når __*individuel* holdningsdannelse opsummeres__ (og "taler" et tydeligt sprog) kan det blive det blive en afgørende faktor i politik
+<br><br>
+
+- Pointe: __Når *individuel* holdningsdannelse opsummeres__ - og "taler" et tydeligt sprog - kan det være en afgørende faktor i **politik**
 
 ---
 class: title-slide, middle, center
