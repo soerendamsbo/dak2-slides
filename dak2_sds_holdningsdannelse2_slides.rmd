@@ -3,7 +3,7 @@ title: "Politisk holdningsdannelse II:<br>Motivated reasoning and heuristics"
 subtitle: "Dansk og Komparativ Politik 2 - forelæsning #5<br>[soerendamsbo.github.io/dak2-slides/<br>dak2_sds_holdningsdannelse2_slides.html](https://soerendamsbo.github.io/dak2-slides/dak2_sds_holdningsdannelse2_slides.html)"
 author: "Søren Damsbo-Svendsen<br>[soerendamsbo.github.io](https://soerendamsbo.github.io)"
 institute: "Institut for Statskundskab<br>Københavns Universitet"
-date: "`r format(Sys.Date(), '%d-%m-%Y')`"
+date: "07-03-2022"
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
@@ -166,6 +166,29 @@ Design! Elegant. Giv eksempler...
 3. Conf.
 
 Evt. H4-H6.
+
+---
+
+# Seks hypoteser definerer motivated skepticsm/reasoning
+
+Hyp 1: Man vil vurdere understøttende argumenter til ens grundholdninger stærkere end ikke understøttende. (prior attitude effect)
+Hyp 2: Man vil bruge mere omtanke på at modargumentere påstande, der er i modstrid med ens grundholdninger end argumenter, som er i tråd med ens grundholdninger. (disconfirmation bias)
+Hyp 3: Man søger afsendere hvis argumenter, man tror understøtte ens grundholdninger.(confirmation bias)
+Hyp 4: konsekvens af hyp 1-3: Selv hvis man udsættes for balancerede information medfører det holdningspolarisering. (attitude polarization)
+Hyp 5: hyp 1-4 forstærkes hvis man har stærke/ekstreme grundholdninger (attitude strength effect)
+Hyp 6: hyp 1-4 forstærkes hvis man har stor viden og forståelse for et emne (sophistication effect)
+
+---
+
+H1: prior attitude effect  finder støtte + H5 (attitude strength effect) + H6 (sophistication effect)
+
+---
+
+Disconfirmation bias
+
+---
+
+Confirmation
 
 ---
 

@@ -3,7 +3,7 @@ title: "Politisk holdningsdannelse I:<br>Zaller's RAS-model og (klima)holdninger
 subtitle: "Dansk og Komparativ Politik 2 - forelæsning #4<br>[soerendamsbo.github.io/dak2-slides/<br>dak2_sds_holdningsdannelse1_slides.html](https://soerendamsbo.github.io/dak2-slides/dak2_sds_holdningsdannelse1_slides.html)"
 author: "Søren Damsbo-Svendsen<br>[soerendamsbo.github.io](https://soerendamsbo.github.io)"
 institute: "Institut for Statskundskab<br>Københavns Universitet"
-date: "`r format(Sys.Date(), '%d-%m-%Y')`"
+date: "28-02-2022"
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
@@ -62,32 +62,6 @@ style_mono_accent(
 )
 ```
 
-<!--- NOTER
-
-- Klimaeksempler (evt. klimagrafer)
-- Tegninger
-- Øvelse(r): Tænk over en holdning, du føler stærkt for, og hvordan/hvilken information den afhænger af, omvendt tænk på en der er uafhængig af information i snæver forstand, tænk over om det er en realistisk antagelse…
-- Opdel i 4-6 blokke
-- Billeder! Grafer! memes! 
-- Nævn min egen forskning? 
-- Nævn måling af holdninger med surveys ??
-
-Sidste noter til Zaller:
-
-- En generel teori (på tværs af issues)
-- Side 1: Ideer. Folk varierer i deres opmærksomhed og eksponering. Folk kan kun reagere kritisk på information, hvis de har viden. Folk har ikke faste holdninger til alting, men konstruerer "holdningsudsagn". Folk bruger primært de ideer, der mest tilgængelige. 
-- Vigtigste variable: Politisk awareness og political values
-- Svaghed (styrke?): Prædispositioner (værdier, grundholdninger, ideologi mv. "values and other predisposition") er - med vilje - meget bredt og åbent formuleret... Op til andre at opklare og uddybe, hvad der er de vigtigste "moderatorer". 
-- I høj grad baseret på politisk psykologi, men vinklet på politologi (ikke nødvendigvis overbevisende eller fagsprog for psykologer)
-- Massekommunikation
-
-- Øvelse: Snak om en holdning, der er vigtig for en af jer. Hvilken information/kommunikation/elitediskurs er den blevet influeret af?
-- Øvelse: Mikropause. Gå ind på en nyhedsapp eller website og læs den øverste nyhed og tænk over, om der er noget relevant information til jeres holdning til emnet. Mærk efter, hvordan det spiller sammen med jeres grundholdninger, om I er tilbøjelige til at acceptere det eller ej.
-
-
-
-SLIDES START --->
-
 # Velkommen til holdningsdannelse
 
 **Hvad er det, vi gerne vil kunne forstå og forklare?**
@@ -107,7 +81,7 @@ SLIDES START --->
 --
 
 - Hvorfor er der endda nogen, der **slet ikke tror på menneskeskabte klimaforandringer**
-    - (omkring 1/3 i USA, 1/11 i EU og 1/17 i DK)
+    - &rarr; omkring 1/3 i USA, 1/11 i EU og 1/17 i DK
 
 --
 
@@ -119,10 +93,12 @@ SLIDES START --->
 
 .left-column[
 <br>
-Og så vi vil forsøge at forstå "**den offentlige mening**", og hvad vi skal lægge i holdningsforskning og **meningsmålinger** som for eksempel **&rarr;** 
+- Og så vi vil forsøge at forstå **"den offentlige mening"**
+
+- hvad vi skal lægge i holdningsforskning og **meningsmålinger** som f.eks. **&rarr;** 
 ]
 .right-column[
-```{r imgpublic, out.width="78%"}
+```{r imgpublic, out.width="78%", fig.cap="Kilde: Bayes & Druckman (2021)"}
 include_graphics("media/po.png")
 ```
 ]
@@ -174,7 +150,7 @@ Centralt for mange af statskundskabens grundlæggende diskussioner:
 
 - **Demokrati** som "metode" til at samle "folkets" individuelle holdninger i et styre
 
-> ”The theorists tell us how a democratic electorate is supposed to behave and we public opinion researchers claim to know something about how the democratic electorate in this country actually behave" (Berelson 1952) 
+> ”The theorists tell us how a democratic electorate is supposed to behave and we __public opinion researchers__ claim to know something about how the democratic electorate in this country actually behave" (Berelson 1952) 
 
 --
 
@@ -219,13 +195,24 @@ class: middle
 
 # Plan for resten af forelæsningen
 
+.pull-left[
+
 1. Hvad er en holdning?
 
 2. Zaller og "RAS-modellen" - hovedfokus
 
-3. Lidt om de to andre tekster, klimaholdninger og andre relevante teorier/begreber
+3. Lidt om de to andre tekster, klimaholdninger og relateret teori
 
-4. Opsamling: Hvad er holdningsdannelse?
+4. Opsamling &rarr; Hvad er holdningsdannelse?
+
+]
+
+.pull-right[
+```{r, out.width="60%"}
+include_graphics("media/flatearth.jpg")
+```
+
+]
 
 ---
 
@@ -239,11 +226,17 @@ Vi venter spændt på en definition ... endelig efter 7 siders diskussion:
 
 --
 
-> "I abandon the conventional but implausible view that citizens typically possess __"true attitudes"__ on every issue about which a pollster may happen to inquire, and instead propose a model of how __individuals construct opinion reports__ in response to the particular stimuli that confront them" (s. 35).
+.pull-left[
+> "I abandon the conventional but implausible view that citizens typically possess __"true attitudes"__ on every issue about which a pollster may happen to inquire, and instead propose a model of how __individuals construct opinion reports__ in response to the particular stimuli that confront them" (s. 35)
+]
+
+.pull-right[   
+   
+]   
 
 --
 
-- Behov for procesorienteret model for **svar på holdningsspørgsmål** frem for at tænke holdninger som substantielle og sande ting (Zaller!)
+<br>&rarr; Behov for mere procesorienteret model for **svar på holdningsspørgsmål** - frem for at tænke holdninger som substantielle og sande ting
 
 ???
 
@@ -257,7 +250,7 @@ Zallers problemer: Non-attitudes, ustabilitet, ikke-krystalliseret, effekter af 
 
 Indledende løs definition: 
 
-- Udtrykte tanker om eller evaluering af politiske spørgsmål, emner, personer etc. (klima, uddannelse, skat, Mette Frederiksen, Putin)
+- Udtrykte tanker om eller evaluering af politiske spørgsmål, emner, personer etc. (klima, uddannelse, skat, vacciner, Mette Frederiksen)
 
 - Omfatter *ikke* værdier, ideologi, grundholdning, m.m.
 
@@ -299,9 +292,10 @@ Men i dag kan vi langt tænke på det meste som "holdninger" i meget bred forsta
 
 - Borgernes **aggregerede** holdninger til politiske spørgsmål
 
-- Mere end summen af individuelle holdninger: "a public opinion that is truly public" (Carmines & Huckfeldt 1998)
+- Mere end summen af individuelle holdninger: 
+    - "*a public opinion that is truly public*" (Carmines & Huckfeldt 1998)
 
-- Ikke længere mikroniveau &rarr; "den offentlige mening" som institution, der bl.a. lægger pres på politikere
+- Ikke længere (blot) **mikroniveau** &rarr; "den offentlige mening" som institution, der bl.a. lægger pres på politikere
 
 --
 
@@ -310,6 +304,8 @@ Adskillige **definitioner**:
 1. "combined personal opinions of adults towards issues of relevance to government" (Erikson et al. 1991: 13)
 2. "opinions held by private persons which governments find it prudent to heed" (Key 1961: 14)
 3. "complex of beliefs expressed by a significant number of persons on an issue of public importance" (Hennessy 1967: 97-98)
+
+--
 
 __Pointen:__ Når __*individuel* holdningsdannelse opsummeres__ (og "taler" et tydeligt sprog) kan det blive det blive en afgørende faktor i politik
 
@@ -375,7 +371,7 @@ Dansk survey fra 2005:
 - Ca. 36% har en holdning til **Nytårspakken** 
 ]
 .pull-right[
-```{r, out.width="70%"}
+```{r, out.width="60%"}
 include_graphics("media/survey.jpg")
 ```
 ]
@@ -593,12 +589,12 @@ include_graphics("media/Picture2.png")
 - Tendens til at dem **midt på skalaen** for politisk bevidsthed er mest påvirkelige (gælder dog ikke altid)
 ]
 .pull-right[
-```{r img2, out.width="75%"}
+```{r img2, out.width="72%"}
 include_graphics("media/paavirkning.png")
 ```
 ]
 
-```{r, out.width="75%"}
+```{r, out.width="65%"}
 include_graphics("media/bevidsthed-paavirkning.png")
 ```
 
@@ -644,7 +640,7 @@ include_graphics("media/mindmap.png")
 
 # RAS 4/4: Svaret - "holdningen"
 
-- Hvad er en holdning så? Eller rettere: Hvad er (survey)svaret?
+- Hvad er en holdning så? Eller rettere - hvad er (survey)**svaret**?
 
 --
 
@@ -656,7 +652,7 @@ include_graphics("media/mindmap.png")
 
 --
 
-- Men det er ikke en ægte/sand holdning. Det er "holdningsudsagn"
+- Det er ikke en ægte/sand holdning. Det er et "holdningsudsagn"
 
 --
 
@@ -689,21 +685,17 @@ include_graphics("media/tegning.jpg")
 
 - **Problem**: Forskningen før Zaller indikerede meget ustabile holdninger
 
---
-
-- **Svar**: Varierende svar skyldes ikke, at man ændrer holdning. De skyldes, at man **aktiverer (sampler) andre overvejelser**. 
+- **Svar**: Varierende svar skyldes ikke, at man ændrer holdning. Det skyldes, at man **aktiverer (sampler) andre overvejelser**. 
 
 --
 
-- **Problem**: Den konkrete formulering af et holdningsspørgsmål kan give forskellige svar - hvorfor?
-
---
+- **Problem**: Den konkrete **formulering** af et holdningsspørgsmål kan give forskellige svar - hvorfor?
 
 - **Svar**: Igen fordi forskellige overvejelser aktiveres gennem forskellige konnotationer. Konteksteffekter, framing osv. 
 
 --
 
-- Mange har **stabile grundholdninger**. Fluktuationer i holdningssvar skyldes også uigennemtænkte, dårligt formulerede eller meget abstrakte **spørgsmål** (= målefejl)
+- Mange har **stabile grundholdninger**. Fluktuationer i holdningssvar skyldes (også) uigennemtænkte, dårligt formulerede eller meget abstrakte **spørgsmål** (= målefejl)
 
 ---
 
