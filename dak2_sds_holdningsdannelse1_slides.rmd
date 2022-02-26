@@ -71,30 +71,30 @@ style_mono_accent(
 
 --
 
-- Hvorfor er der nogen, der mener, at en __liberal immigrationspolitik__ er en kulturel trussel, mens andre ser immigranter som en værdifulde økonomisk ressource eller en god humanistisk politik?   
+- Hvorfor **vaccinemodstand** er særligt udbredt i bestemte segmenter af befolkningen?
 
 --
 
-- Hvorfor er **vaccinemodstand** særligt udbredt i bestemte segmenter af befolkningen?
+- __Liberal immigrationspolitik__ - kulturel trussel, værdifuld økonomisk ressource, god humanistisk politik?   
 
 --
 
-- Hvorfor er der nogen, der mener at **klimaforandringer** bør kunne klares med *ny teknologi* eller en generel *CO2-afgift*, mens andre er dybt uenige? 
+- **Klimaforandringer** - bør det håndteres med *ny teknologi* eller en generel *CO2-afgift*?
 
 --
 
 - Hvorfor er der endda nogen, der **slet ikke tror på menneskeskabte klimaforandringer**
-    - omkring 1/3 i USA, 1/11 i EU og 1/17 i DK
+    - *omkring 1/3 i USA, 1/11 i EU og 1/17 i DK*
 
 --
 
-&rarr; Hvad vi vil prøve at forstå er, _hvorfor **vores skøre onkler**, **vores politiske "modstandere"** og **vi selv** udtrykker bestemte politiske holdninger og overvejelser_ 
+&rarr; Vi vil prøve at forstå, _hvorfor **vores skøre onkler**, vores **politiske "modstandere"** og **vi selv** udtrykker bestemte politiske holdninger og overvejelser_ 
 
 ---
 
 # Velkommen til holdningsdannelse 
 
-- Og så vi vil forsøge at forstå **"den offentlige mening"** og **meningsmålinger** **&darr;** 
+Og så vi vil forsøge at forstå **"den offentlige mening"** og **meningsmålinger** **&darr;** 
 
 ```{r imgpublic, out.width="55%", fig.cap="Kilde: Bayes & Druckman (2021)"}
 include_graphics("media/po.png")
@@ -115,7 +115,7 @@ __Meningsmålinger som objektiv "temperaturmåling"__
 
 4. Person tænker efter og informerer Gallup om sin holdning
 
-5. Gallup opsummerer og rapporterer holdningerne for alle de adspurgte personer &rarr; **den offentlige mening**
+5. Gallup opsummerer og rapporterer holdningerne for alle adspurgte personer som "den offentlige mening"
 ]
 
 .pull-right[
@@ -141,9 +141,7 @@ include_graphics("media/tegning.jpg")
 
 # Hvorfor er det vigtigt at studere holdningsdannelse?
 
-Centralt for mange af statskundskabens grundlæggende diskussioner:
-
-- Den offentlige mening er helt central for demokratiet både i teori og praksis
+- Borgernes politiske holdninger er helt centralt for **demokratiet** - i teori og praksis - og andre af statskundskabens grundlæggende diskussioner
 
 - **Demokrati** som "metode" til at samle "folkets" individuelle holdninger i et styre
 
@@ -155,17 +153,17 @@ Centralt for mange af statskundskabens grundlæggende diskussioner:
 
 --
 
-- Vigtigt for samfundets sociale sammenhængskraft (fx polarisering)
+- Vigtigt for samfundets sammenhængskraft (fx problem med polarisering)
 
 ---
 
 # Over- og tilbageblik
 
-- Mikroniveau og makroniveau
+- **Mikroniveau* og makroniveau
 
 - Politisk **adfærd**
 
-- Masser af tråde til andre uger, bl.a. politiske **værdier**
+- Masser af tråde til andre uger, bl.a. **politiske værdier** i sidste uge
 
 ---
 
@@ -183,7 +181,7 @@ Centralt for mange af statskundskabens grundlæggende diskussioner:
 
 <br>
 
-Fokus på Zaller i dag
+*Fokus på Zaller i dag*
 
 ---
 class: middle
@@ -301,15 +299,17 @@ Men i dag kan vi langt tænke på det meste som "holdninger" i meget bred forsta
 
 Adskillige **definitioner**: 
 
-1. "combined personal opinions of adults towards issues of relevance to government" (Erikson et al. 1991: 13)
-2. "opinions held by private persons which governments find it prudent to heed" (Key 1961: 14)
-3. "complex of beliefs expressed by a significant number of persons on an issue of public importance" (Hennessy 1967: 97-98)
+> "combined personal opinions of adults towards issues of relevance to government" (Erikson et al. 1991: 13)
+
+> "opinions held by private persons which governments find it prudent to heed" (Key 1961: 14)
+
+> "complex of beliefs expressed by a significant number of persons on an issue of public importance" (Hennessy 1967: 97-98)
 2
 ]
 
 --
 
-<br><br>
+<br>
 
 - Pointe: __Når *individuel* holdningsdannelse opsummeres__ - og "taler" et tydeligt sprog - kan det være en afgørende faktor i **politik**
 
@@ -448,8 +448,8 @@ include_graphics("media/tegning.jpg")
 
 - Kombination af to ting: 
 
-    - (1) **Opmærksomhed**: Hvor meget følger man med? Hvor meget eksponeres man for nyheder, elitediskurs osv.?
-    - (2) **Viden og forståelse** - Hvor godt forstår man budskaberne?  
+    - **Opmærksomhed**: Hvor meget følger man med? Hvor meget eksponeres man for nyheder, elitediskurs osv.?
+    - **Viden og forståelse** - Hvor godt forstår man budskaberne?  
 
 --
 
