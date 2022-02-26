@@ -1,5 +1,5 @@
 ---
-title: "Politisk holdningsdannelse II:<br>Motivated reasoning and heuristics"
+title: "Politisk holdningsdannelse II:<br>Motivated reasoning og heuristikker"
 subtitle: "Dansk og Komparativ Politik 2 - forelæsning #5<br>[soerendamsbo.github.io/dak2-slides/<br>dak2_sds_holdningsdannelse2_slides.html](https://soerendamsbo.github.io/dak2-slides/dak2_sds_holdningsdannelse2_slides.html)"
 author: "Søren Damsbo-Svendsen<br>[soerendamsbo.github.io](https://soerendamsbo.github.io)"
 institute: "Institut for Statskundskab<br>Københavns Universitet"
@@ -99,14 +99,14 @@ Bedre forståelse for din skøre onkel
 Politisk psykologi: Mennesker har indbyggede psykologiske mekanismer   er tilbøjelige til at 
 
 
+Informationsbehandling (*information processing*)
+
+
 Billede vi skal huske: En oplevende person, der glider igennem livet/verden og konstant mødes af indtryk, hvoraf nogle er potentielt informative... Opdaterer løbende holdninger pga. input afhængigt af ... bias eller ej?  
 
 
 .pull-left[
-- Stærke, "krystaliserede" **holdninger findes**, men er undtagelsen der bekræfter reglen:
-
 > "[I]t is perfectly reasonable to give heavy weight to one’s own carefully constructed attitudes [...] attitudes may be thought of metaphorically as __possessions to be protected__" (Taber & Lodge 2006: 767)
-
 ]
 .pull-right[
 ```{r, out.width="80%"}
@@ -123,19 +123,21 @@ include_graphics("media/possessions.jpg")
 
 - I stedet for faste holdninger giver det bedre mening at tænke på holdningsdannelse som process, der starter med information, som (måske) modtages og forstås (afhænger af politisk bevidsthed), måske accepteres og huskes (afhænger af prædispositioner), så det er mere eller mindre tilgængeligt, når der hurtigt skal rapporteres en holdning.
 
+- Mindre institutionel og makroniveau ... hardcore mikroteori. Forstå menneskets psykologi for at forstå individuel holdningsdannelse. (Og så også bruge det til at forklare udviklinger på makroniveau, polarisering etc.)
+
 ---
 
 # Ugens tekster
 
-Hvad, hvorfor?
+**Hvad, hvorfor?**
 
-Ikke så mange sider denne uge, men markant mere teknisk. Fortvivl ikke - vi kigger på det og hovedpointerne er ikke tekniske.
+Ikke så mange sider denne uge, men mere tekniske:
 
-- Taber & Lodge (2016) - klassiker
+- Druckman & McGrath (2019) - nyere oversigt, begreber og udfordringer med klimavinkel
 
-- Druckman & McGrath (2019) - oversigt, begreber, status og udfordring, klima
+- Taber & Lodge (2006) - klassiker og genialt eksperiment
 
-- Damsbo-Svendsen (2021) - erfaret temperatur som heuristik
+- Damsbo-Svendsen (2021) - empirisk eksempel på heuristik (vejrerfaringer) &rarr; klimaholdningsdannelse
 
 ---
 
@@ -150,13 +152,21 @@ To do:
 
 ---
 
-# Druckman
+# Begreber
+
+- Motivated skepticism = motivated reasoning = motiveret tænkning
+
+- Hvad betyder motiver her?
+
+- Accuracy versus directional
+
+- Præcision (nå frem til "sandheden") og mål (ofte at beskytte eller bestyrke eksisterende holdninger, identitet mv.)
+
+---
+
+# Druckman & McGrath (2019)
 
 - Reservoir af virkelig gode begrebsafklaringer: 
-
-Indsæt bokse fra teksten. 
-
-- Bayesiansk opdatering: Kort. 
 
 - (Også) interesseret i den polariserede klimadebat i USA
 
@@ -169,17 +179,150 @@ Indsæt bokse fra teksten.
 
 ---
 
-# Taber & Lodge (2006)
+# Bayesiansk opdatering
 
-Design! Elegant. Giv eksempler... 
+- Kan virke teknisk, fordi det er baseret på matematik - også sin egen gren af statistik
 
-## Hvordan operationaliseres mekanismerne?
+- Ikke vigtigt lige nu at forstå det helt i sig selv - men kan hjælpe med at forstå informationsbehandling, holdningsdannelse, motivated reasoning
 
-1. Disconf.
-2. Prior att.
-3. Conf.
+- Ny "opdateret" holdning afhænger af eksisterende holdning (*prior*), som vi næsten altid har i et eller andet omfang (kan være baseret på hvad som helst eller ingenting)
 
-Evt. H4-H6.
+- Ny information integreres med eksisterende holdning afhængigt af (1) "indholdet" af eksisterende holdning, (2) "styrke/sikkerhed" ved eksisterende holdning, (3) "indholdet" af ny information, (4) "styrke/sikkerhed" ved ny information (= troværdighed)  
+
+Eksempel:
+
+Cykelsti: Jeg løber på arbejde ved cykelstien rundt om søerne. Jeg tror, at der er ensrettet i min retning. Jeg er ikke meget sikker. Der kommer en cykel imod mig. Det er lidt, men ikke meget usandsynligt, hvis min prior var sand. Jeg opdaterer en smule i retning af ikke-ensrettet. Der kører to cykler imod mig. Det begynder at være usandsynligt, hvis min prior er sand. Meget mere sandsynligt, hvis min prior var falsk. Jeg opdaterer mere i retning af, at der ikke er ensrettet. Til sidst ser jeg et skilt (høj troværdighed). Jeg opdaterer helt til "dobbeltretning". 
+
+Politik: 
+
+
+
+(c) Possible updating outcomes
+
+No effect No updating of beliefs in light of the new information. The posterior belief is the same as the prior belief.
+
+Persuasion/learning Relative to the prior belief, the posterior belief moves in the direction of the information13,16.
+
+Back-lash/boomerang/back-fire effect Relative to the prior belief, the posterior belief moves in the opposite direction of the information1,35.
+
+Belief polarization (between multiple actors) Movement of updated beliefs of two individuals (or groups) in opposite and divergent directions7,46.
+
+
+---
+
+# Bias
+
+Inherently, bias exists relative to some unbiased baseline. In studies of information processing, Bayesian updating is often erroneously used as a synonym for unbiased processing.
+
+- Cognitive bias. A cognitive bias is a systematic and widely exhibited error in reasoning. This bias is relative to a norm of rationality; for example, the tendency to overestimate the frequency of an event that easily comes to mind (plane accidents, for example).
+
+- Directional bias. A directional bias is the result of having a directional goal, with consequent effects on information processing, and exists relative to accuracy-motivated information processing. For example, a belief-protective goal may result in confirmation bias, disconfirmation bias or a prior attitude effect. Finally, a priors bias refers to the influence of prior information, beliefs, dispositions or values on information processing. 
+
+- Priors bias. A priors bias can be a directional bias, but is not necessarily so—a priors bias includes the influence of any standing belief, such as an assessment of whether a source (such as a corporate sponsor) is trustworthy. This is a bias relative to a situation where priors do not affect processing. Note that the influence of priors on information processing is not only compatible with an accuracy motivation, it has been described as ‘rational’86 and ‘essential’81 to learning.
+
+- Bias også et statistisk begreb, I vil møde ofte til næste år i forbindelse med kvantitativ metode. Betyder at de tal, man får ud af sin analyse (fx sammenhængen mellem ideologi og klimaholdninger) er misvisende eller ikke betyder det, man tror
+
+---
+
+# Motivated reasoning - de tre vigtigste mekanismer
+
+Accuracy  -
+
+Goal-oriented
+
+(b) Directional motivated reasoning mechanisms
+
+- Confirmation bias A tendency to seek out information that confirms one’s prior beliefs—a form of selective exposure22.
+
+- Prior attitude effect Perceived strength of new information is a function of its relationship to one’s prior belief22,81.
+
+- Disconfirmation bias Greater scrutiny and counter-argumentation of information contrary to one’s prior beliefs (relative to information consistent with one’s prior beliefs)
+
+Can lead to divergence or polarization - and disconfirmation bias can result in back-lash effects.
+
+
+
+---
+
+# Taber & Lodge (2006) - baggrund
+
+Elegant design! Vi ser på eksempler
+
+Our starting premise (followingKunda 1987, 1990) is that
+all reasoning is motivated. While citizens are always constrained
+in some degree to be accurate, they are typically
+unable to control their preconceptions, even when encouraged
+to be objective. This tension between the drives
+for accuracy and belief perseverance underlies all human
+reasoning. Keeping it simple and focusing on reasoning
+about things political, citizens are goal oriented
+(Chaiken and Trope 1999). Their motives fall into two
+broad categories: accuracy goals, which motivate them to
+seek out and carefully consider relevant evidence so as to
+reach a correct or otherwise best conclusion (Baumeister
+and Newman 1994; Fiske and Taylor 1991), and partisan
+goals, which motivate them to apply their reasoning powers
+in defense of a prior, specific conclusion (Kruglanski
+andWebster 1996). In our theory, partisan goals and subsequent
+selective information processing are driven by automatic
+affective processes that establish the direction and
+strength of biases (Lodge and Taber 2005; Taber, Lodge,
+and Glathar 2001).
+
+Selective information processes are particularly important
+because of their impact on subsequent attitudes
+and behavior and because of their implications for the distribution
+of aggregate public opinion (Zaller 1992).
+
+---
+
+# Taber & Lodge (2006) - hypoteser 
+
+H1: a prior attitude effect, whereby people who feel
+strongly about an issue—even when encouraged to be
+objective and leave their preferences aside—will evaluate
+supportive arguments as stronger and more compelling
+than opposing arguments;
+H2: a disconfirmation bias, such that people will spend
+more time and cognitive resources denigrating and
+counterarguing attitudinally incongruent than congruent
+arguments; and
+H3: a confirmation bias, such that when free to
+choose what information they will expose themselves
+to people will seek out confirming over disconfirming
+arguments.
+
+H4: attitude polarization,whereby attitudeswill become
+more extreme, even when people have been exposed to
+a balanced set of pro and con arguments.
+
+H5: an attitude strength effect, such that those citizens
+voicing the strongest policy attitudeswill be most prone
+to motivated skepticism; and
+
+H6: a sophistication effect, such that the politically
+knowledgeable, because they possess greater ammunition
+with which to counterargue incongruent facts,
+figures, and arguments,will be more susceptible to motivated
+bias than will unsophisticates.
+
+---
+
+# Design
+
+- Participants (Ps) were recruited from introductory political science courses at Stony Brook University (126 hhv. 136 respondenter) - WEIRD?
+
+- Ps were seated individually at computers in separate experimental rooms and instructed that they would take part in a study of public opinion.
+
+
+
+
+- Eksperiment
+
+- Study 1: N = 126, 59 male, 70 white, 64 Democrat, 34 Republican 
+Study 2: N = 136, 68 male, 64 white,
+
+61 Democrat, 21 Republican).
 
 ---
 
@@ -214,19 +357,194 @@ Confirmation
 
 Lighed: S. 37: "People who are more ... selective ... "
 
+
+
 ---
 
-# Diverse
+Okay - tilbage til Druckman & McGrath (2019)
+
+- Klimaholdninger i USA er ekstremt polariserede mellem konservative, liberal, republikanere, demokrater
+
+- Det samme gælder politikerne i kongressens stemmeadfærd
+
+- Ikke unikt for USA, men særligt udtalt (jf. også Tesler 2018)
+
+- Hvordan forklarer vi det? 
+
+- (Vi ville godt kunne give en forklaring ud fra RAS-modellen)
+
+- En meget udbredt forklaring &rarr; **motivated reasoning**
+
+- Men...
+
+---
+
+# The motivated reasoning observational equivalence problem
+
+
+
+- Although both directional and non-directional goals can influence judgments, researchers typically use the **term ‘motivated reasoning’** to refer implicitly or explicitly to directional goals (Bayes & Druckman 2021)
+
+- De har en helt central pointe
+
+
+
+- Evidence for directional motivated reasoning requires documentation
+that an individual possesses a directional goal and that information
+processing is tailored to achieve that goal. 
+
+- The climate change literature offers suggestive
+(but little definitive) evidence that directional motivated reasoning
+occurs. Despite claims of pervasive directional motivated reasoning,
+most of the data are also consistent with an accuracy-motivated
+updating process.
+
+
+Distinguishing these alternative processes is difficult because the
+very sources people find credible are the ones with whom they share
+common beliefs26,27. When individuals seek advice from sources
+that share their views, it could be to achieve a directional processing
+goal28, or it could be because they believe that source to be the most
+credible, regardless of their views on the issue at hand. This is the
+motivated reasoning observational equivalence problem.
+
+
+
+
+
+
+
+
+
+
+---
+
+# Diverse noter
 
 Plots fra Bayes & Druckman ... Versus plot fra Zaller (s. 12) med race. 
-
-
-
 
 ---
 class: title-slide, center, middle
 
 # Heuristikker
+
+---
+
+# Damsbo-Svendsen (2021) - The Local Warming Effect
+
+.pull-left[
+```{r}
+include_graphics("media/damsbopaper.png")
+```
+]
+.pull-right[
+<br><br>
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/GDoSMzCrgJEwwLm1Mm/video" width="480"></iframe></div>
+.center[*"Oh god ... weird ... how did that ...?"*]
+]
+
+---
+
+# Damsbo-Svendsen (2021) - The Local Warming Effect
+
+.pull-left[
+```{r}
+include_graphics("media/damsbopaper.png")
+```
+]
+
+.pull-right[
+
+- RQ: Hvordan påvirker usædvanlige **temperaturer** europæernes **holdninger** til klimaforandringer?
+
+- Direkte **oplevelser og erfaringer** med vejret - uafhængigt af medier og elitekommunikation
+
+- Afhængig variabel: "Klimabevidsthed" (0-100)
+    - **indeks** af 6 spørgsmål til om man tror på klimaforandringer, at de er menneskeskabte, at man bekymrer sig og har tænkt på klima mv.
+
+- Inspireret af Egan & Mullin (2012) m.fl. (USA)
+
+]
+
+---
+
+# Data: Hvilke lande er med i undersøgelsen?
+
+.pull-left[
+
+- [European Social Survey runde 8 (2016)](https://www.europeansocialsurvey.org/data/download.html?r=8) med masser af klimaspørgsmål
+
+- 20 europæiske lande (ikke DK)
+
+- Måling af temperaturer på landeniveau som senere matches med respondenter i de 20 lande ([European Climate Assessment & Dataset project](https://www.ecad.eu/))
+
+- I nogle lande ikke plausibelt at tale om en "national temperatur" pga. enorme variationer 
+    - de mest ekstreme (store, bjergrige) lande udelukkes &rarr; 12 lande tilbage
+    
+- Gennemsnitstemperatur 7 dage før survey i forhold til "normal" (gns. samme dag de foregående 30 år)
+
+]
+
+.pull-right[
+
+```{r kort, warning = FALSE, message = FALSE, dpi=300}
+pacman::p_load(tidyverse, sf)
+
+rnaturalearth::ne_countries(continent = "Europe") %>% 
+  st_as_sf(crs = 4326) %>%
+  select(name) %>% 
+  filter(name != "Russia") %>% 
+  mutate(temperature_variance = case_when(str_detect(tolower(name), "austria|switz|russia|spain|norway|sweden|israel|slovenia") ~ "high",
+                                          str_detect(tolower(name), "finland|france|italy|germany|united kingdom|poland|iceland|hungary|netherland|estonia|lithuania|ireland") ~ "low",
+                                        TRUE ~ "no_data")) %>% 
+  st_crop(st_bbox(c(xmin = -50, xmax = 30, ymin = 10, ymax = 70))) %>% 
+  select(temperature_variance) %>% 
+  ggplot() +
+  geom_sf(aes(fill = factor(temperature_variance, levels = c("low", "high", "no_data"), labels = c("I analysen", "Udelukket", "Ingen data"))), 
+          color = "black") +
+  ggthemes::theme_map() +
+  scale_fill_manual(values = c("#00CC66", "#CC0000", "grey")) +
+  labs(fill = NULL) 
+```
+]
+
+---
+
+# Resultater
+
+- Statistisk analyse (regression) af sammenhængen mellem temperaturer og holdninger
+
+.pull-left[a]
+
+.pull-right[b]
+
+
+.pull-right[d]
+
+
+
+
+
+- Argument: For et givet land og tidspunkt på året er temperaturudsving (ift. "normalen") tilfældige
+    - Derfor kan sammenhæng mellem temperatur og klimaholdninger **tolkes kausalt** &rarr; vejroplevelser forårsager/påvirker **klimabevidsthed**
+
+
+
+---
+
+.pull-right[
+```{r}
+include_graphics("media/damsbopaper.png")
+```
+]
+
+---
+
+# Damsbo-Svendsen (2021) - fortolkning
+
+- Er det information? Er det en **heuristik**? Er det smart eller dumt/uforklarligt?
+
+- Er klimaforandringer et "nært" emne? Eller noget der kræver information fra medier, elite, osv.? 
 
 ---
 
@@ -256,39 +574,6 @@ Representative heuristic
 
 Familiarity (*mere exposure*)
 
-
----
-
-# Damsbo-Svendsen (2021)
-
-- RQ: Hvordan påvirker usædvanlige temperaturer europæernes holdninger til klimaforandringer?
-
-- Direct local experience
-
-- Afhængig variabel: "Klimabevidsthed", dvs. **indeks** af spørgsmål til om man tror på klimaforandringer og at de er menneskeskabte, bekymrer sig og har tænkt på det m.m.
-
-.pull-right[
-```{r}
-include_graphics("media/damsbopaper.png")
-```
-]
-
----
-
-.pull-right[
-```{r}
-include_graphics("media/damsbopaper.png")
-```
-]
-
----
-
-# Damsbo-Svendsen (2021) - fortolkning
-
-- Er det information? Er det en heuristik? Er det smart eller dumt/uforklarligt?
-
-- Er klimaforandringer et "nært" emne? Eller noget der kræver information fra medier, elite, osv.? 
-
 ---
 
 # Big picture / sum up / andre teorier
@@ -302,12 +587,54 @@ include_graphics("media/damsbopaper.png")
 
 - Individer universel vs. individer forskellige (konservative vs. liberale; Alford et al., Haidt et al.)
 
+---
+
+# En Samlet Model
+
+.pull-left[
+```{r}
+include_graphics("media/taberlodgemodel.png")
+```
+]
+
+.pull-right[
+```{r, out.width="60%"}
+include_graphics("media/taberlodgebook.jpg")
+```
+]
+
+???
+
+```{r, out.width="50%"}
+include_graphics("media/taberlodgemodel2.png")
+```
 
 ---
 
-# Pege fremad
+# Opsummering
 
-- Mere politisk adfærd
+---
+
+# Forbindelse til resten af kurset
+
+- Mere "politisk adfærd", mere individniveau
+
+- Kan være relevant for holdningsdannelse, blandt andet på specifikke områder/spørgsmål
+
+- Omvendt kan jeres viden om holdningsdannelse, informationsbehandling mv. hjælpe til forståelse og forklaring 
+
+<br><br>
+
+---
+
+# Spørgsmål?
+
+---
+class: title-slide, center, middle
+
+# Tak for denne gang!
+
+<iframe src="https://giphy.com/embed/3osxYvOJthLFhiiA5a" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vh1-k-michelle-lhhatl-kmichelle-3osxYvOJthLFhiiA5a"> </a></p>
 
 ---
 

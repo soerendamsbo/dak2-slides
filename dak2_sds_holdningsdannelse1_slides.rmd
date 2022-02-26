@@ -1,5 +1,5 @@
 ---
-title: "Politisk holdningsdannelse I:<br>Zaller's RAS-model og (klima)holdninger"
+title: "Politisk holdningsdannelse I:<br>Zaller's RAS-model og klimaholdninger"
 subtitle: "Dansk og Komparativ Politik 2 - forelæsning #4<br>[soerendamsbo.github.io/dak2-slides/<br>dak2_sds_holdningsdannelse1_slides.html](https://soerendamsbo.github.io/dak2-slides/dak2_sds_holdningsdannelse1_slides.html)"
 author: "Søren Damsbo-Svendsen<br>[soerendamsbo.github.io](https://soerendamsbo.github.io)"
 institute: "Institut for Statskundskab<br>Københavns Universitet"
@@ -13,6 +13,9 @@ output:
       highlightLines: true
       countIncrementalSlides: false
       ratio: 16:9
+header-includes:
+   - \usepackage{caption}
+   - \captionsetup[figure]{font=tiny}
 ---
 
 ```{r, include = FALSE}
@@ -81,7 +84,7 @@ style_mono_accent(
 --
 
 - Hvorfor er der endda nogen, der **slet ikke tror på menneskeskabte klimaforandringer**
-    - &rarr; omkring 1/3 i USA, 1/11 i EU og 1/17 i DK
+    - omkring 1/3 i USA, 1/11 i EU og 1/17 i DK
 
 --
 
@@ -91,17 +94,11 @@ style_mono_accent(
 
 # Velkommen til holdningsdannelse 
 
-.left-column[
-<br>
-- Og så vi vil forsøge at forstå **"den offentlige mening"**
+- Og så vi vil forsøge at forstå **"den offentlige mening"** og **meningsmålinger** **&darr;** 
 
-- hvad vi skal lægge i holdningsforskning og **meningsmålinger** som f.eks. **&rarr;** 
-]
-.right-column[
-```{r imgpublic, out.width="78%", fig.cap="Kilde: Bayes & Druckman (2021)"}
+```{r imgpublic, out.width="55%", fig.cap="Kilde: Bayes & Druckman (2021)"}
 include_graphics("media/po.png")
 ```
-]
 
 ---
 
@@ -154,15 +151,11 @@ Centralt for mange af statskundskabens grundlæggende diskussioner:
 
 --
 
-- **Meningsmålinger** og spørgeskemaer som metode til at samle information om verden &rarr; flere end nogensinde før
+- **Meningsmålinger** og spørgeskemaer som metode til at indsamle information &rarr; flere end nogensinde før
 
 --
 
 - Vigtigt for samfundets sociale sammenhængskraft (fx polarisering)
-
---
-
-- Det er interessant! Det er statskundskab! 
 
 ---
 
@@ -180,38 +173,39 @@ Centralt for mange af statskundskabens grundlæggende diskussioner:
 
 **Hvad og hvorfor?**
 
-1. Zaller (1992), kap. 1-2 - klassiker, bredt overblik, godt udgangspunkt
+1. Zaller (1992), kap. 1-2 - klassiker, overblik, godt udgangspunkt
 
-2. Tesler (2018) - supergod analyse af klimaholdninger med Zaller-framework
+2. Tesler (2018) - analyse af klimaholdninger med Zaller-framework
 
-3. Andersen & Hansen (2021) "Klimavalget" - kontekst, klimaholdninger i DK og flere holdningsbegreber
+3. Andersen & Hansen (2021) "Klimavalget" - klimaholdninger i DK og flere holdningsbegreber
 
-**Mange sider** i denne uge (langt færre til næste uge)
+**Mange sider** i denne uge (langt færre næste uge)
+
+<br>
 
 Fokus på Zaller i dag
 
 ---
 class: middle
 
-# Plan for resten af forelæsningen
+<br><br>
 
-.pull-left[
+.left-column[
+```{r, out.width="100%"}
+include_graphics("media/flatearth.jpg")
+```
+]
+
+.right-column[
+# Plan for resten af forelæsningen
 
 1. Hvad er en holdning?
 
-2. Zaller og "RAS-modellen" - hovedfokus
+2. Zaller og "RAS-modellen" - **hovedfokus**
 
-3. Lidt om de to andre tekster, klimaholdninger og relateret teori
+3. Lidt om de to andre tekster, relateret teori og klimaholdninger
 
-4. Opsamling &rarr; Hvad er holdningsdannelse?
-
-]
-
-.pull-right[
-```{r, out.width="60%"}
-include_graphics("media/flatearth.jpg")
-```
-
+4. Opsamling
 ]
 
 ---
@@ -236,7 +230,7 @@ Vi venter spændt på en definition ... endelig efter 7 siders diskussion:
 
 --
 
-<br>&rarr; Behov for mere procesorienteret model for **svar på holdningsspørgsmål** - frem for at tænke holdninger som substantielle og sande ting
+<br>&rarr; Behov for mere procesorienteret model for **svar på holdningsspørgsmål** 
 
 ???
 
@@ -246,7 +240,7 @@ Zallers problemer: Non-attitudes, ustabilitet, ikke-krystalliseret, effekter af 
 
 # Hvad er en holdning? Definition, tak!
 
-- Ingen konsensus om definition &rarr; ikke så afgørende og en pointe i sig selv
+- Ingen konsensus om definition &rarr; ikke så afgørende og pointe i sig selv
 
 Indledende løs definition: 
 
@@ -351,24 +345,12 @@ Generel, universel og velskrevet teori om holdningsdannelse
 
 --
 
-- Converse et al. registrerede, at folks "holdninger" er voldsomt **ustabile** og **modstridende** og at **viden** om politik er meget begrænset
+- Converse et al. registrerede, at folks "holdninger" er **ustabile** og **modstridende** og at **viden om politik** er meget begrænset
 
 --
 
-**Konklusion:** 
-
-- Folk har generelt ikke egentlige politiske holdninger, men svarer tilfældigt (gætter!) på de spørgsmål de stilles
-
-- Ikke-holdninger (non-attitudes) er meget udbredte
-
-- Folk er "rationally ignorant" (Downs 1957) 
-
----
-
-# Baggrund: Converse og ustabile (ikke-)holdninger
-
 .pull-left[
-*Et eksempel*
+__*Et eksempel*__
 
 Amerikansk survey (Bishop et al. 1986): 
 
@@ -386,28 +368,35 @@ include_graphics("media/survey.jpg")
 ```
 ]
 
-***
-
 --
 
-- Lille problem: **De findes ikke**
+.center[Lille problem: **De findes ikke**]
 
---
+---
+
+# Baggrund: Converse og ustabile (ikke-)holdninger
+
+**Konklusion:** 
 
 - Indikation på meningsløse pseudo-holdninger (?)
 
---
+- Folk har generelt ikke egentlige politiske holdninger, men svarer tilfældigt (gætter!) på de spørgsmål de stilles
 
-- Også stor **ustabilitet** - som ikke kan forklares som meningsfulde holdningsskift
+- **Ikke-holdninger** (non-attitudes) er meget udbredte
+
+- Folk er "rationally ignorant" (Downs 1957) 
+
+- Også stor **ustabilitet** - som ikke kan forklares som holdningsskift
 
 ---
 
 # Zallers udgangspunkt og nøglebegreber
 
-*Zallers løsning:* 
+<br>
 
-Vil trække på nye indsigter fra **psykologien** og lave en teori om **holdnings_dannelse_** - eller (konstruktion af) **svar på holdningsspørgsmål** i stedet for "holdninger" som noget meget fast og subtantielt
+- Zaller vil trække på nye indsigter fra **psykologien** og lave en teori om **holdnings_dannelse_** - eller (konstruktion af) **svar på holdningsspørgsmål** - i stedet for "holdninger" som noget meget fast og subtantielt
 
+<br>
 --
 
 ## Nøglebegreber
@@ -444,14 +433,14 @@ include_graphics("media/tegning.jpg")
 - Den væsentligste informationskilde: **Nyhedsstrømmen og medierne**
 
     - Men også mere **direkte kommunikation** fra (andre) eliter (politikere, eksperter)
-    - Kan også komme fra **samtaler** med familie, venner, naboer, kollegaer 
-    - Men det antages implicit at være sjældent og/eller mindre vigtigt
+    - Kan også f.eks. komme fra **samtaler** med familie, venner, naboer, kollegaer 
+    - Men det antages implicit at være sjældent eller mindre vigtigt
     - Egne **erfaringer** (?)
 --
 
-- Hvem er "**eliten**"? Politikere, embedsmænd, journalister (medierne), aktivister, eksperter, etc.
+- **Hvem er "eliten"?** Politikere, embedsmænd, journalister (medierne), aktivister, eksperter, etc.
 
-- **Elitediskurs**: Det sprog og de referencerammer, som eliten bruger, når de taler om emnet
+- **Elitediskurs**: Sprog og referencerammer, brugt af eliter, når de taler om emnet
 
 ---
 
@@ -461,6 +450,8 @@ include_graphics("media/tegning.jpg")
 
     - (1) **Opmærksomhed**: Hvor meget følger man med? Hvor meget eksponeres man for nyheder, elitediskurs osv.?
     - (2) **Viden og forståelse** - Hvor godt forstår man budskaberne?  
+
+--
 
 - Mange relaterede ord: Bevidsthed, opmærksomhed, viden, ekspertise, kompleksitet, involvering, sofistikation, skarphed, engagement
     - Jeg bruger mest **politisk bevidsthed** (*political awareness*)
@@ -561,11 +552,9 @@ Lad os tage de fire antagelser, en efter en &rarr;
 
 - **Politisk bevidsthed** eller opmærksomhed regulerer, hvilken information vi eksponeres for
 
-- Jo mere man "følger med" og beskæftiger sig med et emne (kognitivt engagement) &rarr; desto større sandsynlighed for at møde ny information og politiske budskaber i nyhedsstrømmen
+- Jo mere man "følger med" og beskæftiger sig med et emne (kognitivt engagement) &rarr; desto større sandsynlighed for at møde og forstå ny information og politiske budskaber i nyhedsstrømmen
 
 - Eksponering *og* forståelse
-
-- Emnespecifikt - men også generelt (politisk interesse, faktuel viden, medieforbrug)
 
 ]
 
@@ -594,17 +583,17 @@ include_graphics("media/Picture2.png")
 ]
 --
 .pull-left[
-**Modtagelse (1) og modstand (2) til sammen**
+**Modtagelse (A1) og modstand (A2) til sammen**
 
 - Tendens til at dem **midt på skalaen** for politisk bevidsthed er mest påvirkelige (gælder dog ikke altid)
 ]
 .pull-right[
-```{r img2, out.width="72%"}
+```{r img2, out.width="70%"}
 include_graphics("media/paavirkning.png")
 ```
 ]
 
-```{r, out.width="65%"}
+```{r, out.width="60%"}
 include_graphics("media/bevidsthed-paavirkning.png")
 ```
 
@@ -695,17 +684,19 @@ include_graphics("media/tegning.jpg")
 
 - **Problem**: Forskningen før Zaller indikerede meget ustabile holdninger
 
-- **Svar**: Varierende svar skyldes ikke, at man ændrer holdning. Det skyldes, at man **aktiverer (sampler) andre overvejelser**. 
+    - **Svar**: Varierende svar skyldes ikke, at man ændrer holdning. Det skyldes, at man **aktiverer (sampler) andre overvejelser**. 
 
 --
 
 - **Problem**: Den konkrete **formulering** af et holdningsspørgsmål kan give forskellige svar - hvorfor?
 
-- **Svar**: Igen fordi forskellige overvejelser aktiveres gennem forskellige konnotationer. Konteksteffekter, framing osv. 
+    - **Svar**: Igen fordi forskellige overvejelser aktiveres gennem forskellige konnotationer. Konteksteffekter, framing osv. 
 
 --
 
-- Mange har **stabile grundholdninger**. Fluktuationer i holdningssvar skyldes (også) uigennemtænkte, dårligt formulerede eller meget abstrakte **spørgsmål** (= målefejl)
+- Mange har **stabile grundholdninger** 
+    
+    - Fluktuationer i holdningssvar skyldes (bl.a.) uigennemtænkte, dårligt formulerede eller meget abstrakte **spørgsmål** (= målefejl)
 
 ---
 
@@ -717,13 +708,13 @@ include_graphics("media/tegning.jpg")
 
 - **Ja!**
 
-- Almindelige mennesker har sjældent selv førstehåndserfaringer i politiske spørgsmål
+- Almindelige mennesker har sjældent førstehåndserfaringer med politiske spørgsmål
 
-- Og selv ved "nære" emner bestemmer eliten vores forståelsesramme pga. framing og kontekstuel information
+- Og selv ved "nære" emner bestemmer eliten vores forståelsesramme
 
 - Betyder, at den offentlige mening ofte er et ekko af eliternes budskaber
 
-- Også det **Tesler (2018)** viser på klimaområdet (men ikke evolution) &rarr; **"elite domination"**
+- Også det **Tesler (2018)** viser på klimaområdet (men ikke evolution)
 
 --
 
@@ -737,21 +728,25 @@ include_graphics("media/tegning.jpg")
 
 --
 
-- Man kan afvise elitens kommunikation, hvis den strider mod ens grundlæggende overbevisninger
+- Man kan afvise elitekommunikation, der strider mod grundholdninger
 
 ---
 
 # Er Zallers RAS-model "sandheden"?
 
-- Nej. Men det påstår han heller ikke. 
+- Nej.
 
 --
 
-- Masser af (psykologisk og anden) viden, der ignoreres eller forsimples
+- Men det påstår Zaller heller ikke. 
 
 --
 
-- Det er en **parsimonisk model** med god forklaringskraft og integration af de vigtigste (mest relevante) teoretiske indsiger
+- Masser af psykologisk og anden viden, der ignoreres eller forsimples
+
+--
+
+- Det er en **parsimonisk model** med god forklaringskraft, som integrerer de vigtigste og mest relevante teoretiske indsigter
 
 ---
 
@@ -763,30 +758,23 @@ include_graphics("media/tegning.jpg")
 
 --
 
-- Ligeledes antagelsen om **generel lav politisk bevidsthed**: Realistiske  - også i Danmark? 
+- Modellen har tendens til at blive urimeligt **mekanisk og deterministisk**
 
 --
 
-- Danskerne følger mere med i politik og ved mere om samfundet &rarr; vi ligger muligvis langt til højre på Zallers kurver for politisk bevidsthed
-
----
-
-# Kritik af Zaller
-
-- Modellen har tendens til at blive (urimeligt) **mekanisk og deterministisk**
+- Er antagelsen om **generel lav politisk bevidsthed** realistisk - også i Danmark? 
 
 --
 
-- Hvor kommer **grundholdninger** fra? Flytter han bare forklaringsproblemet? ("beyond the scope")
+    - Danskerne følger mere med i politik og ved mere om samfundet &rarr; ligger muligvis langt til højre på kurven for politisk bevidsthed
 
 --
 
-- Nogle af begreberne, fx **information**, er meget brede, men anvendes på en måde meget snævert
+- Hvor kommer **grundholdninger** fra? Flytter han bare forklaringsproblemet? (*beyond the scope*)
 
 --
 
-- Zaller lægger ekstremt meget vægt på kognition (frem for affekt, følelser, krop, osv.)
-
+- RAS-modellen lægger meget vægt på kognition (frem for affekt, følelser, krop, osv.)
 
 ---
 class: title-slide, middle
@@ -842,16 +830,11 @@ include_graphics("media/tesler1.png")
 
 .pull-left[
 
-- Ironisk og puzzling: Store holdningsforskelle blandt de mest politisk sofistiskerede trods videnskabelig konsensus (ingen "mainstream effekt").
+**Ironisk og puzzling:** 
 
-- I stedet: **polarisering**
+- Store holdningsforskelle blandt de politisk sofistiskerede trods videnskabelig konsensus (ingen "mainstream effekt")
 
-**Wow!** (s. 317): 
-
-- "*the __least knowledgeable__ liberals and conservatives had almost __identical__ global warming opinions*"
-- "*the __best-informed__ liberals and conservatives were __separated by a whopping 80% points__*"
-
-- Forklaring: Elite-retorik (information) og modstand
+- I stedet **polarisering**:
 ]
 
 --
@@ -860,8 +843,26 @@ include_graphics("media/tesler1.png")
 ```{r imgtesler2}
 include_graphics("media/tesler4.png")
 ```
-Teslers Figur 3: Klimaholdninger for forskellige niveauer af politisk bevidsthed
+Teslers Figur 3: Klimaholdninger og politisk bevidsthed   
 ]
+
+.pull-left[
+
+- "*the __least knowledgeable__ liberals and conservatives had almost __identical__ global warming opinions*"
+- "*the __best-informed__ liberals and conservatives were __separated by a whopping 80% points__*" (**WOW!**) 
+
+
+]
+
+--
+
+.pull-right[
+
+- Forklaring: Modstridende eliteretorik (information) og modstand mod argumenter
+
+]
+
+
 
 ---
 
@@ -888,11 +889,9 @@ Teslers Figur 6: Sammenhæng mellem ideologi (højre-venstre-skala) og klimahold
 
 --
 
-**Forklaring: En anderledes elite-diskurs om klima - især i medierne. Mere politiseret og mindre videnskabelig.**
+**Forklaring: En exceptionel elitediskurs i medierne mv. om klima. Mere politiseret og mindre videnskabelig**
 
---
-
-Meget mere at komme efter i Tesler (2018) &rarr; holdtimen
+.center[Mere om Tesler (2018) i holdtimen]
 
 ---
 
@@ -925,7 +924,11 @@ Men __masser af uenighed__ om prioritering, finansiering, løsninger (teknologi,
 
 --
 
-- *Frames of reference*: "Vinkling" af et problem eller emne
+- "Vinkling" af et problem eller emne
+
+- *"Frames of reference"* 
+
+--
 
 > "[A] speaker **"frames"** an issue by encouraging readers or listeners to emphasize certain considerations above others when evaluating that issue" 
 
