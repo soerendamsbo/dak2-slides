@@ -171,7 +171,7 @@ include_graphics("media/tegning.jpg")
 
 **Hvad og hvorfor?**
 
-1. Zaller (1992), kap. 1-2 - klassiker, overblik, godt udgangspunkt
+1. Zaller (1992), kap. 2-3 - klassiker, overblik, godt udgangspunkt
 
 2. Tesler (2018) - analyse af klimaholdninger med Zaller-framework
 
