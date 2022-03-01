@@ -1,0 +1,161 @@
+---
+title: "Politisk holdningsdannelse II:<br>Ekstra om Bayesiansk opdatering<br>og motivated reasoning"
+subtitle: "Dansk og Komparativ Politik 2 - forelæsning #5<br>[soerendamsbo.github.io/dak2-slides/<br>dak2_sds_holdningsdannelse2_ekstra.html](https://soerendamsbo.github.io/dak2-slides/dak2_sds_holdningsdannelse2_ekstra.html)"
+author: "Søren Damsbo-Svendsen<br>[soerendamsbo.github.io](https://soerendamsbo.github.io)"
+institute: "Institut for Statskundskab<br>Københavns Universitet"
+date: "07-03-2022"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+---
+
+```{r, include = FALSE}
+pacman::p_load(tidyverse, 
+               knitr, 
+               lubridate, 
+               kableExtra,
+               xaringan,
+               xaringanExtra)
+
+knitr::opts_chunk$set(echo = FALSE, 
+                      fig.align = "center", 
+                      cache = TRUE,
+                      out.width="1000px"
+)
+
+Sys.setlocale(locale = "da_DK.UTF-8")
+
+xaringanExtra::use_tile_view()
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+
+style_mono_accent(
+  # Colors
+  base_color = "#8b2325",
+  text_color = "#000000", 
+  link_color = "#808080", 
+  text_bold_color = "#8b2325",
+  title_slide_background_color = "#8b2325",
+  title_slide_text_color = "#FFFFFF",
+  colors = c("white" = "#FFFFFF", "black" = "#000000"),
+  # Fonts
+  text_bold_font_weight = "normal",
+  text_font_base = "sans-serif",
+  text_font_google = google_font("Metrophobic"),
+  code_font_google = google_font("Metrophobic"),
+  header_font_google = google_font("Metrophobic"),
+  base_font_size = "16pt",
+  text_font_size = "16pt",
+  code_font_size = "16pt",
+  code_inline_font_size = "16pt",
+  header_h1_font_size = "30pt",
+  header_h2_font_size = "20pt",
+  header_h3_font_size = "20pt"
+)
+```
+
+# Bayesiansk opdatering og motivated reasoning
+
+## Prior belief
+
+- $\mu$ is a true state of the world 
+
+- $\pi(\mu) \sim N(\hat{\mu}_0,\hat{\sigma}_0^2)$ is the prior belief about that true state
+
+- $N$ denotes a normal distribution, ^ indicates a perception, $\pi$ is the function
+
+- $\hat{\mu}_0$ is the individual's best guess about the true state of the world
+
+- $\hat{\sigma}_0^2$ is the individual's uncertainty around that guess (confidence, belief strength)
+
+- $\pi(\mu)$ is the prior belief, which comprises the estimate, $\hat{\mu}_0$, and its uncertainty, $\hat{\sigma}_0^2$
+
+---
+
+# Bayesiansk opdatering og motivated reasoning
+
+## New information
+
+- New information $x$ about the world is drawn from the distribution $N(\mu, \hat{\sigma}_x^2)$
+
+- $\hat{\sigma}_x^2$ is perception of credibility of new information
+      
+---
+
+# Bayesiansk opdatering og motivated reasoning
+
+## Updated belief
+
+- The **updated (posterior) belief** is $\pi(\mu|x) \sim N(\hat{\mu}_0 + (x - \hat{\mu}_0) (\frac{\hat{\sigma}_0^2}{\hat{\sigma}_0^2 + \hat{\sigma}_x^2}),  \frac{\hat{\sigma}_0^2\hat{\sigma}_x^2}{\hat{\sigma}_0^2 + \hat{\sigma}_x^2})$
+
+- Posterior belief: $\pi(\mu|x)$
+
+- $\hat{\mu}_0 + (x - \hat{\mu}_0) (\frac{\hat{\sigma}_0^2}{\hat{\sigma}_0^2 + \hat{\sigma}_x^2})$ is the updated best guess, i.e., prior best guess adjusted by the distance between the prior and new information, weighted by relative confidence in new information
+
+- $\frac{\hat{\sigma}_0^2\hat{\sigma}_x^2}{\hat{\sigma}_0^2 + \hat{\sigma}_x^2}$ is the confidence in the posterior belief
+
+- "The strength of the individual’s confidence in the new information relative to her strength of confidence in the prior best guess determines both the extent to which belief moves in response to the new information, and the strength of the confidence in that new belief"
+
+---
+
+# Bayesiansk opdatering og motivated reasoning
+
+## Accuracy motivation
+
+- Evaluering af $x$ er uafhængigt af ens prior $\pi(\mu)$
+
+- Information $x$ is drawn from $N(\mu,\hat{\sigma}_x^2)$), where the average piece of information represents the true state of the world
+
+- Accuracy-motivated individuals can vary in how much faith they place in a given piece of evidence and thus update in heterogeneous ways.
+
+## Directional motivation
+
+- Motivated by desire to preserve prior belief.
+
+- **Confirmation bias, prior attitude effect, disconfirmation bias &darr;**
+
+---
+
+# Bayesiansk opdatering og motivated reasoning
+
+## Confirmation bias
+
+- a person seeks out information that confirms the prior belief
+
+- new information (x) is drawn from from $N(\hat{\mu}_0,\hat{\sigma}_x^2)$), where the average piece of information reflects the mean of the individual's prior belief
+
+- Consequently, new information is likely to reinforce that belief
+
+---
+
+# Bayesiansk opdatering og motivated reasoning
+
+## Prior attitude effect
+
+- the perceived strength of the new information is a function $\phi$ of the prior belief
+
+- $\hat{\sigma}_x^2 = \phi(|x-\hat{\mu}_0|)$
+
+- Information more distant from the individual's prior is perceived as weaker and thus receives little weight in the updating process (cannot be inferred from priors and posteriors)
+
+- The result is a posterior belief $\pi(\mu|x_1,x_2)$ (accuracy can lead to the same thing)
+
+---
+
+# Bayesiansk opdatering og motivated reasoning
+
+## Disconfirmation bias
+
+- greater scrutiny and counter-argumentation of information contrary to one's prior belief
+
+- the individual *generates* draws of counter-arguments, $x_c$, that pull the updating process in the direction opposite to $x$
+
+- the result is posterior beliefs that do not converge towards $x$ - and in fact could even create backlash, causing an individual to update in the opposite direction to x due to the consideration of $x_c$

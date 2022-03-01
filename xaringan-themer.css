@@ -40,7 +40,7 @@
   --code-inline-font-size: 16pt;
   --header-h1-font-size: 30pt;
   --header-h2-font-size: 20pt;
-  --header-h3-font-size: 16pt;
+  --header-h3-font-size: 20pt;
 
   /* Colors */
   --text-color: #000000;
@@ -62,6 +62,7 @@
   --black: #272822;
   --white: #FFFFFF;
   --black: #000000;
+  --grey: #808080;
 }
 
 html {
@@ -302,5 +303,11 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
 }
 .bg-black {
   background-color: var(--black);
+}
+.grey {
+  color: var(--grey);
+}
+.bg-grey {
+  background-color: var(--grey);
 }
 
