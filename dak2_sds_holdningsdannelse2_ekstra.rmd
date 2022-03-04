@@ -159,3 +159,41 @@ style_mono_accent(
 - the individual *generates* draws of counter-arguments, $x_c$, that pull the updating process in the direction opposite to $x$
 
 - the result is posterior beliefs that do not converge towards $x$ - and in fact could even create backlash, causing an individual to update in the opposite direction to x due to the consideration of $x_c$
+
+---
+
+# Sidenote om bias
+
+Motivated reasoning ligestilles ofte med "bias" - personer kan være "biased" i deres holdningsdannelse og tilgang til samt behandling af information. Men **bias** er et bredt begreb! 
+- **Bias** giver kun mening relativt i forhold til en "ren" eller "unbiased" baseline - ellers meningsløst
+
+- **Kognitiv bias** (Tversky & Kahneman)
+    - Kognitiv bias er en udbredt systematisk "fejl" i, hvordan den menneskelige hjerne tænker
+    - Bias relativt til en norm om perfekt rationalitet
+    - Eksempler: Tilbøjelighed til at vurdere et menneskeligt træk pba. et andet (fx udseende &rarr; intelligens), at lægge for stor vægt på den første information (anchoring), at lægge for stor vægt på overvejelser, fordi de er lette at genkalde (availability), etc. 
+    - Relateret til kognitive heuristikker (senere)
+    - Kognitiv bias kan godt være kompatibelt med **accuracy-motiv**
+
+---
+
+# Sidenote om bias
+
+- **Priors bias** 
+    - Når ens eksisterende viden, opfattelser og holdninger i det hele taget påvirker informationsbehandling
+    - Bias relativt til informationsbehandling, der er helt uafhængig af priors (og dermed også ens for alle)
+    - Priors bias kan godt være kompatibelt med **accuracy-motiv**, så længe der ikke et mål at opnå en bestemt konklusion
+
+---
+
+# Sidenote om bias
+
+- **Directional bias**
+    - Directional bias (målrettet bias) er at have et bestemt (retningsbestemt) mål, som påvirker ens behandling af information
+    - Directional bias er en bestemt type priors bias
+    - Bias relativt til informationsbehandling styret af nøjagtighedsmotiv
+    - Det er dette, der menes med "(dis)confirmation bias"
+    - **Directional bias** er *ikke* kompatibelt med nøjagtighedsmotiv (det er snarere modsætningen)
+
+- (Bias også et allestedsnærværende begreb i statistik, hvor det betyder, at de tal (estimater), man får ud af sin analyse ikke afspejler det, man tror)
+
+- Takeaway: Bias er mange ting. Motivated reasoning er hovedsageligt relateret til **directional bias**

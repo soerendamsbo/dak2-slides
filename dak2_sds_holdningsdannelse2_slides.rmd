@@ -66,81 +66,100 @@ style_mono_accent(
 
 - Masser af klimaeksempler (evt. klimagrafer)
 
-Unlike the RAS model, motivated reasoning explicitly allows attitudes to
-change in the direction opposite the message, i.e., a conservative message can make a liberal’s
-attitude even more liberal. In the RAS model, this outcome occurs only stochastically through the
-“sampling” process ... Attitude polarization in response to partisan media exposure is thus a typical outcome
-in Zaller’s RAS model and theories of motivated reasoning (Prior, 2013).
 
 In the motivated reasoning framework, Taber & Lodge (2006, p. 756) caution that attitude polarization may not occur when a message fails to
-“arouse sufficient partisan motivation to induce much biased processing.” Instead of polarizing audience attitudes, slanted news may thus move everyone in the same direction, especially when audience members lack political knowledge or strong prior attitudes. As Chong & Druckman
-(e.g., 2007) demonstrate, the strength of arguments also affects the likelihood of persuasion. ... In both the RAS model and the motivated reasoning framework, exposure even to balanced or neutral news can lead to attitude polarization
+“arouse sufficient partisan motivation to induce much biased processing.” Instead of polarizing audience attitudes, slanted news may thus move everyone in the same direction, especially when audience members lack political knowledge or strong prior attitudes. As Chong & Druckman (e.g., 2007) demonstrate, the strength of arguments also affects the likelihood of persuasion. ... In both the RAS model and the motivated reasoning framework, exposure even to balanced or neutral news can lead to attitude polarization
 
 SLIDES START --->
+
+# Velkommen til mere holdningsdannelse
+
+**Hvad er det, vi gerne vil kunne forstå og forklare?**
+
+- Endnu bedre forståelse for **din skøre onkel**, dig selv og dine politiske modparter
+
+--
+
+- Hvorfor kan to personer, der læser den samme artikel (fx om vacciner eller klima), drage helt **forskellige konklusioner**? 
+
+--
+
+- Hvorfor kan to personer blive **eksponeret for vidt forskellig information** om et emne?
+
+--
+
+- Hvilke **psykologiske tilbøjeligheder og biases** spiller en rolle og hvordan?   
+
+--
+
+- Hvordan kan det lede til (og dermed også forklare) bestemte mønstre i **den offentlige mening**, fx polarisering?
 
 ---
 
 # Velkommen til mere holdningsdannelse
 
-## Puzzle
+**Hvad er det, vi gerne vil kunne forstå og forklare?**
 
-Meme med Jack Nicholson: Psykologiske tilbøjeligheder
-
-Hvordan det kan producere mønstre i public opinion, ikke mindst polarisering.
-
-Quick attention capturing opening (controversy or puzzle)
-
-Hvad er det, vi gerne vil forstå eller kunne forklare?
-
-Bedre forståelse for din skøre onkel
-
----
-class: middle
-
-# Dagens hovedpointe: ...
-
-Forslag: Mennesker har tilbøjelighed til (bevidst eller ubevidst) at behandle nye informationer på en måde, der beskytter deres eksisterende holdninger og opfattelser i stedet for at give den mest "korrekte" holdning eller opfattelse.  
-
----
-
-# Dagens hovedpointe: ...
-
-```{r, out.width="85%"}
-# Tegning?
+```{r, out.width="50%"}
+include_graphics("media/meme2.jpg")
 ```
 
+--
+
+- Er ekstrem kulde et argument eller bevis *imod* global opvarmning? For en klimaforandringsbenægter, måske!
+
+???
+
+Prior attitude effect: En klimabenægter vurderer ekstrem kulde som brugbar evidens, hvis han ikke tror på global opvarmning. Men vurderer det som ubrugelig, hvis han tror på global opvarmning.
+
+Disconfirmation bias: En ikke-benægter vil bruge længere tid på at tænke over og modargumentere mod, at lokal kulde skulle have nogen bevismæssig værdi. (En klimabenægter vil omvendt tænke mere grundigt over argumenter mod statistisk videnskabelig evidens - fx ved at argumentere ud fra ekstrem kulde).
+
+Bayesiansk opdatering: Global opvarmning bliver mere og mere usansynligt (og dermed troen på det mindre) efterhånden, som man oplever flere kolde vintre. Omvendt med ekstrem varme.   
 ---
 
 # Over- og tilbageblik
 
-- Zaller's RAS-model
+- Zaller's **Receive-Accept-Sample** (RAS)-model
 
-- I stedet for faste holdninger giver det bedre mening at tænke på holdningsdannelse som process, der starter med information, som (måske) modtages og forstås (afhænger af politisk bevidsthed), måske accepteres og huskes (afhænger af prædispositioner), så det er mere eller mindre tilgængeligt, når der hurtigt skal rapporteres en holdning.
+    - Tænk på min tegning, information og elitediskurs, politisk bevidsthed, prædispositioner, tilgængelighed og sampling, holdningsudsagn 
 
-- Mindre institutionel og makroniveau ... hardcore mikroteori. Forstå menneskets psykologi for at forstå individuel holdningsdannelse. (Og så også bruge det til at forklare udviklinger på makroniveau, polarisering etc.)
+    - Holdningsdannelse som **process**, der starter med **information**, som måske modtages og forstås (afhænger af politisk bevidsthed), måske accepteres og huskes (afhænger af prædispositioner), så det måske er tilgængeligt i den situation, hvor der skal udtrykkes en **holdning**
 
-- Fortsætter i samme spor som sidste uge - klare paralleller, men også klare forskelle og udviklinger
+--
 
-- Motivated reasoning har klare ligheder med Zaller - information... ikke opstået i tomrum. Men også klare forskelle i formål og tryk (vender tilbage til senere). 
+- Ofte **elitedominerede holdninger** og polarisering - i hvert fald på klimaområdet i USA (Tesler 2018)
+
+--
+
+- I dag fortsætter vi ad samme spor &rarr; klare paralleller, men også markante forskelle 
+
+--
+
+- Mere hardcore **mikroteori** &rarr; forstå **menneskers psykologi** og informationsbehandling for at forstå **individuel holdningsdannelse** 
+
+--
+
+- (Men også bruge det til at forklare udviklinger på makroniveau, den offentlige mening, polarisering, etc.)
 
 ---
+class: middle
 
-# Hvorfor er det vigtigt at gå endnu mere i dybden med den psykologiske basis for holdningsdannelse?
+# Dagens hovedpointe: Vi mennesker er tilbøjelige til (ofte ubevidst) at behandle ny information på en måde, der beskytter vores eksisterende holdninger frem for at hjælpe os frem til den mest "korrekte" holdning
 
-Politisk psykologi: Mennesker har indbyggede psykologiske mekanismer   er tilbøjelige til at 
+--
 
+&rarr; Vi kalder dette for **motivated reasoning**, hvilket dækker over de tre mekanismer **confirmation bias**, **prior attitude effect** og **disconfirmation bias**
 
-Informationsbehandling (*information processing*)
-
-
-Billede vi skal huske: En oplevende person, der glider igennem livet/verden og konstant mødes af indtryk, hvoraf nogle er potentielt informative... Opdaterer løbende holdninger pga. input afhængigt af ... bias eller ej?  
-
+---
+class: middle
 
 .pull-left[
+<br><br>
 > "[I]t is perfectly reasonable to give heavy weight to one’s own carefully constructed attitudes [...] attitudes may be thought of metaphorically as __possessions to be protected__" (Taber & Lodge 2006: 767)
 ]
+
 .pull-right[
-```{r, out.width="80%"}
+```{r}
 include_graphics("media/possessions.jpg")
 ```
 ]
@@ -153,28 +172,24 @@ include_graphics("media/possessions.jpg")
 
 Ikke så mange sider denne uge, men mere tekniske:
 
-1. Druckman & McGrath (2019) - nyere oversigt over **motivated reasoning**, begrebsafklaring og udfordringer, udgangspunkt i splittelsen på klimaområdet
+1. Taber & Lodge (2006) - **klassiker** i politisk psykologi (motivated reasoning) og genialt **eksperiment**
 
-2. Taber & Lodge (2006) - **klassiker** i politisk psykologi (citeret 3733 gange) og ret genialt **eksperiment**
+2. Druckman & McGrath (2019) - ny oversigt over **motivated reasoning** med fokus på klima, begrebsafklaringer og udfordringer
 
-3. Damsbo-Svendsen (2021) - empirisk eksempel på **heuristik** (personlige vejrerfaringer), der påvirker klimaholdningsdannelse i Europa
-
-```{r}
-include_graphics("media/meme2.jpg")
-```
+3. Damsbo-Svendsen (2021) - empirisk eksempel på en **heuristik**, personlige vejrerfaringer, der påvirker klimaholdningsdannelse i Europa
 
 ---
 class: middle, title-slide
 
 # Plan for resten af forelæsningen
 
-1. Motivated reasoning: Introduktion og centrale begreber
+1. Motivated reasoning: Introduktion og centrale begreber (med afsæt i D&M)
 
-2. Eksperimentet i Taber & Lodge (2006)
+2. Gennemgang af eksperimentet i Taber & Lodge (2006)
 
-3. Evidens for motivated reasoning på klimaområdet? 
+3. Evidens for motivated reasoning på klimaområdet og udfordringer for teorien (tilbage til D&M) 
 
-4. Heuristikker
+4. Skift til heuristikker &rarr; Damsbo-Svendsen (2021) og generelt
 
 5. Overblik og opsamling
 
@@ -182,80 +197,93 @@ class: middle, title-slide
 
 ---
 
-# Begreber
+# Druckman & McGrath (2019)
 
-.pull-left[
-- Motivated skepticism = motivated reasoning = motiveret tænkning
+Relativt svær og kompakt tekst, men fantastisk **reservoir af skarpe begrebsafklaringer**
 
-- Hvad betyder motiver her?
-
-- Accuracy versus directional
-
-- Præcision (nå frem til "sandheden") og mål (ofte at beskytte eller bestyrke eksisterende holdninger, identitet mv.)
-]
+```{r, out.width="45%"}
+include_graphics("media/dm0.png")
+```
 
 ---
 
 # Druckman & McGrath (2019)
 
-.pull-left[
+- D&M er (også) interesseret i **den polariserede klimadebat** &rarr; hvorfor skaber klima så stor splittelse i den amerikanske befolkning?
 
-- Reservoir af virkelig gode begrebsafklaringer - også værd at vende tilbage til senere 
+--
 
-- (Også) interesseret i den polariserede klimadebat i USA - hvorfor skaber klima så stor splittelse i den amerikanske befolkning?
+- En meget udbredt forklaring er **"motivated reasoning"**
 
-- En udbredt forklaring: Motivated reasoning
+    - **Motivated reasoning** = motivated skepticism = (politisk) motiveret tænkning
 
-- Også lidt (selv)kritisk over for motivated reasoning - vender vi tilbage til
+--
 
-- Bringer på imponerende vis Bayesiansk framework til motivated reasoning
+- Hvad betyder **motiver** her? 
 
-- Hvad D&G ikke gør så godt:
+--
 
-  - Lidt uklart svar på overskriften "the evidence for ..." - hvad er the evidence? Er den der? Okay, nej det er den faktisk ikke. Ikke at det er forkert! Bare meget svært at bevise!
-  
-  - Lidt gemt i begrebsafklaringen, hvad hovedbudskabet er - vender vi tilbage til. 
+    - En slags formål med at sætte hjernen i arbejde 
 
-  - Tilsyneladende afviser nogle personer al klimaforskning og advarsler simpelthen fordi det strider mod deres eksisterende holdning ... men det er ikke den eneste forklaring (ikke nødvendigvis "bias")
-  
-]
-  
-.pull-right[
-```{r}
-include_graphics("media/dm0.png")
-```
-]
+    - **Accuracy** (non-directional) - mål om **nøjagtighed** - at nå frem til den "bedste" konklusion, "sandheden"
+    
+    - **Directional** (partisan) - **politiske mål** - at beskytte eller bestyrke eksisterende holdninger, identitet, mv.
 
+--
 
-  
+- D&Ms er også lidt (selv)kritiske over for motivated reasoning - det vender vi tilbage til!
+
 ---
 
 # Bayesiansk opdatering
 
-- Matematisk base - Bayes' teorem 
+- D&M forklarer motivated reasoning ud fra et såkaldt **bayensiansk framework**
 
-- Kan virke teknisk, fordi det er baseret på matematik - også sin egen gren af statistik
+- Det gør vi også til dels
 
-- Går jeg ikke ind i, men vigtigt at kende til
+--
 
-- Den grundlæggende idé med Bayes' teorem er simpel: 
+- Vigtig **disclaimer**: 
 
-    - Sandsynligheden for at en begivenhed indtræffer eller at en påstand er sand afhænger af forudgående viden om begivenheden/påstanden
+    - Man kan godt forstå motivated reasoning *uden denne bayensianske tilgang*
     
-    - Oversat til holdningsdannelse: Sandsynligheden for at man ændrer holdning givet ny information afhænger af ens forudgående holdning
+    - Det kan virke meget **teknisk**, fordi det er baseret på matematik (sandsynlighedsteori og Bayes' teorem)
     
-- Ikke vigtigt lige nu at forstå det helt i sig selv - men kan hjælpe med at forstå informationsbehandling, holdningsdannelse, motivated reasoning
+    - Men giver os et godt billede: _Holdningsdannelse som løbende **opdatering** af holdninger_
+    
+    - Bayesiansk opdatering er et **udbredt koncept**, som I givetvis vil møde senere (også en gren af statistik)
+    
+    - Vi kan godt **forstå bayensiansk opdatering uden matematikken** &rarr; det er *det*, vi starter med
+---
 
-- Ny "opdateret" holdning (*posterior*) afhænger af eksisterende holdning (*prior*) (kan være baseret på hvad som helst eller ingenting)
+# Bayesiansk opdatering
 
+- Oversat til holdningsdannelse er **den grundlæggende indsigt i Bayes' teorem** simpel: 
 
-1. **Prior** opfattelse
+--
 
-2. Ny information
+> Sandsynligheden for, at man ændrer holdning i lyset af **ny information**, og måden man ændrer holdning, *afhænger af ens forudgående holdning*
 
-3. Ny information inkorporeres i opdateret **posterior** opfattelse
+--
 
-- Ny information integreres med eksisterende holdning afhængigt af (1) "indholdet" af eksisterende holdning, (2) "styrke/sikkerhed" ved eksisterende holdning, (3) "indholdet" af ny information, (4) "styrke/sikkerhed" ved ny information (= troværdighed)
+- Ny "opdateret" holdning (**"posterior"**) afhænger altså af ens **"prior"** (som i princippet kan være baseret på hvad som helst)
+
+--
+
+**Bayesiansk opdatering:**
+
+1. **Prior**/forudgående opfattelse
+
+--
+
+2. Indsamling af ny information
+
+--
+
+3. Ny information inkorporeres (måske) i **opdateret opfattelse** afhængigt af:
+
+    - *styrke/sikkerhed* ved eksisterende holdning
+    - *styrke/sikkerhed* ved ny information (= troværdighed)
 
 ---
 
@@ -263,114 +291,126 @@ include_graphics("media/dm0.png")
 
 **Ensrettet cykelsti** 
 
-Jeg løber på arbejde ved cykelstien rundt om søerne. Jeg tror, at der er ensrettet i min retning. Jeg er ikke meget sikker. Der kommer en cykel imod mig. Det er lidt, men ikke meget usandsynligt, hvis min prior var sand. Jeg opdaterer en smule i retning af ikke-ensrettet. Der kører to cykler imod mig. Det begynder at være usandsynligt, hvis min prior er sand. Meget mere sandsynligt, hvis min prior var falsk. Jeg opdaterer mere i retning af, at der ikke er ensrettet. Til sidst ser jeg et skilt (høj troværdighed). Jeg opdaterer helt til "dobbeltretning".  
+Jeg løber på arbejde ved cykelstien rundt om søerne. Jeg tror, at der er ensrettet i min retning. Jeg er ikke meget sikker. Der kommer en cykel imod mig. Det er lidt, men ikke meget usandsynligt, hvis min prior var sand. Jeg opdaterer en smule i retning af ikke-ensrettet. Der kører to cykler imod mig. Det begynder at være usandsynligt, hvis min prior er sand. Meget mere sandsynligt, hvis min prior var falsk. Jeg opdaterer mere i retning af, at der ikke er ensrettet. Til sidst ser jeg et skilt (høj troværdighed). Jeg opdaterer helt hen til "dobbeltrettet".  
+
+```{r, out.width="10%"}
+include_graphics("media/cykelsti.jpg")
+```
 
 **CCS og klima**
 
-Jeg tror ikke på, at CCS (carbon capture and storage) kan løse problemet med udledning af klimagasser. Der skal skrappere midler til (omstilling af samfundet). Jeg læser en artikel, der fortæller om forskningen i CCS og interviewer virksomheder, der arbejder på at sætte det i produktion, og klimaministeren, der fortæller, at det er et afgørende element. Jeg opdaterer (potentielt men ikke nødvendigvis!) min holdning en smule i retning af, at CCS er en del af løsningen. Hvis min *prior* var, at CCS var en silver bullet i klimaproblemet, havde jeg nok ikke opdateret, fordi den nye information fuldstændigt matchede min prior (men måske en styrkelse af holdningen).
+Jeg tror ikke på, at CCS (carbon capture and storage) kan løse problemet med udledning af klimagasser. Der skal skrappere midler til (generel omstilling af samfundet). Jeg læser en artikel, der interviewer forskere og virksomheder, der arbejder på at sætte CCS i produktion, samt klimaministeren, der siger, at CCS er en afgørende teknologi. Jeg opdaterer (potentielt men ikke nødvendigvis!) min holdning en smule i retning af, at CCS er en del af løsningen. 
+
+```{r, out.width="10%"}
+include_graphics("media/ccs.png")
+```
+
+???
+
+Hvis min *prior* var, at CCS var en silver bullet i klimaproblemet, havde jeg nok ikke opdateret, fordi den nye information fuldstændigt matchede min prior (men måske en styrkelse af holdningen).
 
 ---
 
 # Bayesiansk opdatering
 
-Det vigtige at tage med her er, at tænke på holdningsdannelse som løbende **opdatering** af (prior) holdninger i lyset af nye informationer
+Det vigtige at tage med er billedet af **holdningsdannelse som løbende opdatering** af eksisterende holdninger (priors) i lyset af nye informationer
 
-To trin: (1) indsamling af ny information og (2) inkorporering af ny information i opdateret holdning
+--
 
-Når man møder ny information om et emne og opdaterer sin holdning er der tre mulige resultater:
-
-1. Ingen opdatering. Den opdaterede holdning er lig med den tidligere holdning (prior belief = posterior)
-
-2. Læring. Den opdaterede holdning bevæger sig (en smule eller meget) i retning af det, den nye information tilsiger. 
-
-3. Backlash (bagslag). Den opdaterede holdning bevæger sig i den modsatte retning af det, den nye information tilsiger. 
-
-Når man giver samme information til personer med forskellige priors, kan det skabe:
-
-1. Konvergens (mainstream effect) - holdninger nærmer sig hinanden
-2. Divergens - holdninger fjerner sig fra hinanden (evt. fordi den ene part er upåvirket)
-3. Polarisering - divergens, hvor begge parter opdaterer, men i hver sin retning
+```{r, out.width="95%"}
+include_graphics("media/opdatering2.png")
+```
 
 ---
 
-# Bayesiansk opdatering
+# Bayesiansk opdatering - resultater
 
-- D&M bruger det til at sætte motivated reasoning "på formel"
+.pull-left[
 
-- ... Kort beskrivelse
+1. **Læring:** Den opdaterede holdning bevæger sig i retning af informationen 
 
-- Det er ret genialt, men hjælper kun på forståelsen, hvis man har det godt med matematisk notation, sandsynlighedsteori og stikprøveteori
+2. **Ingen opdatering:** Den opdaterede holdning er lig med den tidligere holdning (prior = posterior)
 
-- Jeg præsenterer det ikke på den måde ... men vigtigt at at vide, at man kan (og dem der forstår det nu - eller på et senere tidspunkt, når de arbejder med det, har en fordel)
+3. **Backlash (bagslag):** Den opdaterede holdning bevæger sig i modsat retning af informationen
+]
 
-- Og vigtigt at tage indsigten med, om at holdningsdannelse kan ses som en kontinuert opdatering af holdninger i lyset af ny information
+--
 
-- "The strength of the individual’s confidence in the new information relative to her strength of confidence in the prior best guess determines both the extent to which belief moves in response to the new information, and the strength of the confidence in that new belief"
+.pull-right[
+```{r}
+include_graphics("media/opdatering1.png")
+```
+]
+
+--
+
+- **Polarisering:** Når personer/grupper med forskellige priors *opdaterer i modsat retning* som reaktion på samme information 
+
 
 ---
 
 # Motivated reasoning
 
-- Al tænkning er motiveret (Taber & Lodge 2006)
+- Okay ... Vores eksisterende opfattelser (*priors*) påvirker altså vores holdningsdannelse
 
-- Der ligger et mål, en grund, et formål bag al tænkning &rarr; et **motiv**
+--
 
-- Behøver ikke være klart for individet selv - kan være automatisk, ubevidst, ukontrolleret - eller bevidst 
+- Det er også hovedbudskabet i motivated reasoning
 
-- To grundlæggende motivationer eller:
+--
 
-1. **Nøjagtighed** (*accuracy* goals) - at nå frem til den "korrekte" konklusion om verdens tilstand
+- Al tænkning er motiveret af forskellige mål (behøver ikke være klart for individet selv)
 
-2. **Målrettethed** (*directional* eller partisan goals) - at nå frem til en forudbestemt konklusion om verdens tilstand
+    - **Nøjagtighed** - at nå frem til den "korrekte" konklusion om verdens tilstand
 
-Spændingen mellem ønsket om at være objektiv og nøjagtig og at beskytte sine opfattelser og meninger gennemsyrer al vores tænkning
-
----
-
-# Nøjagtighed
-
-- Motiveret af mål om nøjagtighed (accuracy)
-
-- Mål: at nå frem til den "korrekte" konklusion om verdens tilstand
-
-- Forudgående holdning eller opfattelse påvirker ikke "indsamlingen" af ny information
-
-- Forudgående holdning eller opfattelse påvirker ikke behandlingen af ny information
-
-- Derfor: Forudgående holdning eller opfattelse påvirker ikke behandlingen af ny information
-
-- Det er det naive eller rene ideal for, hvordan rationelle mennesker tænker ... og ikke altid forkert, men ofte...   
-
-- "Unbiased" informationsbehandling
-
-- Kan føre til normativt ønskelige resultater (læring af sandheden på tværs af grupper)
-
-- Men gør det ikke nødvendigvis ... (Det er en af D&Ms pointer, som vi vender tilbage til). Blandt andet kan andre priors end selve holdningen, fx kontekst og vurdering af kildens troværdighed, godt påvirke opdateringen. Mao. ingen garanti for ensartet opdatering ... Ingen garanti for konvergens. Det kommer vi tilbage til ...)
+    - **Politisk mål** - at nå frem til en forudbestemt konklusion om verdens tilstand
 
 ---
 
-# Målrettethed
+# Motivated reasoning
 
-- Motiveret af *directional* eller *partisan* mål
+## Mål om nøjagtighed
 
-- Mål: at nå frem til en forudbestemt konklusion om verdens tilstand - at bevare sin prior
+- Motiveret af mål om **nøjagtighed** - at nå frem til den "korrekte" konklusion om verdens tilstand
 
-- Forudgående holdning eller opfattelse kan både påvirke "indsamlingen" og behandlingen af ny information
+- Ens **prior** påvirker hverken indsamlingen af ny information eller behandlingen af ny information
 
-- Den kan påvirke selve informationen (indholdet), man eksponeres for, den opfattede troværdighed af informationen og mobilisering af modargumenter mod information
+- Det er det rene, rationelle ideal 
 
-- Dette kan forklare holdningsdannelse - ikke mindst *forskelle* i holdningsdannelse, endda ved eksponering for samme information
+- Ikke altid forkert, men ofte
 
-- "Biased" informationsbehandling
+- Kan føre til normativt ønskelige resultater (læring af "sandheden")
 
-- Selvom det er lidt "forkert" brug af begrebet, er det dette, vi mener med **motivated reasoning** &rarr; motiveret af ønske om at beskytte forudgående holdning
+- Men gør det ikke nødvendigvis - et motiv er ikke nok, og der er meget der kan gå galt
+
+???
+
+Hvad der kan gå galt: Kontekst og vurdering af kildens troværdighed, kognitive biases 
+
+---
+
+# Motivated reasoning
+
+## Politisk mål
+
+- Motiveret af politisk mål (*directional* eller *partisan*) - at nå frem til en forudbestemt konklusion om verdens tilstand
+
+    - Mao. at beskytte sin *prior*
+
+- Ens **prior** påvirker indsamlingen og/eller behandlingen af ny information
+
+- Kan altså påvirke **selve informationen** (indholdet), man eksponeres for, den opfattede **troværdighed** og mobilisering af **modargumenter** 
+
+- Det kan forklare *forskelle* i holdningsdannelse (endda ved eksponering for samme information)
+
+- Det er dette - tænkning motiveret af politisk mål - vi kalder for **"motivated reasoning"**
 
 ---
 class: middle
 
 # De tre vigtigste mekanismer i motivated reasoning
 
-Kernen i (directional) **motivated reasoning** er:
+Kernen i **motivated reasoning** er:
 
 1. Confirmation bias
 
@@ -379,72 +419,65 @@ Kernen i (directional) **motivated reasoning** er:
 3. Disconfirmation bias
 
 ---
+class: middle
 
-# De tre vigtigste mekanismer i motivated reasoning
+# De tre mekanismer i motivated reasoning
 
 ## 1. Confirmation bias
 
-- A tendency to seek out information that confirms one’s prior beliefs (relateret til selective exposure)
+> "A tendency to seek out information that confirms one’s prior beliefs"
+
+- Når man indsamler information, vælger man kilder, som vil være tilbøjelige til at bekræfte ens holdning (*selektiv eksponering*) - og kan kun påvirkes af de information, man eksponeres for 
+
+&rarr; *Indsamling af information*
 
 ---
+class: middle
 
-# De tre vigtigste mekanismer i motivated reasoning
+# De tre mekanismer i motivated reasoning
 
 ## 2. Prior attitude effect
 
-- Perceived strength of new information is a function of its relationship to one’s prior belief
+> "Perceived strength of new information is a function of its relationship to one’s prior belief"
+
+- Man stoler mere på information, som "giver mening" i forhold til ens eksisterende opfattelser - og påvirkes derfor også mere
+
+&rarr; *Behandling af information*
 
 ---
+class: middle
 
-# De tre vigtigste mekanismer i motivated reasoning
+# De tre mekanismer i motivated reasoning
 
 ## 3. Disconfirmation bias
 
-Greater scrutiny and counter-argumentation of information contrary to one’s prior beliefs (relative to information consistent with one’s prior beliefs)
+> "Greater scrutiny and counter-argumentation of information contrary to one’s prior beliefs (relative to information consistent with one’s prior beliefs)"
 
-```{r}
-include_graphics("media/foxnews.jpg")
-```
----
+- Man bruger flere kræfter på at efterprøve og modargumentere information, der udfordrer ens holdning - og påvirkes derfor også mindre
 
-# Sidenote om bias
+&rarr; *Behandling af information*
 
-Motivated reasoning ligestilles ofte med "bias" - personer kan være "biased" i deres holdningsdannelse og tilgang til samt behandling af information. Men **bias** er et bredt begreb! 
+--
 
-- **Bias** giver kun mening relativt i forhold til en "ren" eller "unbiased" baseline - ellers meningsløst
+## "Bias"
 
-- **Kognitiv bias** (Tversky & Kahneman)
-    - Kognitiv bias er en udbredt systematisk "fejl" i, hvordan den menneskelige hjerne tænker
-    - Bias relativt til en norm om perfekt rationalitet
-    - Eksempler: Tilbøjelighed til at vurdere et menneskeligt træk pba. et andet (fx udseende &rarr; intelligens), at lægge for stor vægt på den første information (anchoring), at lægge for stor vægt på overvejelser, fordi de er lette at genkalde (availability), etc. 
-    - Relateret til kognitive heuristikker (senere)
-    - Kognitiv bias kan godt være kompatibelt med **accuracy-motiv**
+- **Bias** er altid relativt i forhold til et "unbiased" udgangspunkt 
 
-- **Priors bias** 
-    - Når ens eksisterende viden, opfattelser og holdninger i det hele taget påvirker informationsbehandling
-    - Bias relativt til informationsbehandling, der er helt uafhængig af priors (og dermed også ens for alle)
-    - Priors bias kan godt være kompatibelt med **accuracy-motiv**, så længe der ikke et mål at opnå en bestemt konklusion
+- Her er *bias* at have et politisk motiv, der påvirker ens behandling af information
 
-- **Directional bias**
-    - Directional bias (målrettet bias) er at have et bestemt (retningsbestemt) mål, som påvirker ens behandling af information
-    - Directional bias er en bestemt type priors bias
-    - Bias relativt til informationsbehandling styret af nøjagtighedsmotiv
-    - Det er dette, der menes med "(dis)confirmation bias"
-    - **Directional bias** er *ikke* kompatibelt med nøjagtighedsmotiv (det er snarere modsætningen)
+- Bias i forhold til informationsbehandling styret af motiv om **nøjagtighed** (*unbiased*) 
 
-- (Bias også et allestedsnærværende begreb i statistik, hvor det betyder, at de tal (estimater), man får ud af sin analyse ikke afspejler det, man tror)
-
-- Takeaway: Bias er mange ting. Motivated reasoning er hovedsageligt relateret til **directional bias**
+- (Også et allestedsnærværende begreb i statistik)
 
 ---
 
 # Motivated reasoning - empirisk set
 
-- Okay. Vi begynder at forstå motivated reasoning (confirmation bias, prior attitude effect, disconfirmation bias)
+- Okay. Vi begynder at forstå motivated reasoning.
 
-- Men det er stadig relativt abstrakt!
+- Men det er stadig abstrakt!
 
-- Så lad se på en **empirisk undersøgelse**, der operationaliserer og tester de tre mekanismer **&darr;**
+- Lad se på en **empirisk undersøgelse**, der tester de tre mekanismer **&darr;**
 
 <br>
 ```{r, out.width="60%"}
@@ -467,93 +500,108 @@ class: middle, title-slide
 *Spørgsmål undervejs &rarr; bit.ly/dak2-spørgsmål (Google Docs)*
 
 ---
+class: middle, center
 
-# Taber & Lodge (2006) - baggrund
-
-- **klassiker** i politisk psykologi og statskundskab (citeret 3733 gange)
-
-Elegant design! Vi ser på eksempler
-
-Our starting premise (followingKunda 1987, 1990) is that
-all reasoning is motivated. While citizens are always constrained
-in some degree to be accurate, they are typically
-unable to control their preconceptions, even when encouraged
-to be objective. This tension between the drives
-for accuracy and belief perseverance underlies all human
-reasoning. Keeping it simple and focusing on reasoning
-about things political, citizens are goal oriented
-(Chaiken and Trope 1999). 
-
-Their motives fall into two broad categories: accuracy goals, which motivate them to seek out and carefully consider relevant evidence so as to reach a correct or otherwise best conclusion (Baumeister and Newman 1994; Fiske and Taylor 1991), and partisan goals, which motivate them to apply their reasoning powers in defense of a prior, specific conclusion (Kruglanski andWebster 1996). 
-
-
+```{r, out.width="60%"}
+include_graphics("media/taberlodge0.png")
+```
 
 ---
 
-# Taber & Lodge (2006) - hypoteser 
+# Taber & Lodge (2006) - baggrund
 
-# Seks hypoteser definerer motivated skepticsm/reasoning
+- **Klassiker** i politisk psykologi og statskundskab (citeret 3733 gange)
 
-## Motivated reasoning-mekanismerne
+- Tester de tre motivated reasoning-mekanismer empirisk
 
-- **H1 (prior attitude effect):** Man vurderer argumenter, der understøtter ens eksisterende holdning, som stærkere/mere overbevisende (prior attitude effect)
-
-- **H2 (disconfirmation bias):** Man vil bruge mere tid og omtanke på at argumentere *imod* påstande, der er i modstrid med ens egen eksisterende holdning (prior) 
-
-- **H3 (confirmation bias):** Man søger i højere grad afsendere, hvis argumenter man forventer vil understøtte ens egen holdning (prior)
-
---
-
-## Konsekvenser og variation
-
-- **H4 (attitude polarization):** Selvom man udsættes for balanceret information om et emne (både gode argumenter for og imod), vil ens holdning (posterior) blive mere ekstrem - (polariseret) af informationen (implikation af H1-H3)
-
-- **H5 (attitude strength effect):** Motivated reasoning (H1-H3) er stærkest for dem med stærke, krystalliserede holdninger (priors)
-
-- **H6 (sophistication effect):** Motivated reasoning (H1-H3) er stærkest for dem med stor viden og forståelse for emnet 
+- Elegant forskningsdesign &rarr; laboratorieeksperiment 
 
 ---
 
 # Design
 
-- Participants (Ps) were recruited from introductory political science courses at Stony Brook University (126 hhv. 136 respondenter) - WEIRD?
+- (Op til) 136 deltagere rekrutteret blandt statskundskabsstuderende (W.E.I.R.D?)
 
-- Ps were seated individually at computers in separate experimental rooms and instructed that they would take part in a study of public opinion.
+- To politiske emner: *Affirmative action* og *gun control*
 
-- To politiske issues: affirmative action og gun control
+--
 
-- (1) holdninger til emnet, (2) øvelser med "infoboard" om emnet, (3) holdninger til emnet (igen)
+- Deltagerne svarer på spørgsmål og løser opgaver på computere: 
 
-- Derefter det samme en gang til med det andet emne med to tilføjelser: 
+    - Først holdninger til emnet
+    - Så øvelser &rarr; "infoboard", vurdering af argumenters styrke, tanker om argumenter
+    - Til sidst holdninger til emnet igen
 
-  - øvelse med vurdering af styrken af argumenter for/imod og rapportering af tanker omkring argumenter
+--
 
-- Sofistikation = low/high knowledge (politisk bevidsthed iflg. Zaller) 
+- Deltagerne instrueres til prøve at være fair og grundige når læser argumenter for og imod politik på området (&rarr; nøjagtighed)
 
-- Sofistikation = *mulighed* for motiveret tænkning, styrke af **prior** = grad af motivation 
+--
 
-- As always, instructions were designed to maximize accuracy goals and minimize partisan bias - bedt om at læse fair og grundigt, så de kunne forklare det til deres medstuderende.
+- T&L analyserer, hvordan forskellige typer deltagere løser opgaverne og om deres holdninger ændrer sig
+
+--
+
+- Skelner mellem deltagere, der er:
+
+    - **enige/uenige**
+    - mere eller mindre **sofistikerede** (low/high knowledge, politisk bevidsthed hos Zaller) = *mulighed* for motiveret tænkning
+    - har stærke eller svage **priors** = *grad* af motivation 
+
+---
+class: middle
+
+# Taber & Lodge's seks hypoteser 
+
+## Motivated reasoning - mekanismerne
+
+- **H1 (prior attitude effect):** Man vurderer argumenter, der understøtter ens eksisterende holdning (prior), som stærkere/mere overbevisende
+
+- **H2 (disconfirmation bias):** Man vil bruge mere tid og omtanke på at argumentere *imod* påstande, der er i modstrid med ens egen eksisterende holdning (prior) 
+
+- **H3 (confirmation bias):** Man søger i højere grad information fra afsendere, man forventer vil understøtte ens egen holdning (prior)
+
+---
+class: middle
+
+# Taber & Lodge's seks hypoteser 
+
+## Motivated reasoning - konsekvenser og variation
+
+- **H4 (attitude polarization):** Selvom man udsættes for balanceret information om et emne (gode argumenter for og imod), vil ens holdning (posterior) blive mere ekstrem (polariseret) af informationen 
+
+- **H5 (attitude strength effect):** Motivated reasoning (H1-H3) er stærkest for dem med stærke eksisterende holdninger (priors)
+
+- **H6 (sophistication effect):** Motivated reasoning (H1-H3) er stærkest for dem med stor viden, forståelse for emnet, kognitive ressourcer 
 
 ---
 
 # Prior attitude effect
 
-Operationalisering: 
+> **H1 (prior attitude effect):** Man vurderer argumenter, der understøtter ens eksisterende holdning, som stærkere/mere overbevisende (prior attitude effect)
 
-Argumenter for/imod vurderes "så objektivt som muligt" fra 0-100
+- Deltagerne præsenteres for argumenter for og imod og vurderer "så objektivt som muligt", hvor gode argumenterne er fra 0-100
 
 ```{r, out.width="50%"}
 include_graphics("media/taberlodge2.png")
 ```
 
+--
+
+- Tanken er, at deltagerne vil vurdere argumenter som stærkere, hvis de er enige (svagere, hvis de er uenige) 
+
 ---
 
-```{r, out.width="75%"}
+# Prior attitude effect
+
+```{r, out.width="65%"}
 include_graphics("media/taberlodge1.png")
 ```
 
-- Primært fokus: Forskelle mellem vurdering af Pro og Con (nabosøjler) for personer, der selv er Pro hhv. Con
-- Sekundært fokus: Forskelle afhængigt af **sofistikation** og styrke af **prior**
+--
+
+- Primært: Forskelle mellem vurdering af Pro/Con (nabosøjler) for personer, der selv er Pro/Con
+- Sekundært: Forskelle afhængigt af **sofistikation** og **styrke af prior**
 
 ---
 
@@ -561,23 +609,21 @@ include_graphics("media/taberlodge1.png")
 include_graphics("media/taberlodge4.png")
 ```
 
-&rarr; Understøtter **H1** (prior attitude effect), **H5** (attitude strength effect) og **H6** (sophistication effect)
+**&rarr; Understøtter H1 (prior attitude effect), H5 (attitude strength effect) og H6 (sophistication effect)**
 
 ---
 
 # Disconfirmation bias
 
-Operationalisering: 
+> **H2 (disconfirmation bias):** Man vil bruge mere tid og omtanke på at argumentere *imod* påstande, der er i modstrid med ens egen eksisterende holdning (prior) 
 
-- Folk vil med det samme acceptere argumenter, der bekræfter dem, men aktivt modargumentere inkongruent information
+--
 
-- Vil også variere med sofistikation og strength of prior attitude
+- Folk vil med det samme acceptere argumenter, der bekræfter dem, men *aktivt modargumentere* inkongruent information
 
-- more time processing counterattitudinal arguments
+- De vil **bruge mere tid** på at læse og tænke over argumenter, de er uenige med
 
-- When averaging across all participants this difference was fairly small (on the order of 1–2 seconds) 
-
-- but the contrast becomes significantly greater for sophisticates and those with stronger prior attitudes (4–7 seconds, or a 25–50% increase in processing time for attitudinally incongruent arguments).
+- Vil også variere med sofistikation og styrke af prior
 
 ---
 
@@ -585,35 +631,57 @@ Operationalisering:
 include_graphics("media/taberlodge5.png")
 ```
 
-- Primært fokus: **Grå søjler** - sammenlignet med sorte - **læsetid for modstridende argumenter**
-- For alle fire typer respondenter (weak/strong, low/high), men især dem med stærke holdninger (**strong**) og/eller høj grad af sofistikation (**high knowledge**) 
+- Primært: **Grå søjler** sammenlignet med sorte (**læsetid for modstridende argumenter**)
+- Sekundært: Fokus på dem med stærke priors (**strong**) og/eller **high knowledge** (sofistikation)
 
-- I gennemsnit - på tværs af alle grupper - er forskellen lille (1–2 sekunder)
+---
+
+```{r, out.width="65%"}
+include_graphics("media/taberlodge5.png")
+```
+
+- På tværs af alle grupper er forskellen lille (1–2 sekunder)
 - For de sofistikerede og dem med stærke holdninger er forskellen stor (4–7 sekunder)
 
 ---
 
-# Hvad brugte deltagerne den ekstra tid på? 
+# Hvad brugte deltagerne tiden på? 
 
-- T&L spurgte ind til deltagernes tanker omkring nogle af de argumenter, som de havde læst og vurderet
+- Bruger deltagerne tiden på at tænke sig om og argumentere *imod* inkongruent information? 
 
-- Resultat: 
+--
 
-    - inkongruente argumenter medførte langt flere tanker end kongruente argumenter gjorde - og nærmest udelukkende tanker, der udfordrede argumentet
-    
-    - både sofistikerede og usofistikerede deltagere udtrykte tanker, der udfordrede inkongruente argumenter og (yderligere) understøttede kongruente argumenter 
-    
-    - men sophistikerede deltagere var mest biased
-
-- Indikation på, at man meget mere aktivt behandler argumenter imod sin egen holdning for at generere tanker, der kan udfordre disse og styrke dem i deres egen holdning
-
----
-
-# Hvad brugte deltagerne den ekstra tid på? 
+- T&L spurgte ind til **deltagernes tanker** omkring de argumenter, de havde læst og vurderet:
 
 ```{r, out.width="65%"}
 include_graphics("media/taberlodge6.png")
 ```
+
+---
+
+# Hvad brugte deltagerne tiden på? 
+
+.pull-left[
+- Resultatet: 
+
+    - inkongruente argumenter medførte langt flere tanker end kongruente argumenter gjorde 
+    
+    - det var nærmest udelukkende tanker, der udfordrede argumentet
+    
+    - både sofistikerede og usofistikerede deltagere udtrykte tanker, der udfordrede inkongruente argumenter og understøttede kongruente argumenter 
+    
+    - men sofistikerede var mest biased
+]
+
+.pull-right[
+```{r}
+include_graphics("media/taberlodge6.png")
+```
+]
+
+--
+
+- Indikation på, at man grundigt evaluerer argumenter imod egen holdning for at udfordre dem og beskytte sin prior
 
 ---
 
@@ -696,6 +764,8 @@ Lighed: Begge antager at holdninger ændrer sig som funktion af information
 
 Motivated reasoning går ikke op i, hvor informationen typisk afsendes fra.
 
+Lighed: Modstandsantagelnse!!
+
 Forskel: Modstandsantagelsen i RAS-modellen tillader også individer at afvise information. Men man kan blot skrue op og ned for intensiteten (0-100). Ikke reagere mere komplekst a la backlash.
 
 For Zaller er der heller ikke et mål forbundet med den information, man modtager og accepterer. Variablene spiller ind hver især og så giver det det outcome, det nu engang gør. I MR er der et mål, som de andre variable mobiliseres for at nå. Derfor kan det være en mere ekstrem udgave.
@@ -703,6 +773,11 @@ For Zaller er der heller ikke et mål forbundet med den information, man modtage
 Zaller også mere overordnet. Man kan godt se motivated reasoning som en teori, der zoomer ind omkring modstandsantagelsen (og til dels modtagelse) og uddyber. Derfor grundlæggende heller ikke inkompatible.  
 
 
+Unlike the RAS model, motivated reasoning explicitly allows attitudes to
+change in the direction opposite the message, i.e., a conservative message can make a liberal’s
+attitude even more liberal. In the RAS model, this outcome occurs only stochastically through the
+“sampling” process ... Attitude polarization in response to partisan media exposure is thus a typical outcome
+in Zaller’s RAS model and theories of motivated reasoning (Prior, 2013).
 
 
 
@@ -722,10 +797,9 @@ class: title-slide, middle
 
 *Spørgsmål undervejs &rarr; bit.ly/dak2-spørgsmål (Google Docs)*
 
----
-class: title-slide, center, middle
+<br>
 
-# Okay, lad os så lige kortvarigt vende tilbage til Druckman & McGrath (2019)
+## Okay, lad os så lige kortvarigt vende tilbage til Druckman & McGrath (2019)
 
 ---
 
@@ -794,7 +868,7 @@ Distinguishing these alternative processes is difficult because the very sources
 
 ---
 
-# Kritik af kritikken
+# Kritik af D&Ms kritik 
 
 Er det ikke næsten det samme? Gør det så stor en forskel? At man ikke synes kilden er troværdig, så man ikke påvirkes, og at man ikke vil påvirkes, fordi man vil beholde sin prior. De to ting er da nok forbundet. Og de påvirker nok hinanden. Man kunne i hvert fald godt forestille sig, at de var rodet sammen i den empiriske verden. Analytisk distinktion? Men selvfølgelig fedt at opklare ... Interessant nok at sige, at der er den her stærke effekt som skyldes enten retning eller troværdighed eller en kombination. 
 
@@ -804,9 +878,15 @@ De giver ikke rigtigt et bud på, om det er mere sandsynligt, at det er opfattet
 
 Lidt irriterende, at de gør en så overbevisende og relativt simpel teori meget mere kompliceret ...  
 
+  - Lidt uklart svar på overskriften "the evidence for ..." - hvad er the evidence? Er den der? Okay, nej det er den faktisk ikke. Ikke at det er forkert! Bare meget svært at bevise!
+  
+  - Lidt gemt i begrebsafklaringen, hvad hovedbudskabet er - vender vi tilbage til. 
+
+  - Tilsyneladende afviser nogle personer al klimaforskning og advarsler simpelthen fordi det strider mod deres eksisterende holdning ... men det er ikke den eneste forklaring (ikke nødvendigvis "bias")
+
 ---
 
-# Andre kritikpunkter af motivated reasoning
+# Anden kritik af motivated reasoning
 
 - Agnostisk omkring, hvor informationen kommer fra
 
@@ -823,6 +903,9 @@ Lidt irriterende, at de gør en så overbevisende og relativt simpel teori meget
 - Kan godt virke lidt "selektivt", at der lige præcis er de to motiver (ikke flere), og at det lige netop er disconfirmation bias, confirmation bias, prior attitude effect, der leder en hen til målet. Ikke forkert, og muligvis de vigtigste. Men ...
 
 - Hvis I selv har nogle kritikpunkter, så tag dem endelig med til holdtimen
+
+
+
 
 ---
 class: title-slide, middle
@@ -844,14 +927,16 @@ class: title-slide, middle
 # Damsbo-Svendsen (2021) - The Local Warming Effect
 
 .pull-left[
+<br><br>
+```{r}
+include_graphics("media/tom.png")
+```
+.center[*"Oh god ... weird ... how did that ...?"*]
+]
+.pull-right[
 ```{r}
 include_graphics("media/damsbopaper.png")
 ```
-]
-.pull-right[
-<br><br>
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/GDoSMzCrgJEwwLm1Mm/video" width="480"></iframe></div>
-.center[*"Oh god ... weird ... how did that ...?"*]
 ]
 
 ---
@@ -859,43 +944,40 @@ include_graphics("media/damsbopaper.png")
 # Damsbo-Svendsen (2021) - The Local Warming Effect
 
 .pull-left[
+- RQ: Hvordan påvirker usædvanlige **temperaturer** europæernes **holdninger** til klimaforandringer?
+
+    - Direkte **oplevelser og erfaringer** med vejret 
+    - Uafhængigt af medier og eliter (?)
+    - Heuristik!
+
+- **Local Warming Effect** er, når "*deviations in the day’s temperature affect individuals’ global warming beliefs*"
+
+- Afhængig variabel: *Klimabevidsthed* (0-100) - **indeks** af 6 spørgsmål
+
+- Inspireret af Egan & Mullin (2012) m.fl. (USA)
+]
+
+.pull-right[
 ```{r}
 include_graphics("media/damsbopaper.png")
 ```
 ]
 
-.pull-right[
-
-- RQ: Hvordan påvirker usædvanlige **temperaturer** europæernes **holdninger** til klimaforandringer?
-
-- Direkte **oplevelser og erfaringer** med vejret - uafhængigt af medier og elitekommunikation
-
-- "The focus of this paper is the empirical manifestation of this psychological mechanism – the ‘Local Warming Effect’ – which occurs when ‘perceived deviations in the day’s temperature affect individuals’ global warming beliefs’"
-
-- Afhængig variabel: "Klimabevidsthed" (0-100)
-    - **indeks** af 6 spørgsmål til om man tror på klimaforandringer, at de er menneskeskabte, at man bekymrer sig og har tænkt på klima mv.
-
-- Inspireret af Egan & Mullin (2012) m.fl. (USA)
-
-]
-
 ---
 
-# Data: Hvilke lande er med i undersøgelsen?
+# Data
 
 .pull-left[
 
 - [European Social Survey runde 8 (2016)](https://www.europeansocialsurvey.org/data/download.html?r=8) med masser af klimaspørgsmål
 
-- 20 europæiske lande (ikke DK)
+- Uafhængig variabel: **Temperatur** over 7 dage ift. "normal" over 30 år
 
-- Måling af temperaturer på landeniveau som senere matches med respondenter i de 20 lande ([European Climate Assessment & Dataset project](https://www.ecad.eu/))
+    - Temperaturer [observeres på landeniveau](https://www.ecad.eu/) og matches med respondenter i hvert land
 
-- I nogle lande ikke plausibelt at tale om en "national temperatur" pga. enorme variationer 
-    - de mest ekstreme (store, bjergrige) lande udelukkes &rarr; 12 lande tilbage
-    
-- Gennemsnitstemperatur 7 dage før survey i forhold til "normal" (gns. samme dag de foregående 30 år)
+- I nogle lande ikke plausibelt at tale om en "national temperatur" pga. enorm variation
 
+    - ekstremt store eller bjergrige) lande udelukkes &rarr; 12 lande tilbage (ikke DK) 
 ]
 
 .pull-right[
@@ -928,62 +1010,77 @@ rnaturalearth::ne_countries(continent = "Europe") %>%
 
 # Resultater
 
-- Statistisk analyse (regression) af sammenhængen mellem temperaturer og holdninger
+.pull-left[
+- Statistisk regressionsanalyse af **sammenhængen mellem temperaturer og holdninger**
 
-- Argument: For et givet land og tidspunkt på året er temperaturudsving (ift. "normalen") tilfældige
-    - Derfor kan sammenhæng mellem temperatur og klimaholdninger **tolkes kausalt** &rarr; vejroplevelser forårsager/påvirker **klimabevidsthed**
+- Positiv sammenhæng!
 
+- Argument: For et givet land og tidspunkt er temperaturudsving *så-godt-som-tilfældige*
 
+- Derfor: Sammenhæng mellem temperatur og klimaholdninger kan tolkes kausalt &rarr; **vejroplevelser _forårsager/påvirker_ klimabevidsthed**
 
-.pull-left[a]
+- Svag effekt ... men alle påvirkes af vejret hele tiden
+
+]
 
 .pull-right[
-
 ```{r}
 include_graphics("media/damsboplot.png")
 ```
-
-]
-
-
-.pull-right[
-```{r}
-include_graphics("media/figure2_interactions_education_party.jpg")
-```
 ]
 
 ---
 
-# Er det bare via medierne? 
+# Resultater
 
-```{r}
+- Er der forskelle i, *hvem* der påvirkes af vejret?
+
+- **Uddannelsesniveau** (politisk bevidsthed, sofistikation) og **partitilhørsforhold** (motiv)  
+
+```{r, out.width="80%"}
+include_graphics("media/figure2_interactions_education_party.jpg")
+```
+
+- Svag tendens, men **nej**. Alle påvirkes! 
+
+---
+
+# Resultater
+
+- Er det udelukkende en **direkte effekt af egne erfaringer?** 
+
+    - Spiller medierne ingen rolle?
+    - Det er ikke ligetil at se en sammenhæng mellem vejr og klima
+    - **Medier/eliter** kunne spille en rolle ved at frame/italesætte vejrerfaringer
+    - Så ville effekten være større ved højere nyhedsforbrug
+
+--
+
+```{r, out.width="70%"}
 include_graphics("media/figure3_interaction_news.jpg")
 ```
 
-
-
-
----
-
-.pull-right[
-```{r}
-include_graphics("media/damsbopaper.png")
-```
-]
+- Svag tendens, men overordnet konklusion: Det er en **direkte effekt af erfaring** (medier gør ingen forskel)
 
 ---
 
-# Damsbo-Svendsen (2021) - fortolkning
+# Fortolkning
 
-- Er det information? Er det en **heuristik**? Er det smart eller dumt/uforklarligt?
+- Er vejrerfaringer en type af information i sig selv? (Ja)
 
-- Er klimaforandringer et "nært" emne? Eller noget der kræver information fra medier, elite, osv.? 
+- Er det en kognitiv **heuristik**? (Også ja)
 
-- D&M: This "suggests movement towards the scientific consensus. However, it also means that people are updating climate change beliefs on the basis of fleeting experiences that bear little relationship to what scientists would consider credible evidence" (112) 
+- Er det ... en tilfældighed? (Nej)
 
-- Given that everybody is affected by the weather on a regular basis and that extreme weather is becoming more frequent and widely distributed, the apparently small effect could become of major practical significance.
+--
 
-- The fact that political opinions are responsive to more or less random and transient personal weather experiences can seem unsettling in the eyes of liberal democracy which is founded on a profound respect for the opinions of individual citizens and belief in the legitimacy of the public opinion (Gunnell 2011; Weberman 1997). But it can actually be highly rational for individuals to respond to direct experiences and take advantage of the information they encounter first-hand, even if imprecise (Egan and Mullin 2012). In the coming years, public support is vital for a fast and profound restructuring of the world’s energy supply, transport systems and economy. It is good news, then, if the consequences of climate change – the extreme weather experiences – ‘automatically’ foster some level of support via the Local Warming Effect.
+- Er det smart eller dumt/uforklarligt?
+
+    - Opdatering af klimaholdninger i retning af videnskabelig konsensus (godt), men på baggrund af flygtige erfaringer, som videnskabsfolk ikke ville betragte som troværdig evidens (dårligt) (D&M: 112) 
+
+    - Det kan være rationelt at reagere på sine omgivelser og direkte erfaringer og bruge den tilgængelige "information", selvom den er unøjagtig
+
+    - Godt for klimaet, hvis *the local warming effect* "automatisk" skaber klimabevidsthed
 
 ---
 
@@ -995,7 +1092,7 @@ include_graphics("media/damsbopaper.png")
 
 - Hvad er heuristikker mere generelt?
 
-**Tjek Lau & Redlawsk** - eksempler plus er det godt eller skidt? 
+**Lau & Redlawsk** - eksempler plus er det godt eller skidt? 
 
 Nogen vil kalde det en anden teori (Dalton & Klingeman) ... Det er også rigtigt, men længere fra Zaller og MR er det ikke. Nogle af de samme ideer.  
 
@@ -1072,33 +1169,28 @@ include_graphics("media/taberlodgemodel2.png")
 
 ---
 
-# Forbindelse til resten af kurset
+# Forbindelse til resten af DAK2
 
-- Mere "politisk adfærd", mere individniveau
+- Der kommer mere "politisk adfærd", mere på individniveau (mikro)
 
-- Kan være relevant for holdningsdannelse, blandt andet på specifikke områder/spørgsmål
+- Det betyder flere teorier og analyser, der er relevante for holdningsdannelse (mere specifikke områder/spørgsmål)
 
-- Omvendt kan jeres viden om holdningsdannelse, informationsbehandling mv. hjælpe til forståelse og forklaring 
+- Jeres viden om holdningsdannelse, informationsbehandling mv. kan også hjælpe jer til forståelse
 
-- Populisme og "landlig bevidsthed"
-
-- Vælgeradfærd
-
-<br><br>
+- Populisme og *landlig bevidsthed*, vælgeradfærd m.m.
 
 ---
+class: middle, center
 
 # Spørgsmål?
+
+*&rarr; bit.ly/dak2-spørgsmål (Google Docs)*
 
 ---
 class: title-slide, center, middle
 
 # Tak for denne gang!
 
-<iframe src="https://giphy.com/embed/3osxYvOJthLFhiiA5a" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vh1-k-michelle-lhhatl-kmichelle-3osxYvOJthLFhiiA5a"> </a></p>
-
----
-
-
-
-
+```{r, out.width="50%"}
+include_graphics("media/foxnews.jpg")
+```
