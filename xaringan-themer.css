@@ -311,3 +311,16 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   background-color: var(--grey);
 }
 
+
+
+/* Extra CSS */
+.left-column {
+  width: 33%;
+  height: 95%;
+  float: left;
+}
+.right-column {
+  width: 65%;
+  height: 95%;
+  float: right;
+}
