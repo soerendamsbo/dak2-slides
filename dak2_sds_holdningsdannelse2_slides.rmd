@@ -602,7 +602,7 @@ include_graphics("media/taberlodge5.png")
 
 ---
 
-# Bruger de tiden på? 
+# Hvad bruger de tiden på? 
 
 T&L spurgte ind til **deltagernes tanker** omkring argumenterne . Bruges tiden på at argumentere *imod* inkongruent information? 
 
@@ -949,6 +949,8 @@ include_graphics("media/damsboplot.png")
 - Er der forskelle i, *hvem* der påvirkes af vejret?
 
 - **Uddannelsesniveau** (politisk bevidsthed, sofistikation) og **partitilhørsforhold** (motiv)  
+
+--
 
 ```{r, out.width="80%"}
 include_graphics("media/figure2_interactions_education_party.jpg")
