@@ -67,17 +67,17 @@ style_mono_accent(
 
 # Velkommen til holdningsdannelse
 
-**Hvad er det, vi gerne vil forstå og kunne forklare?**
+**Hvad er det, vi gerne vil forstå og forklare?**
 
-- **Partivalg**, og hvorfor foretrækker vi vidt forskellig politik på spørgsmål som **økonomi og skat, uddannelse og indvandring**?
-
---
-
-- Hvorfor så vi, at **vaccinemodstand** var udbredt i nogle segmenter af befolkningen?
+- **Partivalg** - og hvorfor vi foretrækker vidt forskellig politik på spørgsmål som **økonomi, skat, uddannelse, indvandring**?
 
 --
 
-- **Klimaforandringer** - er det menneskeskabt og bør det håndteres med en generel CO2-afgift, ny teknologi, livsstilsændringer? 
+- Hvorfor var **vaccineskepsis** udbredt i bestemte segmenter af befolkningen?
+
+--
+
+- **Klimaforandringer** - bør vi satse på en generel CO2-afgift, ny teknologi, livsstilsændringer? 
 
 --
 
@@ -88,7 +88,7 @@ style_mono_accent(
 
 ***
 
-&rarr; Vi vil prøve at forstå vores skøre onkler, vores politiske meningsfæller og "modstandere" og os selv bedre
+&rarr; Vi vil prøve at forstå vores skøre onkler, vores politiske meningsfæller og "modstandere" og os selv
 
 - Hvor kommer vores holdninger til politik fra?
 
@@ -96,7 +96,7 @@ style_mono_accent(
 
 # Velkommen til holdningsdannelse 
 
-Og så vil gerne kunne forstå **"den offentlige mening"** og **meningsmålinger** bedre **&darr;** 
+Og så vil gerne kunne forstå **meningsmålinger** og **"den offentlige mening"** **&darr;** 
 
 ```{r imgpublic, out.width="55%", fig.cap="(Bayes & Druckman 2021)"}
 include_graphics("media/po.png")
@@ -106,15 +106,21 @@ include_graphics("media/po.png")
 
 # Hvorfor er det vigtigt at studere holdningsdannelse?
 
-- Borgernes politiske holdninger er helt centrale i **demokratiet** - både i teori og praksis - og for andre af statskundskabens kerneemner
+--
 
-- **Demokrati** som "metode" til at samle "folkets" individuelle holdninger i et styre
+- Borgernes politiske holdninger er helt centrale i **demokratiet**
 
-- **Meningsmålinger** og spørgeskemaer som metode til at indsamle information &rarr; vi ser flere målinger i den offentlige debat end nogensinde før
+    - **Demokrati** som metode til at samle "folkets" individuelle holdninger og styre derefter
 
 --
 
-- Vigtigt for samfundets sammenhængskraft (fx problem med polarisering, ekkokamre, osv.)
+- **Meningsmålinger og spørgeskemaer** som metode til at indsamle viden 
+
+    - flere og flere målinger i den offentlige debat
+
+--
+
+- Samfundets sammenhængskraft (polarisering, ekkokamre, osv.)
 
 --
 
@@ -122,22 +128,23 @@ include_graphics("media/po.png")
 
 ---
 
-# Den "naive" version
+# Den naive version: meningsmålinger som objektiv "temperaturmåling"
 
 .pull-left[
-__Meningsmålinger som objektiv "temperaturmåling"__
 
 1. Vi har klare, gennemtænkte holdninger og præferencer til de fleste emner
 
-    - Fast forankret i vores materielle egen-interesse
+    - Fast forankret i materiel egen-interesse
 
-2. 1000 personer ringes op af Gallup og stilles spørgsmål om emne
+2. 1000 personer ringes op af Gallup og spørges om emne
 
     - "Støtter du afskaffelsen af Store Bededag?"
 
-3. Respondenterne husker deres eksisterende præference og informerer Gallup: Ja/Nej!
+3. Respondenterne finder deres eksisterende præference frem og informerer Gallup: 
 
-4. Gallup opsummerer holdningerne for alle adspurgte personer som "den offentlige mening" og medierne fortolker &rarr; 
+    - Ja! eller Nej!
+
+4. Gallup opsummerer alle svarene som "den offentlige mening" og medierne fortolker &rarr; 
 
 ]
 
@@ -165,22 +172,13 @@ include_graphics("media/bededag.png")
 
 - Politisk **adfærd**
 
-- Masser af tråde til andre uger, bl.a. **politiske værdier** i sidste uge og **medier** senere
+- Masser af tråde til andre uger, bl.a. 
 
----
-class: middle
-
-# Dagens hovedpointe: Politiske "holdninger" er kontekstafhængige resultater af et ægteskab mellem *information* (især elitekommunikation) og *prædispositioner* til at modtage og acceptere informationen
-
+    - **politiske værdier** sidste uge 
+    - **medier** senere
+    
 ---
 
-## Dagens hovedpointe: Politiske "holdninger" er kontekstafhængige resultater af et ægteskab mellem *information* (især elitekommunikation) og *prædispositioner* til at modtage og acceptere informationen
-
-```{r, out.width="80%"}
-include_graphics("media/tegning.jpg")
-```
-
----
 
 # Ugens pensum
 
@@ -188,15 +186,28 @@ include_graphics("media/tegning.jpg")
 
 **Hvad og hvorfor?**
 
-1. Zaller (1992), kap. 2-3 - klassiker, overblik, godt udgangspunkt
+1. Zaller (1992), kap. 2-3 &rarr; klassiker, overblik, godt udgangspunkt
 
-2. Tesler (2018) - analyse af klimaholdninger i USA med Zaller-framework
+2. Tesler (2018) &rarr; analyse af klimaholdninger i USA med Zaller-framework
 
-3. Andersen & Hansen (2021) "Klimavalget" - klimaholdninger i DK og flere begreber
+3. Andersen & Hansen (2021) "Klimavalget" &rarr; klimaholdninger i DK og vigtige begreber
 
 <br>
 
 *Mange siders læsning til denne uge &rarr; langt færre til næste uge*
+
+---
+class: middle
+
+# Dagens hovedpointe: en politisk "holdning" er det kontekstafhængige resultat af et ægteskab mellem *information* (især elitekommunikation) og *prædispositioner* til at modtage og acceptere informationen
+
+---
+
+## Dagens hovedpointe: en politisk "holdning" er det kontekstafhængige resultat af et ægteskab mellem *information* (især elitekommunikation) og *prædispositioner* til at modtage og acceptere informationen
+
+```{r, out.width="80%"}
+include_graphics("media/tegning.jpg")
+```
 
 ---
 class: middle
@@ -274,15 +285,15 @@ __&rarr; i dag forsimpler vi det til **"holdninger"** i bred forstand__
 
 ---
 
-# What is an opinion (Zaller)?
+# Zaller: What is an opinion?
 
 --
 
-Efter 7 siders diskussion "definerer" Zaller holdninger:
+Efter 7 siders diskussion:
 
 > "I abandon the conventional but implausible view that citizens typically possess __"true attitudes"__ on every issue about which a pollster may happen to inquire, and instead propose a model of how __individuals construct opinion reports__ in response to the particular stimuli that confront them" (s. 35)
 
-<br>&rarr; der er behov for procesorienteret model for **svar på holdningsspørgsmål** 
+<br>&rarr; behov for procesorienteret model for **svar på holdningsspørgsmål** 
 
 --
 
@@ -357,7 +368,7 @@ Generel, universel, velskrevet teori om holdningsdannelse
 
 --
 
-- Endnu større **klassiker** end Zaller
+- Endnu større **klassikere**
 
 --
 
@@ -425,20 +436,13 @@ Dansk survey fra 2005:
 
 ---
 
-```{r}
-include_graphics("media/tegning.jpg")
-```
-
-
----
-
 # Nøglebegreb 1: Information og elitediskurs
 
 - Vi eksponeres non-stop for information fra vores omgivelser
 
-- Den information som er **politisk relevant** stammer som regel fra eliterne
+    - Den information som er **politisk relevant** stammer som regel fra eliterne
 
-    - = ethvert budskab med potentiel relevans for vores tanker om et politisk emne
+    - = ethvert budskab med potentiel relevans
 
 --
 
@@ -446,8 +450,7 @@ include_graphics("media/tegning.jpg")
 
     - Men også mere **direkte kommunikation** fra eliter (politikere, eksperter)
     - **Samtaler** med familie, venner, naboer, kollegaer 
-    - Antages implicit at være sjældent eller mindre vigtigt
-    - Egne **erfaringer** (?)
+    - Andet, fx egne **erfaringer** (?)
 --
 
 - **Hvem er "eliten"?** Politikere, embedsmænd, journalister (medierne), aktivister, eksperter, osv.
@@ -461,23 +464,23 @@ include_graphics("media/tegning.jpg")
 - Kombination af to ting: 
 
     - **Opmærksomhed**: Hvor meget følger man med? Hvor meget eksponeres man for nyheder, elitediskurs osv.?
-    - **Viden og forståelse** - Hvor godt forstår man budskaberne?  
+    - **Viden og forståelse**: Hvor godt forstår man budskaberne?  
 
 --
 
-- Zaller bruger mange relaterede begreber: bevidsthed, opmærksomhed, viden, ekspertise, kompleksitet, involvering, sofistikation, skarphed, engagement
-    - Jeg kalder det **politisk bevidsthed** (*political awareness*)
+- Zaller bruger mange begreber: bevidsthed, opmærksomhed, viden, ekspertise, kompleksitet, involvering, sofistikation, skarphed, engagement
+    - = **politisk bevidsthed** (*political awareness*)
 
-- **Politisk bevidsthed** er i princippet **emnespecifikt** - "kognitivt engagement med et politisk emne" - men forstås i praksis mere generelt
+- I princippet **emnespecifikt** - "kognitivt engagement med et politisk emne" - men i praksis mere **generelt**
 
 --
 
 **Operationalisering/måling:**
 
+- neutral og faktuel politisk **viden** (bedst - mest objektiv)
 - politisk **interesse**
 - **medieforbrug** (avislæsning, TV-nyheder, sociale medier osv.)
 - **uddannelse**
-- neutral og faktuel politisk **viden** (bedst - mest objektiv)
 
 ---
 
@@ -485,7 +488,7 @@ include_graphics("media/tegning.jpg")
 
 <br>
 
-> "people vary greatly in their general attentiveness to politics [...] **overall levels of information are quite low"** (Zaller)
+> "people vary greatly in their general attentiveness to politics [...] overall levels of information are quite low" (Zaller)
 
 .pull-left[
 **Det ene yderpunkt**: 
@@ -522,20 +525,26 @@ include_graphics("media/tegning.jpg")
 
 - Mere stabile, kan være dybt forankret (fx biologisk)  
 
-- Udspringer af livserfaringer og oplevelser, socialisering i barndom og ungdom, social status, genetik, partitilhørsforhold, osv. osv.
+- Udspringer af livserfaringer og oplevelser, socialisering i barndom og ungdom, social status, genetik, partitilhørsforhold, osv.
 
-- Regulerer tilbøjelighed til at acceptere og optage ny information 
+- **Regulerer tilbøjelighed til at acceptere og optage ny information**
 
 --
 
-- To prædispositioner fylder særligt meget hos Zaller: 
+- To prædispositioner fylder særligt meget: 
 
     - **politiske værdier** (ofte kaldet *grundholdninger*)
     - **ideologi** (ofte operationaliseret som *højre-venstre-placering*)
 
 ???
 
-Værdier: harm/care, purity/sanctity, patriotisme, (økonomisk) individualisme (kollektivisme), lighed (equalitarianisme), humanisme, environmentalism, libertær vs. autoritær, materialisme vs. postmaterialisme
+harm/care, purity/sanctity, patriotisme, (økonomisk) individualisme (kollektivisme), lighed (equalitarianisme), humanisme, environmentalism, libertær vs. autoritær
+
+---
+
+```{r}
+include_graphics("media/tegning.jpg")
+```
 
 ---
 
@@ -550,7 +559,7 @@ include_graphics("media/zallerbook.jpg")
 
 ... alt det foregående leder frem til Zallers **formaliserede teori:**
 
-**RAS-modellen** for holdningsdannelse er baseret på - eller endda *defineret ved* - **fire antagelser**:
+**RAS-modellen** for holdningsdannelse er defineret ved **fire antagelser**:
 
 1. **Modtagelse**santagelsen (*Reception*) - **R** 
 
@@ -562,7 +571,7 @@ include_graphics("media/zallerbook.jpg")
 
 (okay, måske burde modellen have heddet RAS**R**)
 
-Lad os tage de fire antagelser, en for en &rarr;
+De fire antagelser, en for en &rarr;
 
 ]
 
@@ -574,7 +583,7 @@ Lad os tage de fire antagelser, en for en &rarr;
 
 - **Politisk bevidsthed** eller opmærksomhed regulerer, hvilken information vi eksponeres for
 
-- Jo mere man "følger med" og beskæftiger sig med et emne (kognitivt engagement) &rarr; desto større sandsynlighed for at møde og forstå ny information og politiske budskaber i nyhedsstrømmen
+- Jo mere man "følger med" og beskæftiger sig med et emne (kognitivt engagement) &rarr; større sandsynlighed for at møde og forstå ny information og politiske budskaber i nyhedsstrømmen
 
 - Eksponering *og* forståelse
 
@@ -593,9 +602,9 @@ include_graphics("media/Picture1.png")
 # RAS 2/4: Modstand
 
 .pull-left[
-- Man modsætter sig argumenter, som er inkonsistent med ens grundholdninger
+- Man modsætter sig argumenter, som er inkonsistente med ens grundholdninger
 
-- Men kun hvis man kan! Hvis man besidder tilstrækkelig viden og kontekstuel information, der forbinder argumenter og grundholdninger (*cueing messages*) 
+- Men **kun hvis man kan**! Hvis man besidder tilstrækkelig viden og kontekstuel information, der forbinder argumenter og grundholdninger
 
 - = politisk bevidsthed gør det muligt at affeje information
 ]
@@ -607,9 +616,9 @@ include_graphics("media/Picture2.png")
 ]
 --
 .pull-left[
-**Modtagelse (A1) og modstand (A2) ganget sammen**
+**Modtagelse (A1) og modstand (A2) sammen**
 
-- Tendens til at dem **midt på skalaen** for politisk bevidsthed er mest påvirkelige (gælder dog ikke altid)
+- Tendens til at dem **midt på skalaen** for politisk bevidsthed er mest påvirkelige<br>(gælder dog ikke altid)
 ]
 .pull-right[
 ```{r img2, out.width="60%"}
@@ -621,21 +630,22 @@ include_graphics("media/paavirkning.png")
 
 # RAS 3/4: Tilgængelighed
 
-- __Overvejelser__ der har været *aktiveret* for nylig (hørt om, tænkt på) &rarr; findes hurtigere og nemmere frem igen til brug i holdningsdannelsen
+- __Overvejelser__ der har været *aktiveret* for nylig (hørt om, tænkt på) &rarr; findes hurtigere/nemmere frem ifm. holdningsdannelsen
 
-- **Saliente/tilgængelige overvejelser** &rarr; alt hvad der potentielt kan påvirke vurdering af politisk spørgsmål: argumenter, tanker, opfattelser, affekt
+- **Saliente/tilgængelige overvejelser** &rarr; alt man kan huske, der potentielt kan påvirke vurdering af politisk spørgsmål: argumenter, tanker, opfattelser, affekt
+    - Tilgængeligheden varierer!
 
-- Afgørende antagelse (og klart brud med rational choice)!
-
---
-
-- Kan fx forklare **ustabilitet** i holdninger - skyldes forskellige tilgængelige overvejelser 
+- Vigtig antagelse!
 
 --
 
-- Kan forklare **konkteksteffekter** (kontekst aktiverer bestemte overvejelser)
-    - Må USA-journalister operere i USSR? Pressefrihed, demokrati, osv.!
-    - Må USSR-journalister operere i USA? Krig, spionage, osv.!
+- Kan fx forklare **ustabilitet** i holdninger &rarr; skyldes forskellige tilgængelige overvejelser 
+
+--
+
+- Kan forklare **konkteksteffekter**  &rarr; kontekst aktiverer bestemte overvejelser
+    - Må USA-journalister operere i USSR? Pressefrihed, demokrati, osv.
+    - Må USSR-journalister operere i USA? Krig, spionage, osv.
 
 ---
 
@@ -649,13 +659,13 @@ include_graphics("media/mindmap.png")
 .pull-right[
 - Vi gemmer ideer og overvejelser i vores hukommelse 
 
-- &larr; langtidshukommelsen a.k.a. **associative memory** (mind map, kognitivt netværk)
+- &larr; langtidshukommelsen a.k.a. **associative memory**
 
-- Priming og spreading-activation teori (Collins & Loftus 1975)
+- Priming og spreading-activation teori<br>(Collins & Loftus 1975)
 
 - Plads til ca. 7 "overvejelser" i korttidshukommelsen (Miller 1956)
 
-- Ofte "samples" (udtrækkes) blot 1-2 overvejelser. Ikke grund/motivation til mere. Livet er kort. 
+- Ofte "samples" (udtrækkes) blot 1-2 overvejelser. Ikke grund til mere. Livet er kort. 
 ]
 ---
 
@@ -673,17 +683,17 @@ include_graphics("media/mindmap.png")
 
 --
 
-- Zaller: Det kan vi godt kalde en politisk **"holdning"** (opinion, attitude), men den er altså konstrueret i den specifikke situation
+- Zaller: Det kan vi godt kalde en politisk **"holdning"** (opinion, attitude), men den er altså konstrueret i den specifikke situation og vil derfor variere
 
 --
 
-- I praksis antager vi, det er "sande holdninger", men er **bevidste om stærk kontekstafhængighed** og grundige med design af surveyspørgsmål, fortolker ydmygt, osv. 
+    - I praksis antager vi, det er "sande holdninger", men er **bevidste om kontekstafhængigheden**, grundige med design, ydmyge med fortolkning, osv.
 
 ---
 
 # Opsummering af RAS
 
-En politisk **holdning** kan forklares i **tre led**: 
+En politisk **holdning** kan forklares i **tre trin**: 
 
 - **(R)eceive:**
 
@@ -695,21 +705,15 @@ En politisk **holdning** kan forklares i **tre led**:
 
 - **(S)ample:**
 
-    - Du sampler (udtrækker) mellem 0 og 7-ish (ofte 1-2) tilgængelige overvejelser/argumenter, som tilsammen (gennemsnit) giver dig dit svar
-    
-- Plus **Response**
+    - Du sampler (udtrækker) mellem 0 og 7-ish (ofte 1-2) tilgængelige overvejelser/argumenter, som tilsammen (gennemsnit) giver dig dit svar &rarr; **Response**
 
----
-```{r}
-include_graphics("media/tegning.jpg")
-```
 ---
 
 # Implikationer af RAS-modellen
 
 - **Problem**: Forskningen før Zaller indikerede meget ustabile holdninger
 
-    - **Svar**: Varierende svar skyldes ikke, at man ændrer eller slet ikke har en holdning. Det skyldes, at man **aktiverer (sampler) forskellige overvejelser**. 
+    - **Svar**: Varierende svar skyldes ikke, at man ændrer eller slet ikke har en holdning. Det skyldes, at man **aktiverer/sampler forskellige overvejelser**. 
 
 --
 
@@ -717,13 +721,13 @@ include_graphics("media/tegning.jpg")
 
     - **Svar**: Forskellige overvejelser aktiveres gennem forskellige konnotationer. Konteksteffekter, framing osv. 
     
-- Fluktuationer i holdningssvar kan også skyldes uigennemtænkte, dårligt formulerede, abstrakte **spørgsmål** (= målefejl)
+    - (Fluktuation kan også skyldes målefejl = uigennemtænkte, dårligt formulerede, for abstrakte spørgsmål)
 
 --
 
-- Holdninger er ikke konstante, men de har dog rod i substans &rarr; vi *har* rent faktisk holdninger til politik
+- Holdninger er ikke konstante, men har dog rod i substans &rarr; vi *har* rent faktisk holdninger til politik
 
-- Desuden relativt **stabile grundholdninger**
+    - Desuden relativt **stabile grundholdninger**
 
 ---
 
@@ -737,9 +741,9 @@ include_graphics("media/tegning.jpg")
 
 - Almindelige mennesker har ofte ingen førstehåndserfaring med politiske emner
 
-- Selv ved "nære" emner bestemmer eliten vores forståelsesramme
+- Selv ved "nære" emner definerer eliten forståelsesrammen
 
-- Betyder, at den offentlige mening ofte er et ekko af eliternes budskaber
+- Offentlige mening ofte et ekko af eliternes budskaber
 
 - Også det **Tesler (2018)** viser på klimaområdet (men ikke evolution)
 
@@ -767,13 +771,9 @@ include_graphics("media/tegning.jpg")
 
 - Det er først og fremmest en **teori**
 
---
+    - en **parsimonisk model** med god forklaringskraft, quasiuniversel, integrerer de vigtigste, mest relevante indsigter
 
-- Det er en **parsimonisk model** med god forklaringskraft, quasiuniversel, integrerer de vigtigste, mest relevante teoretiske indsigter
-
---
-
-- Forsimpler, udelader eller omfortolker eksisterende teori og viden, bl.a. inden for (social)psykologien
+    - Forsimpler, udelader eller omfortolker eksisterende teori og viden, bl.a. fra (social)psykologien
 
 ---
 
@@ -791,9 +791,7 @@ include_graphics("media/tegning.jpg")
 
 - Er antagelsen om **generel lav politisk bevidsthed** realistisk - også i Danmark? 
 
---
-
-    - Danskerne følger mere med i politik og ved mere om samfundet &rarr; ligger muligvis langt til højre på kurven for politisk bevidsthed
+    - Danskerne ligger muligvis langt til højre på kurven for politisk bevidsthed
 
 --
 
@@ -801,11 +799,11 @@ include_graphics("media/tegning.jpg")
 
 --
 
-- RAS lægger meget vægt på **kognition**, hukommelse (frem for affekt, følelser, automatik)
+- RAS lægger for meget vægt på **kognition**, hukommelse (frem for affekt, følelser, automatik)
 
 --
 
-- Forældet at antage **traditionelle massemedier** er den vigtigste kilde til information? 
+- Forældet at **traditionelle massemedier** er vigtigste kilde til information?
 
 ---
 class: title-slide, middle
@@ -845,7 +843,7 @@ include_graphics("media/greta.png")
 
 - Operationaliserer **grundholdninger** med konservativ vs. liberal ideologi (*højre-venstre-skala*)
 
-- Operationaliserer **politisk bevidsthed** med interesse, uddannelse, opmærksomhed
+- Operationaliserer **politisk bevidsthed** med interesse (senere også uddannelse, opmærksomhed)
 ]
 
 .pull-right[
@@ -867,7 +865,7 @@ include_graphics("media/tesler1.png")
 
 - ingen "mainstream effekt"
 
-- I stedet kraftig **polarisering** i holdninger:
+- I stedet kraftig **polarisering**:
 ]
 
 --
@@ -908,14 +906,14 @@ include_graphics("media/american.jpg")
 ```{r imgtesler3}
 include_graphics("media/tesler3.png")
 ```
-Teslers Figur 6: Sammenhæng mellem ideologi (højre-venstre-skala) og klimaholdninger
+Teslers Figur 6: Sammenhæng mellem ideologi og klimaholdninger
 ]
 
 --
 
-- **Forklaring: exceptionel elitediskurs om klima i medierne mv. Mere politiseret, mindre videnskabelig**
+- **Teslers forklaring: exceptionel elitediskurs om klima i medier mv. &rarr; politiseret, uvidenskabelig**
 
-- USA det eneste land, hvor pol. bevidsthed (interesse) skaber accept (+) blandt liberale og skepsis (-) blandt konservative 
+- USA eneste land, hvor politisk bevidsthed skaber accept (+) blandt liberale og skepsis (-) blandt konservative
 
 <!-- .center[Mere Tesler (2018) i holdtimen] -->
 
@@ -925,9 +923,9 @@ Teslers Figur 6: Sammenhæng mellem ideologi (højre-venstre-skala) og klimahold
 
 .pull-left[
 
-- Introduktion til *danskernes klimaholdninger* anno 2019, historisk kontekst, betydning ved FV19
+- *Danskernes klimaholdninger* 2019, historisk kontekst, betydning ved FV19
 
-- Berører desuden holdningsdannelsesteori om værdi-/fordelingspolitik, **framing** og **dagsordenfastsættelse**  
+- Dertil holdningsdannelsesteori om værdi-/fordelingspolitik, **framing** og **dagsordenfastsættelse**  
 ]
 
 .pull-right[
@@ -938,11 +936,11 @@ include_graphics("media/klimavalget.jpg")
 
 --
 
-Modsat USA, hvor op til 1/3 ikke tror på, at **mennesker påvirker klimaet**, mener kun **~6%** dette i DK (jf. https://www.sa.dk/en/the-danish-election-survey-1971-2019) 
+Modsat USA, hvor op til ~33% ikke tror på, at **mennesker påvirker klimaet**, mener kun **~6%** dette i DK (jf. https://www.sa.dk/en/the-danish-election-survey-1971-2019) 
 
-I 2019 sagde op mod **60% (!!)**, at **klima er det vigtigste politiske spørgsmål** (på tværs af befolkningsgrupper!)
+I 2019 sagde op mod **60% (!!)**, at **klima er det vigtigste politiske spørgsmål** .. på tværs af befolkningsgrupper!
 
-Men __masser af uenighed__ om prioritering, finansiering, løsninger (teknologi, livsstilændringer, afgifter), osv.
+Men __masser af uenighed__ om prioritering, finansiering, løsninger (teknologi, livsstilændringer, afgifter)
 
 ---
 
@@ -950,30 +948,30 @@ Men __masser af uenighed__ om prioritering, finansiering, løsninger (teknologi,
 
 --
 
+- Information er aldrig blot en objektiv samling fakta
+
+    - involverer uundgåeligt en bestemt framing, **en overbevisende historie**
+    - Hvad sker/skete der, hvem bærer skylden og ansvaret?
+
+--
+
 - "Vinkling" af et problem eller emne (*"frames of reference"*)
 
 --
 
-> "[A] speaker **"frames"** an issue by encouraging readers or listeners to emphasize certain considerations above others when evaluating that issue" 
+> "[A] speaker **"frames"** an issue by encouraging readers or listeners to _emphasize certain **considerations**_ above others when evaluating that issue" 
 
 > "A **framing "effect”** occurs when individuals arrive at different positions on the issue, depending on the priority given to various considerations" (Chong & Druckman 2007) 
 
---
-
-- Information er aldrig bare en samling objektive fakta; det involverer uundgåeligt en bestemt framing, en overbevisende historie:<br>Hvad sker/skete der og hvem bærer skylden og ansvaret?
+- "one of the most stunning and inﬂuential demonstrations of *irrationality*" (Druckman 2004) 
 
 --
 
-- "Framing effects constitute one of the most stunning and inﬂuential demonstrations of *irrationality*" (Druckman 2004) 
-
---
-
-- Framingstudier er meget udbredte - også blandt stud.scient.pol.'er
-    - Slothuus (2010) er et godt dansk eksempel
+- Framingstudier er meget udbredte - også blandt stud.scient.pol.'er (fx Slothuus 2010)
 
 ---
 
-# Kort om framing -- eksempel fra "Klimavalget"
+# Eksempel fra "Klimavalget"
 
 .pull-left[
 ```{r imgframing}
@@ -987,9 +985,9 @@ include_graphics("media/framing.png")
 
 - Spørgsmål: "Klimaforandringerne er vor tids største udfordring"
 
-- En enkelt frame påvirker svaret: "FN's klimapanel ...", så 75 % i stedet for 70 % (kontrolgruppen) er enige
+- En frame påvirker svaret: "FN's klimapanel ...", så 75 % i stedet for kontrolgruppens 70 % er enige
 
-- Hvorfor? Tillid til FN eller videnskaben? Håb?
+- Hvorfor? Tillid til FN eller videnskaben? Håb? Eksisterende holdning?
 ]
 
 ---
@@ -1002,20 +1000,20 @@ include_graphics("media/framing.png")
 
 - a.k.a. **agenda-setting**
 
-- Politiske emner (issues) &rarr; høj/lav saliens &rarr; rangering på politisk dagsorden (agenda) 
+- Politiske emner (*issues*) &rarr; høj/lav saliens &rarr; rangering på politisk dagsorden
 
-- Dagsordenfastsættelse er at påvirke emners saliens og dermed dagsordenen
+- Dagsordenfastsættelse: at påvirke emners relative saliens og dermed dagsordenen
 
-- Den opfattede vigtighed ("saliens") af klima steg på fem måneder i 2019 **fra 20 til 60 procent**
+- Den opfattede vigtighed ("saliens") af klima steg på fem måneder **fra 20 til 60 procent**
 
-- **Forklaringer i "Klimavalget":** Ekspertrapporter, aktivisme (Thunberg, #FridaysForFuture, demonstrationer), interesseorganisationer, øko-køer på græs (&#x263A;), **mediedækningen**
+- **Forklaringer i "Klimavalget":** ekspertrapporter, aktivisme (Thunberg, #FridaysForFuture, demonstrationer), interesseorganisationer, øko-køer på græs (&#x263A;), **mediedækningen**
 ]
 
 .pull-right[
 ```{r imgclimagenda}
 include_graphics("media/figure1_climate-agendas_new.png")
 ```
-Klimasagens saliens i DK, 2019<br>(Damsbo-Svendsen, 2022)
+Klimaets saliens i DK, 2019<br>(Damsbo-Svendsen 2022)
 
 ]
 
@@ -1025,7 +1023,7 @@ Klimasagens saliens i DK, 2019<br>(Damsbo-Svendsen, 2022)
 
 .pull-left[
 
-Ifølge min egen forskning:
+Min egen forskning:
 
 - **Omfanget af mediedækningen af klima** (målt i klimaartikler på *dr.dk/nyheder*) **var med til at drive den eksplosive stigning** i klimabekymring/-opmærksomhed
 
@@ -1041,7 +1039,7 @@ Ifølge min egen forskning:
 ```{r imgclimagenda2}
 include_graphics("media/figure1_climate-agendas_new.png")
 ```
-Klimasagen i DK, 2019: Saliens og mediedækning<br>(Damsbo-Svendsen 2022)
+Klimaets saliens i DK, 2019<br>(Damsbo-Svendsen 2022)
 
 ]
 
@@ -1049,9 +1047,9 @@ Klimasagen i DK, 2019: Saliens og mediedækning<br>(Damsbo-Svendsen 2022)
 
 # Opsummering
 
-- Hvad er en politisk holdning? 
+- Hvad er en holdning? 
 
-- Forkert spørgsmål. Tænk i stedet, hvad er **holdningsdannelsesprocessen**, hvad er de vigtige **variable**, hvad er **konteksten**, og hvordan former det et observerbart **holdningsudsagn**?
+- Forkert spørgsmål. Tænk i stedet, hvad er **holdningsdannelsesprocessen**: hvad er de vigtigste **variable**, hvad er **konteksten**, og hvordan former det et observerbart **holdningsudsagn**?
 
 --
 
@@ -1063,9 +1061,9 @@ include_graphics("media/tegning.jpg")
 
 # Opsummering
 
-- Hvad er en politisk holdning? 
+- Hvad er en holdning? 
 
-- Forkert spørgsmål. Tænk i stedet, hvad er **holdningsdannelsesprocessen**, hvad er de vigtige **variable**, hvad er **konteksten**, og hvordan former det et observerbart **holdningsudsagn**?
+- Forkert spørgsmål. Tænk i stedet, hvad er **holdningsdannelsesprocessen**: hvad er de vigtigste **variable**, hvad er **konteksten**, og hvordan former det et observerbart **holdningsudsagn**?
 
 - **Information** (eliter, medier, omgivelser) og **individuelle prædispositioner** interagerer og former de overvejelser, der anvendes til at konstruere en holdning i situationen
 
