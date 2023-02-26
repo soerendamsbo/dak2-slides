@@ -85,7 +85,7 @@ Zaller's **Receive-Accept-Sample** (RAS)-model
 
 - Holdningsdannelse som **proces**, der begynder med **information**, som måske modtages og forstås (afhænger af politisk bevidsthed), måske accepteres og huskes (afhænger af prædispositioner), så det måske er tilgængeligt i den situation, hvor der skal udtrykkes en **holdning**
 
-- Begreber: *information og elitediskurs, politisk bevidsthed, prædispositioner, tilgængelighed og sampling, holdningsudsagn*
+- **Begreber**: *information og elitediskurs, politisk bevidsthed, prædispositioner, tilgængelighed og sampling, holdningsudsagn*
 
 --
 
@@ -93,7 +93,7 @@ Zaller's **Receive-Accept-Sample** (RAS)-model
 
 --
 
-- Note: Zallers er en **ekstremt indflydelses teori** = at det er meget udbredt *tankegang* og *konceptualisering* ≠ at RAS-model altid anvendes eksplicit 
+- Note: Zallers er en **ekstremt indflydelsesrig teori** = at det er meget udbredt *tankegang* og *konceptualisering*<br>≠ at RAS-model altid anvendes eksplicit 
 
 --
 
@@ -106,7 +106,7 @@ class: middle, center
 
 # Spørgsmål undervejs &mdash; også gerne til sidste uge<br>&rarr; [https://bit.ly/dak2spg (Google Docs)](https://bit.ly/dak2spg)
 
-```{r, out.width="40%"}
+```{r, out.width="50%"}
 include_graphics("media/gdocs.png")
 ```
 
@@ -127,13 +127,9 @@ include_graphics("media/possessions.jpg")
 ---
 class: middle
 
-# Dagens hovedpointe:<br><br>Vi mennesker er tilbøjelige til (ofte ubevidst) at behandle ny information på en måde, der beskytter vores eksisterende holdninger frem for at hjælpe os frem til den mest "korrekte" holdning
+# Dagens hovedpointe: Vi mennesker er tilbøjelige til (ofte ubevidst) at behandle ny information på en måde, der beskytter vores eksisterende holdninger frem for at hjælpe os frem til den mest "korrekte" holdning
 
----
-
-## Dagens hovedpointe: Vi mennesker er tilbøjelige til (ofte ubevidst) at behandle ny information på en måde, der beskytter vores eksisterende holdninger frem for at hjælpe os frem til den mest "korrekte" holdning
-
-```{r}
+```{r, out.width='80%'}
 include_graphics("media/confirmation_meme.png")
 ```
 
@@ -145,7 +141,7 @@ include_graphics("media/confirmation_meme.png")
 
 **Hvad, hvorfor?**
 
-1. Taber & Lodge (2006) &mdash; **klassiker** i politisk psykologi (motivated reasoning) og genialt **eksperiment**
+1. Taber & Lodge (2006) &mdash; **klassiker** i politisk psykologi (motivated reasoning) og genialt (kvasi)**eksperiment**
 
 2. Bayes & Druckman (2021) &mdash; **motivated reasoning** og klima, nøglebegreber og udfordringer
 
@@ -178,11 +174,11 @@ class: middle, title-slide
 
 # Motivated reasoning
 
-<br>
+_Motivated reasoning = motivated skepticism = (politisk) motiveret tænkning_
 
-- **Motivated reasoning** = motivated skepticism = (politisk) motiveret tænkning
+- Holdningsdannelse er tænkning **drevet af forskellige motiver og mål**
 
-- Vores holdningsdannelse er et produkt af tænkning, der er drevet af forskellige motiver og mål
+> "[D]irectional ‘__motivated reasoning__’ [is a process] in which new information is processed in service of reaching a __pre-determined, desired conclusion__" (B&D)
 
 --
 
@@ -195,12 +191,12 @@ __Hvad betyder *motiver* i "motivated reasoning"?__
 - (1) Mål om **nøjagtighed** &mdash; *accuracy/non-directional*: at nå frem til den "bedste" konklusion, "sandheden"
 
 - (2) **Politiske mål** &mdash; *partisan/directional*: at beskytte eller bestyrke eksisterende holdninger, identitet, gruppetilhørsforhold mv.
+    - ofte hvad der menes med *motivated reasoning*
 
 --
 
-- Det er krævende at indsamle og processere ny information. Men vi kan *motiveres* til at gøre det!
-
-    - proces og resultat afhængiger af *motivet* og *personen*
+- **Krævende** at indsamle og processere ny information, men vi **kan motiveres** til at gøre det!
+    - proces og resultat afhænger af **motivet** og **personen**
 
 ---
 
@@ -210,7 +206,7 @@ __Hvad betyder *motiver* i "motivated reasoning"?__
 
 - Nyttigt at se **holdningsdannelse som løbende ("Bayesiansk") opdatering**:
 
-> Hovedpointe: sandsynligheden for (og måden hvorpå), man ændrer holdning i lyset af ny information **afhænger af ens eksisterende holdning**
+- _Hovedpointe_: sandsynligheden for (og måden hvorpå), man ændrer holdning i lyset af ny information **afhænger af ens eksisterende holdning**
 
 --
 
@@ -220,7 +216,7 @@ __Hvad betyder *motiver* i "motivated reasoning"?__
 
 --
 
-- Den opdaterede holdning kaldes **"posterior"**
+- Den _opdaterede holdning_ kaldes **"posterior"**
 
 ---
 
@@ -299,7 +295,9 @@ include_graphics("media/opdatering2.png")
 
 --
 
-- *Kan* føre til læring af "sandheden", men gør det ikke nødvendigvis<br>(motiv er ikke nok og meget kan gå galt)
+- *Kan* føre til læring af "sandheden", men gør det ikke nødvendigvis
+
+    - (motiv er ikke nok og meget kan gå galt)
 
 ???
 
@@ -319,7 +317,7 @@ Hvad kan gå galt: Kontekst, vurdering af kildens troværdighed, kognitive biase
     
     - eller for at bevare (gruppe)identitet-/status (*Social Identity Protection*)
     
-    - (Se Bayes & Druckman 2021, Tabel 1)
+    - (Se Tabel 1 i B&D)
 
 --
 
@@ -327,15 +325,17 @@ Hvad kan gå galt: Kontekst, vurdering af kildens troværdighed, kognitive biase
 
 --
 
-- Kan altså fx påvirke **selve informationen**, man eksponeres for, den opfattede **troværdighed** og mobilisering af **modargumenter** 
+- Kan altså fx påvirke **selve informationen**, man eksponeres for, den opfattede **troværdighed** og mobilisering af **modargumenter** (bemærk ligheder og forskelle ift. Zaller)
 
-    - bemærk ligheder og forskelle ift. Zaller
+???
+
+Forskel til Zaller: (1) Styring af hvilken information man eksponeres for, (2) prior attittudes vs. dybere prædispositioner 
 
 ---
 class: middle
 
 .pull-left[
-# Kan I forestille jer nogle typiske situationer, hvor de fleste mennesker vil være motiveret af (A) et *mål om nøjagtighed* eller (B) *politiske mål*
+# Kan I forestille jer nogle typiske situationer, hvor de fleste mennesker vil være motiveret af<br>(A) *mål om nøjagtighed* eller<br>(B) *politiske mål*
 ]
 
 .pull-right[
@@ -388,9 +388,9 @@ include_graphics("media/confirmation.jpg")
 
 > "Perceived strength of new information is a function of its relationship to one’s prior belief" (Druckman & McGrath 2019)
 
-- Man stoler mere på information, som "giver mening" i forhold til ens eksisterende opfattelser - og påvirkes derfor *mere*
+- Man stoler mere på information, som "giver mening" i forhold til ens eksisterende opfattelser - og påvirkes derfor *mere*<br>(*mindre* af udfordrende argumenter)
 
-```{r, out.width="55%"}
+```{r, out.width="52%"}
 include_graphics("media/priorattitude.jpg")
 ```
 ]
@@ -451,7 +451,7 @@ class: middle, title-slide
 
 - **Klassiker** i politisk adfærd og politisk psykologi (citeret 4.239 gange)
 
-- Tester motivated reasoning (= skepticism) *empirisk* med et **laboratorieeksperiment**
+- Tester motivated reasoning (= skepticism) *empirisk* med et **laboratorieeksperiment** (kvasieksperiment)
 
 ```{r, out.width="60%"}
 include_graphics("media/taberlodge0.png")
@@ -461,7 +461,7 @@ include_graphics("media/taberlodge0.png")
 
 # Forskningsdesign
 
-- (Op til) 136 deltagere rekrutteret blandt statskundskabsstuderende (W.E.I.R.D?)
+- Deltagere: 126 plus 136 statskundskabsstuderende (W.E.I.R.D?)
 
 - To politiske emner: **affirmative action** og **gun control**
 
@@ -616,6 +616,8 @@ include_graphics("media/taberlodge6.png")
 
 > **H3 (confirmation bias):** Man søger i højere grad information fra kilder/afsendere, man forventer vil underbygge ens prior
 
+- **Indsamling** (ikke behandling) af information
+
 - Operationaliseres som _andelen af valgte argumenter (%) fra kilder, man normalt er enig med_
 
 - 8 argumenter vælges ud af 16 mulige
@@ -732,7 +734,7 @@ include_graphics("media/taberlodge7.png")
 
 --
 
-- Det er kun i **MR**, at der er mulighed for "**backlash**" (modreaktion). RAS: fra *ikke-accept* til *fuld accept*
+- Det er kun i **MR**, at der er mulighed for "**backlash**" (modreaktion) ≠ RAS: fra *ikke-accept* til *fuld accept*
 
 --
 
@@ -758,7 +760,7 @@ class: title-slide, middle
 *Spørgsmål undervejs (Google Docs) &rarr; https://bit.ly/dak2spg*
 
 <br>
-
+  
 ---
 
 **Bayes & Druckman (2021)** tager udgangspunkt i den voldsomme partibaserede (*partisan*) **polarisering** i klimaholdninger &darr; 
@@ -901,9 +903,9 @@ include_graphics("media/damsbopaper.png")
 
 - Vejroplevelser som **heuristik:**
 
-> "cognitive shortcuts that reduce complex problem-solving to more simple judgmental operations" (Carmines & Huckfeldt 1998)
+> "cognitive shortcuts that reduce complex problem-solving to more simple judgmental operations"<br>(Carmines & Huckfeldt 1998)
 
-> "people who are confronted with a difﬁcult question sometimes answer an easier one instead" (Kahneman 2003)
+> "people who are confronted with a difﬁcult question sometimes answer an easier one instead"<br>(Kahneman 2003)
 
 ]
 
@@ -1128,13 +1130,13 @@ class: title-slide, middle
     
     - vigtigste **individvariable**: eksisterende holdninger (*priors* &mdash; inkl. styrken), ideologi og grundholdninger (*prædispositioner*), politisk bevidsthed (viden, interesse, nyhedsforbrug, uddannelse), kognitive evner, partitilhørsforhold (grupper)
     
-    - vigtigste **kontekstvariable**: *information, information, information* (hvorfra, hvor homogen eller polariseret diskurs)
+    - vigtigste **kontekstvariable**: *information, information, information*<br>(hvorfra, hvor homogen eller polariseret diskurs)
     
     - og **spørgesituationen** (surveydesign, spørgsmål, framing, timing, tilgængelighed)
 
 --
 
-- Udbredt fokus på holdnings*ændringer* og mindre på *dannelse* i dybere forstand (men de spørgsmål har sine egne skoler, fx **politisk socialisering**)
+- Udbredt fokus på holdnings*ændringer* og mindre på *dannelse* i dybere forstand<br>(de spørgsmål har sine egne skoler, fx **politisk socialisering**)
 
 --
 
@@ -1159,7 +1161,7 @@ class: middle
 
 --
 
-4. MR = en **super stærk og udbredt teori.** Men kan være vanskelig at skelne *empirisk* fra andre forklaringer (fordi motiver ikke kan observeres)
+4. MR = en **super stærk og udbredt teori.** Men kan være vanskelig at skelne *empirisk* fra andre forklaringer (fordi motiverne ikke kan observeres)
 
 --
 
