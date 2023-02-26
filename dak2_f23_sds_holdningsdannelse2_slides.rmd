@@ -89,7 +89,7 @@ Zaller's **Receive-Accept-Sample** (RAS)-model
 
 --
 
-- Ofte ser vi **elitedominerede holdninger** og sommetimer *polarisering* (bl.a. klimaområdet i USA, jf. Tesler)
+- Ofte ser vi **elitedominerede holdninger** og sommetimer *polarisering* (fx klima i USA)
 
 --
 
@@ -409,7 +409,7 @@ include_graphics("media/priorattitude.jpg")
 
 ## 3. Disconfirmation bias
 
-> "Greater scrutiny and counter-argumentation of information contrary to one’s prior beliefs (relative to information consistent with one’s prior beliefs)" (Druckman & McGrath 2019)
+> "Greater scrutiny and counter-argumentation of information contrary to one’s prior beliefs (relative to information consistent with one’s prior beliefs)"<br>(Druckman & McGrath 2019)
 
 - Man bruger flere kræfter på at efterprøve og modargumentere, når ny information udfordrer ens holdning - og påvirkes derfor *mindre*
 
@@ -526,8 +526,8 @@ include_graphics("media/taberlodge2.png")
 include_graphics("media/taberlodge1.png")
 ```
 
-- Primært fokus: Forskelle i vurderinger af Pro/Con argumenter (nabosøjler) for dem der selv er Pro/Con
-- Sekundært fokus: Forskel mellem Soph/Unsoph (*sofistikation*) og Strong/Weak (*styrke af prior*)
+- Primært fokus: Forskelle i vurderinger af **Pro/Con** argumenter (**nabosøjler**) for dem der selv er **Pro/Con**
+- Sekundært fokus: Forskel mellem **Soph/Unsoph** (*sofistikation*) og **Strong/Weak** (*styrke af prior*)
 
 ???
 
@@ -537,7 +537,7 @@ Figure 3
 class: center
 
 Bemærk at resultaterne er mest markante for **&darr; Soph** og **Strong &darr;** 
-```{r, out.width="70%"}
+```{r, out.width="67%"}
 include_graphics("media/taberlodge4.png")
 ```
 
@@ -567,7 +567,7 @@ include_graphics("media/taberlodge4.png")
 
 ---
 
-```{r, out.width="62%"}
+```{r, out.width="60%"}
 include_graphics("media/taberlodge5.png")
 ```
 
@@ -634,7 +634,7 @@ include_graphics("media/taberlodge3.png")
 # Confirmation bias (H3)
 
 .pull-left[
-- Primært fokus: **Pro argumenter (%)** for personer, der selv er **Pro** vs. **Con**
+- Primært fokus: **Pro argumenter (%)** for personer, der selv er **Pro** vs. **Con** (vs 50/50)
 
 - Sekundært fokus: **High Knowledge** (*Soph*)
 ]
@@ -650,17 +650,17 @@ include_graphics("media/taberlodge7.png")
 # Confirmation bias (H3)
 
 .pull-left[
-- Primært fokus: **Pro argumenter (%)** for personer, der selv er **Pro** vs. **Con**
+- Primært fokus: **Pro argumenter (%)** for personer, der selv er **Pro** vs. **Con** (vs 50/50)
 
 - Sekundært fokus: **High Knowledge** (*Soph*)
 
 **Resultat:**
 
-- I gennemsnit udvælges flest understøttende (Pro) argumenter
+- **Pro vælger flere Pro, Con vælger flere Con**
 
 - I høj grad drevet af **High Knowledge** (sofistikerede deltagere)
 
-    - "selected arguments from like-minded groups 70–75% of the time"
+    - "selected arguments from like-minded groups 70–75% of the time" 
     
     - mest politisk bevidste/sofisitikerede er altså klart **mest biased**
 
@@ -676,15 +676,13 @@ include_graphics("media/taberlodge7.png")
 
 # Sidste lille krølle
 
-- **Holdningspolarisering**
-
---
+<br>
 
 > **H4 (attitude polarization):** Selvom man udsættes for **balanceret information** om et emne (gode argumenter for og imod), vil ens holdning blive mere ekstrem af den nye information
 
 --
 
-- **Resultat:** stærk evidens for polarisering blandt
+- **Resultat:** stærk evidens for **holdningspolarisering** blandt
 
     - *sofistikerede* deltagere
 
@@ -704,7 +702,9 @@ include_graphics("media/taberlodge7.png")
 
 --
 
-- Samme grundlæggende spørgsmål: hvor kommer holdninger fra?
+<br>
+
+- Samme grundlæggende spørgsmål: **hvor kommer holdninger fra?**
 
 - Antagelse om at holdninger formes og forandres som **funktion af ny information**
 
@@ -762,6 +762,23 @@ class: title-slide, middle
 <br>
   
 ---
+class: middle
+
+## Motivated reasoning på klimaområdet
+<br>
+.center[
+```{r, out.width='75%'}
+include_graphics("media/sixamericas.png")
+```
+<br>.grey[Global Warming’s Six Americas (Leiserowitz et al. 2021)]]
+
+???
+
+```{r, out.width='75%', fig.cap="Global Warming’s Six Americas (Leiserowitz et al. 2021)"}
+include_graphics("media/sixamericas0.png")
+```
+
+---
 
 **Bayes & Druckman (2021)** tager udgangspunkt i den voldsomme partibaserede (*partisan*) **polarisering** i klimaholdninger &darr; 
 
@@ -818,7 +835,7 @@ include_graphics("media/bayestab1.png")
 
 ---
 
-# Alternativ forklaring i Bayes & Druckman (2021)
+# Alternativ forklaring i B&D
 
 - Motiveret af **nøjagtighed** men med forskellige opfattelser af (u)troværdige kilder til information
 
@@ -1055,15 +1072,15 @@ include_graphics("media/figure3_interaction_news.jpg")
     
 --
 
-- Menneskers informationsbehandling er stærkt begrænset af kognitive ressourcer, tid, etc.  
+- Menneskers informationsbehandling er stærkt **begrænset af kognitive ressourcer, tid**, etc.  
 
 --
 
-- Derfor er vi blevet gode til at tage "smutveje", som gør os i stand til at træffe *nogenlunde* beslutninger med minimale kognitive strabadser
+- Derfor er vi blevet gode til at tage **"smutveje"**, som gør os i stand til at træffe *nogenlunde* beslutninger med minimale kognitive strabadser
 
 --
 
-- Heuristikker anvendes af alle, men "virker" ikke lige godt for alle (Lau & Redlawsk 2001)
+- **Heuristikker** anvendes af alle, men "virker" ikke lige godt for alle (Lau & Redlawsk 2001)
 
 ---
 class: middle
@@ -1076,7 +1093,7 @@ include_graphics("media/systems.png")
 
 # Eksempler på konkrete politiske heuristikker
 
-.grey[Primær kilde: Lau & Redlawsk (2001)]
+.grey[_Primær kilde: Lau & Redlawsk (2001)_]
 
 <br>
 
